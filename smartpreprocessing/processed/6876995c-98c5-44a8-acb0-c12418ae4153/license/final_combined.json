@@ -1,0 +1,25 @@
+[
+    {
+        "run_id": "6876995c-98c5-44a8-acb0-c12418ae4153",
+        "document_type": "License",
+        "timestamp": "2025-04-19T09:55:00.669357",
+        "fields": {
+            "Unknown": "o Loozicol",
+            "Address": "Dumkibas 8 NawaloarasiLumbini",
+            "Citizenship Number": "36-02-75-06742 Category",
+            "License Number": "02 08-00915958",
+            "License Office": "kawa DOA 10-11-2001",
+            "Name": "MOHAN HHAPA MASHRA Address: Dumkibas 8 Nawalparasi Lumbini",
+            "Contact Number": "9825432727"
+        },
+        "confidences": {
+            "Unknown": 0.888,
+            "Address": 0.74,
+            "Citizenship Number": 0.616,
+            "License Number": 0.849,
+            "License Office": 0.539,
+            "Name": 0.525,
+            "Contact Number": 0.642
+        }
+    }
+]

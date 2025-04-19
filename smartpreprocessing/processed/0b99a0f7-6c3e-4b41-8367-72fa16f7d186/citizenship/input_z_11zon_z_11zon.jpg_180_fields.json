@@ -1,0 +1,8 @@
+{
+    "नागरिकता नम्बर": {
+        "ocr_text": "'नागरिकताको",
+        "confidence": 0.8,
+        "crop_image_path": "processed\\0b99a0f7-6c3e-4b41-8367-72fa16f7d186\\citizenship\\crops\\input_z_11zon_z_11zon.jpg_180_नागरिकता नम्बर_410_192.jpg",
+        "source_image": "input_z_11zon_z_11zon.jpg_180.jpg"
+    }
+}

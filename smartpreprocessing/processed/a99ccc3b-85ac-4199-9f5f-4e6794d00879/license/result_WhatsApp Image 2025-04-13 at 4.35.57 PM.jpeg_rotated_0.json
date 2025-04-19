@@ -1,0 +1,18 @@
+{
+    "fields": {
+        "Citizenship Number": {
+            "ocr_text": "५५५१८६५",
+            "crop_image_path": "processed\\a99ccc3b-85ac-4199-9f5f-4e6794d00879\\license\\crops\\WhatsApp Image 2025-04-13 at 4.35.57 PM.jpeg_rotated_0_Citizenship Number.jpg",
+            "source_image": "WhatsApp Image 2025-04-13 at 4.35.57 PM.jpeg_rotated_0.jpg"
+        },
+        "Name": {
+            "ocr_text": "म्ि कु ङ",
+            "crop_image_path": "processed\\a99ccc3b-85ac-4199-9f5f-4e6794d00879\\license\\crops\\WhatsApp Image 2025-04-13 at 4.35.57 PM.jpeg_rotated_0_Name.jpg",
+            "source_image": "WhatsApp Image 2025-04-13 at 4.35.57 PM.jpeg_rotated_0.jpg"
+        }
+    },
+    "confidences": {
+        "Citizenship Number": 0.8,
+        "Name": 0.8
+    }
+}

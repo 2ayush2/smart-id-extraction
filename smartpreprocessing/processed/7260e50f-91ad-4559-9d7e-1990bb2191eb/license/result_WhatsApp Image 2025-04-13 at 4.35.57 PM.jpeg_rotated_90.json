@@ -1,0 +1,30 @@
+{
+  "fields": {
+    "Text": {
+      "ocr_text": "Q Ss bey  NN  NK AMI   enens one a",
+      "crop_image_path": "processed/7260e50f-91ad-4559-9d7e-1990bb2191eb/license\\crops\\WhatsApp Image 2025-04-13 at 4.35.57 PM.jpeg_rotated_90_Text.jpg",
+      "source_image": "WhatsApp Image 2025-04-13 at 4.35.57 PM.jpeg_rotated_90"
+    },
+    "Text_1": {
+      "ocr_text": "j ne SS",
+      "crop_image_path": "processed/7260e50f-91ad-4559-9d7e-1990bb2191eb/license\\crops\\WhatsApp Image 2025-04-13 at 4.35.57 PM.jpeg_rotated_90_Text_1.jpg",
+      "source_image": "WhatsApp Image 2025-04-13 at 4.35.57 PM.jpeg_rotated_90"
+    },
+    "Text_2": {
+      "ocr_text": "Eg",
+      "crop_image_path": "processed/7260e50f-91ad-4559-9d7e-1990bb2191eb/license\\crops\\WhatsApp Image 2025-04-13 at 4.35.57 PM.jpeg_rotated_90_Text_2.jpg",
+      "source_image": "WhatsApp Image 2025-04-13 at 4.35.57 PM.jpeg_rotated_90"
+    },
+    "Text_3": {
+      "ocr_text": "_     C2  re d   VQ  a",
+      "crop_image_path": "processed/7260e50f-91ad-4559-9d7e-1990bb2191eb/license\\crops\\WhatsApp Image 2025-04-13 at 4.35.57 PM.jpeg_rotated_90_Text_3.jpg",
+      "source_image": "WhatsApp Image 2025-04-13 at 4.35.57 PM.jpeg_rotated_90"
+    }
+  },
+  "confidences": {
+    "Text": 0.8,
+    "Text_1": 0.8,
+    "Text_2": 0.8,
+    "Text_3": 0.8
+  }
+}

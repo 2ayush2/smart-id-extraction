@@ -1,0 +1,14 @@
+{
+    "Gender": {
+        "ocr_text": "Male",
+        "confidence": 0.8,
+        "crop_image_path": "processed\\601bf5a1-3946-4128-a46b-928cb26ddc01\\citizenship\\ocr_results\\input_20250418_121509_702592_0\\crops\\input_20250418_121509_702592_0_0_90_Gender_424_725.jpg",
+        "source_image": "input_20250418_121509_702592_0_0_90.jpg"
+    },
+    "Date of Birth": {
+        "ocr_text": "6240-80-30",
+        "confidence": 0.8,
+        "crop_image_path": "processed\\601bf5a1-3946-4128-a46b-928cb26ddc01\\citizenship\\ocr_results\\input_20250418_121509_702592_0\\crops\\input_20250418_121509_702592_0_0_90_Date of Birth_470_23.jpg",
+        "source_image": "input_20250418_121509_702592_0_0_90.jpg"
+    }
+}

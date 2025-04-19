@@ -1,0 +1,8 @@
+{
+    "Gender": {
+        "ocr_text": "Male",
+        "confidence": 0.8,
+        "crop_image_path": "processed\\0b99a0f7-6c3e-4b41-8367-72fa16f7d186\\citizenship\\crops\\input_z_11zon_z_11zon.jpg_90_Gender_424_725.jpg",
+        "source_image": "input_z_11zon_z_11zon.jpg_90.jpg"
+    }
+}

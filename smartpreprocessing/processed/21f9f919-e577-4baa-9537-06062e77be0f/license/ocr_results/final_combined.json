@@ -1,0 +1,19 @@
+{
+    "document_type": "License",
+    "fields": {
+        "name": "Samsul Ansari",
+        "address": "Ess: Ramtid@iya Bhawadi-9, Bho Geboplana Pur/nep Ety Ngeibsose2057 Category: Dio, 21721-2024 Pdssporgno: Wie D.giemig=11-2029 Pnongino:: Wali Ry"
+    },
+    "confidences": {
+        "name": 0.8,
+        "address": 0.8
+    },
+    "source_images": [
+        "input_20250418_114622_793444_0_0_180.jpg",
+        "input_20250418_114622_793444_0_0_final_bw.jpg",
+        "input_20250418_114622_793444_0_0_final.jpg",
+        "input_20250418_114622_793444_0_0_90.jpg",
+        "input_20250418_114622_793444_0_0_0.jpg",
+        "input_20250418_114622_793444_0_0_270.jpg"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "Name": {
+        "ocr_text": "Samsul Ansari",
+        "confidence": 0.8,
+        "crop_image_path": "processed\\21f9f919-e577-4baa-9537-06062e77be0f\\license\\ocr_results\\input_20250418_114622_793444_0\\crops\\input_20250418_114622_793444_0_0_180_Name_238_204.jpg",
+        "source_image": "input_20250418_114622_793444_0_0_180.jpg"
+    },
+    "Address": {
+        "ocr_text": "Ess: Ramtid@iya Bhawadi-9, Bho Geboplana Pur/nep Ety Ngeibsose2057 Category: Dio, 21721-2024 Pdssporgno: Wie D.giemig=11-2029 Pnongino:: Wali Ry",
+        "confidence": 0.8,
+        "crop_image_path": "processed\\21f9f919-e577-4baa-9537-06062e77be0f\\license\\ocr_results\\input_20250418_114622_793444_0\\crops\\whole_image_field_0.jpg",
+        "source_image": "input_20250418_114622_793444_0_0_180.jpg"
+    }
+}

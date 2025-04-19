@@ -1,0 +1,50 @@
+{
+    "fields": {
+        "Passport Number": {
+            "ocr_text": "PA2945880"
+        },
+        "Surname": {
+            "ocr_text": "KHADKA"
+        },
+        "Given Name": {
+            "ocr_text": "NABINASKKKKKKKKKKKKKKKKKEKKKKKS"
+        },
+        "Nationality": {
+            "ocr_text": "NPL"
+        },
+        "Date of Birth": {
+            "ocr_text": ""
+        },
+        "Place of Birth": {
+            "ocr_text": ""
+        },
+        "Sex": {
+            "ocr_text": "F"
+        },
+        "Date of Issue": {
+            "ocr_text": ""
+        },
+        "Date of Expiration": {
+            "ocr_text": "25/09/2034"
+        },
+        "Issuing Authority": {
+            "ocr_text": ""
+        },
+        "MRZ": {
+            "ocr_text": "PENPLKHADKA<<NABINASKKKKKKKKKKKKKKKKKEKKKKKS\nPA29458807NPLOOD6220F3409257 12017401605<<<9"
+        }
+    },
+    "confidences": {
+        "Passport Number": 0.9,
+        "Surname": 0.9,
+        "Given Name": 0.9,
+        "Nationality": 0.9,
+        "Date of Birth": 0.9,
+        "Place of Birth": 0.9,
+        "Sex": 0.9,
+        "Date of Issue": 0.9,
+        "Date of Expiration": 0.9,
+        "Issuing Authority": 0.9,
+        "MRZ": 0.9
+    }
+}

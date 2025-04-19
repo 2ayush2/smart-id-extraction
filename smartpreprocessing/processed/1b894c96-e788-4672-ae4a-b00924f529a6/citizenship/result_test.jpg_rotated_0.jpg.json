@@ -1,0 +1,140 @@
+{
+    "fields": {
+        "\u0926\u094d\u093f\u0902\u092a\u0941\u0919\u091a\u0907\u091a\u0928\u093e": {
+            "ocr_text": "\u0917\u09372 2 \u0916\u0922\u093e\u0921",
+            "confidence": 0.931,
+            "crop_image_path": "processed/1b894c96-e788-4672-ae4a-b00924f529a6/citizenship\\crops\\test.jpg_rotated_0_rotated_0_\u0926\u094d\u093f\u0902\u092a\u0941\u0919\u091a\u0907\u091a\u0928\u093e_376_684.jpg",
+            "source_image": "test.jpg_rotated_0.jpg"
+        },
+        "39": {
+            "ocr_text": "022060283",
+            "confidence": 0.633,
+            "crop_image_path": "processed/1b894c96-e788-4672-ae4a-b00924f529a6/citizenship\\crops\\test.jpg_rotated_0_rotated_0_39_25_231.jpg",
+            "source_image": "test.jpg_rotated_0.jpg"
+        },
+        "0869": {
+            "ocr_text": "08038",
+            "confidence": 0.679,
+            "crop_image_path": "processed/1b894c96-e788-4672-ae4a-b00924f529a6/citizenship\\crops\\test.jpg_rotated_0_rotated_90_0869_635_17.jpg",
+            "source_image": "test.jpg_rotated_0.jpg"
+        },
+        "3286": {
+            "ocr_text": "22915993",
+            "confidence": 0.461,
+            "crop_image_path": "processed/1b894c96-e788-4672-ae4a-b00924f529a6/citizenship\\crops\\test.jpg_rotated_0_rotated_90_3286_377_643.jpg",
+            "source_image": "test.jpg_rotated_0.jpg"
+        },
+        "\u0938\u094d\u0925\u093e\u092f\u0940 \u0920\u0947\u0917\u093e\u0928\u093e": {
+            "ocr_text": "\u0965",
+            "confidence": 0.948,
+            "crop_image_path": "processed/1b894c96-e788-4672-ae4a-b00924f529a6/citizenship\\crops\\test.jpg_rotated_0_rotated_270_\u0938\u094d\u0925\u093e\u092f\u0940 \u0920\u0947\u0917\u093e\u0928\u093e_8_991.jpg",
+            "source_image": "test.jpg_rotated_0.jpg"
+        },
+        "\u0928\u091a": {
+            "ocr_text": "9820:063989",
+            "confidence": 0.863,
+            "crop_image_path": "processed/1b894c96-e788-4672-ae4a-b00924f529a6/citizenship\\crops\\test.jpg_rotated_0_rotated_270_\u0928\u091a_217_780.jpg",
+            "source_image": "test.jpg_rotated_0.jpg"
+        },
+        "090": {
+            "ocr_text": "06030",
+            "confidence": 0.812,
+            "crop_image_path": "processed/1b894c96-e788-4672-ae4a-b00924f529a6/citizenship\\crops\\test.jpg_rotated_0_rotated_270_090_223_789.jpg",
+            "source_image": "test.jpg_rotated_0.jpg"
+        },
+        "\u0928\u093e\u092e": {
+            "ocr_text": "",
+            "confidence": 0.0,
+            "crop_image_path": "",
+            "source_image": "test.jpg_rotated_0.jpg"
+        },
+        "\u092c\u0941\u092c\u093e\u0915\u094b \u0928\u093e\u092e": {
+            "ocr_text": "",
+            "confidence": 0.0,
+            "crop_image_path": "",
+            "source_image": "test.jpg_rotated_0.jpg"
+        },
+        "\u0906\u092e\u093e\u0915\u094b \u0928\u093e\u092e": {
+            "ocr_text": "",
+            "confidence": 0.0,
+            "crop_image_path": "",
+            "source_image": "test.jpg_rotated_0.jpg"
+        },
+        "\u092c\u093e\u091c\u0947\u0915\u094b \u0928\u093e\u092e": {
+            "ocr_text": "",
+            "confidence": 0.0,
+            "crop_image_path": "",
+            "source_image": "test.jpg_rotated_0.jpg"
+        },
+        "\u092a\u0924\u093f/\u092a\u0924\u094d\u0928\u0940\u0915\u094b \u0928\u093e\u092e": {
+            "ocr_text": "",
+            "confidence": 0.0,
+            "crop_image_path": "",
+            "source_image": "test.jpg_rotated_0.jpg"
+        },
+        "\u0932\u093f\u0919\u094d\u0917": {
+            "ocr_text": "",
+            "confidence": 0.0,
+            "crop_image_path": "",
+            "source_image": "test.jpg_rotated_0.jpg"
+        },
+        "\u0905\u0938\u094d\u0925\u093e\u092f\u0940 \u0920\u0947\u0917\u093e\u0928\u093e": {
+            "ocr_text": "",
+            "confidence": 0.0,
+            "crop_image_path": "",
+            "source_image": "test.jpg_rotated_0.jpg"
+        },
+        "\u091c\u0928\u094d\u092e \u092e\u093f\u0924\u093f": {
+            "ocr_text": "",
+            "confidence": 0.0,
+            "crop_image_path": "",
+            "source_image": "test.jpg_rotated_0.jpg"
+        },
+        "\u091c\u0928\u094d\u092e \u0938\u094d\u0925\u093e\u0928": {
+            "ocr_text": "",
+            "confidence": 0.0,
+            "crop_image_path": "",
+            "source_image": "test.jpg_rotated_0.jpg"
+        },
+        "\u0928\u093e\u0917\u0930\u093f\u0915\u0924\u093e \u0928\u0902": {
+            "ocr_text": "",
+            "confidence": 0.0,
+            "crop_image_path": "",
+            "source_image": "test.jpg_rotated_0.jpg"
+        },
+        "\u091c\u093e\u0930\u0940 \u091c\u093f\u0932\u094d\u0932\u093e": {
+            "ocr_text": "",
+            "confidence": 0.0,
+            "crop_image_path": "",
+            "source_image": "test.jpg_rotated_0.jpg"
+        },
+        "\u091c\u093e\u0930\u0940 \u092e\u093f\u0924\u093f": {
+            "ocr_text": "",
+            "confidence": 0.0,
+            "crop_image_path": "",
+            "source_image": "test.jpg_rotated_0.jpg"
+        }
+    },
+    "confidences": {
+        "\u0926\u094d\u093f\u0902\u092a\u0941\u0919\u091a\u0907\u091a\u0928\u093e": 0.931,
+        "39": 0.633,
+        "0869": 0.679,
+        "3286": 0.461,
+        "\u0938\u094d\u0925\u093e\u092f\u0940 \u0920\u0947\u0917\u093e\u0928\u093e": 0.948,
+        "\u0928\u091a": 0.863,
+        "090": 0.812,
+        "\u0928\u093e\u092e": 0.0,
+        "\u092c\u0941\u092c\u093e\u0915\u094b \u0928\u093e\u092e": 0.0,
+        "\u0906\u092e\u093e\u0915\u094b \u0928\u093e\u092e": 0.0,
+        "\u092c\u093e\u091c\u0947\u0915\u094b \u0928\u093e\u092e": 0.0,
+        "\u092a\u0924\u093f/\u092a\u0924\u094d\u0928\u0940\u0915\u094b \u0928\u093e\u092e": 0.0,
+        "\u0932\u093f\u0919\u094d\u0917": 0.0,
+        "\u0905\u0938\u094d\u0925\u093e\u092f\u0940 \u0920\u0947\u0917\u093e\u0928\u093e": 0.0,
+        "\u091c\u0928\u094d\u092e \u092e\u093f\u0924\u093f": 0.0,
+        "\u091c\u0928\u094d\u092e \u0938\u094d\u0925\u093e\u0928": 0.0,
+        "\u0928\u093e\u0917\u0930\u093f\u0915\u0924\u093e \u0928\u0902": 0.0,
+        "\u091c\u093e\u0930\u0940 \u091c\u093f\u0932\u094d\u0932\u093e": 0.0,
+        "\u091c\u093e\u0930\u0940 \u092e\u093f\u0924\u093f": 0.0
+    },
+    "annotated_path": "processed/1b894c96-e788-4672-ae4a-b00924f529a6/citizenship\\annotated_test.jpg_rotated_0.jpg"
+}

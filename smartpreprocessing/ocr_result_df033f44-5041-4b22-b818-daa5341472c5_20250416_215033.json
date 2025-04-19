@@ -1,0 +1,18 @@
+{
+    "document_type": "License",
+    "fields": {
+        "unknown": "Citizenshlp No : 2153/152",
+        "date of birth": "12-12-1970",
+        "name": "SITA BHATTARAI",
+        "address": "Bayaman 08 Varang Koshl Nep"
+    },
+    "confidences": {
+        "unknown": 0.836,
+        "date of birth": 0.819,
+        "name": 0.828,
+        "address": 0.567
+    },
+    "source_images": [
+        "input_20250416_214947_328572_0.jpg"
+    ]
+}

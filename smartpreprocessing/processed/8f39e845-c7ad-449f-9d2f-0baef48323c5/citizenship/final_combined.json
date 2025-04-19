@@ -1,0 +1,13 @@
+[
+    {
+        "run_id": "8f39e845-c7ad-449f-9d2f-0baef48323c5",
+        "document_type": "Citizenship",
+        "timestamp": "2025-04-19T10:32:35.168665",
+        "fields": {
+            "Selfie": "Face detected"
+        },
+        "confidences": {
+            "Selfie": 0.8432326912879944
+        }
+    }
+]

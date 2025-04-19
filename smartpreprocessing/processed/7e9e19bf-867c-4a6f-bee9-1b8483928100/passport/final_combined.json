@@ -1,0 +1,33 @@
+[
+    {
+        "run_id": "7e9e19bf-867c-4a6f-bee9-1b8483928100",
+        "document_type": "Passport",
+        "timestamp": "2025-04-19T02:07:02.974638",
+        "fields": {
+            "Passport Number": "PA2945880",
+            "Surname": "KHADKA",
+            "Given Name": "NABINASKKKKKKKKKKKKKKKKKEKKKKKS",
+            "Nationality": "NPL",
+            "Date of Birth": "",
+            "Place of Birth": "",
+            "Sex": "F",
+            "Date of Issue": "",
+            "Date of Expiration": "25/09/2034",
+            "Issuing Authority": "",
+            "MRZ": "PENPLKHADKA<<NABINASKKKKKKKKKKKKKKKKKEKKKKKS\nPA29458807NPLOOD6220F3409257 12017401605<<<9"
+        },
+        "confidences": {
+            "Passport Number": 0.9,
+            "Surname": 0.9,
+            "Given Name": 0.9,
+            "Nationality": 0.9,
+            "Date of Birth": 0.9,
+            "Place of Birth": 0.9,
+            "Sex": 0.9,
+            "Date of Issue": 0.9,
+            "Date of Expiration": 0.9,
+            "Issuing Authority": 0.9,
+            "MRZ": 0.9
+        }
+    }
+]

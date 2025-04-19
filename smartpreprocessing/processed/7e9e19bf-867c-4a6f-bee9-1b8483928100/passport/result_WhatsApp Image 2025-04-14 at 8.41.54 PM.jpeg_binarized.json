@@ -1,0 +1,50 @@
+{
+    "fields": {
+        "Passport Number": {
+            "ocr_text": "PAZP4S880"
+        },
+        "Surname": {
+            "ocr_text": "KIADKA KHABINA"
+        },
+        "Given Name": {
+            "ocr_text": "8     4   K KKK 8"
+        },
+        "Nationality": {
+            "ocr_text": "NPL"
+        },
+        "Date of Birth": {
+            "ocr_text": ""
+        },
+        "Place of Birth": {
+            "ocr_text": ""
+        },
+        "Sex": {
+            "ocr_text": "F"
+        },
+        "Date of Issue": {
+            "ocr_text": ""
+        },
+        "Date of Expiration": {
+            "ocr_text": "25/09/2034"
+        },
+        "Issuing Authority": {
+            "ocr_text": ""
+        },
+        "MRZ": {
+            "ocr_text": "P<KPLKIADKA<KHABINA<<<<<<8<<<<<4<<<K<KKK<8<<\nPAZP4S8807NPLO006220F340925712017K01605<<<94"
+        }
+    },
+    "confidences": {
+        "Passport Number": 0.85,
+        "Surname": 0.85,
+        "Given Name": 0.85,
+        "Nationality": 0.85,
+        "Date of Birth": 0.85,
+        "Place of Birth": 0.85,
+        "Sex": 0.85,
+        "Date of Issue": 0.85,
+        "Date of Expiration": 0.85,
+        "Issuing Authority": 0.85,
+        "MRZ": 0.85
+    }
+}

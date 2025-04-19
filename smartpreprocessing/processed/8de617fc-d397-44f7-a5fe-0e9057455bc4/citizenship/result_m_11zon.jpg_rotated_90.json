@@ -1,0 +1,18 @@
+{
+    "fields": {
+        "Issued Date": {
+            "ocr_text": "०७००-६१-३०",
+            "crop_image_path": "processed/8de617fc-d397-44f7-a5fe-0e9057455bc4/citizenship\\crops\\m_11zon.jpg_rotated_90_Issued Date.jpg",
+            "source_image": "m_11zon.jpg_rotated_90.jpg"
+        },
+        "Permanent Address": {
+            "ocr_text": "४-००५५९८ सामचर मुवन लुहागुन न्म स्थान जिल्ला तेषटथुम",
+            "crop_image_path": "processed/8de617fc-d397-44f7-a5fe-0e9057455bc4/citizenship\\crops\\m_11zon.jpg_rotated_90_Permanent Address.jpg",
+            "source_image": "m_11zon.jpg_rotated_90.jpg"
+        }
+    },
+    "confidences": {
+        "Issued Date": 0.8,
+        "Permanent Address": 0.8
+    }
+}

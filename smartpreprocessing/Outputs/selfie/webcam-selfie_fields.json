@@ -1,0 +1,8 @@
+{
+    "Selfie": {
+        "ocr_text": "Face detected",
+        "confidence": 0.9,
+        "crop_image_path": "Outputs\\selfie\\crops\\selfie_face_webcam-selfie.jpg",
+        "source_image": "webcam-selfie.jpg"
+    }
+}

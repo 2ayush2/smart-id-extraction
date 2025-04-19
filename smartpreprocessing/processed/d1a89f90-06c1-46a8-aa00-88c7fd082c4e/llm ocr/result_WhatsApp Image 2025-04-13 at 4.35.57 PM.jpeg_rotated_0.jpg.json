@@ -1,0 +1,57 @@
+{
+    "fields": {
+        "Name": {
+            "ocr_text": "MOHAN THAPA MASHRANGI",
+            "confidence": 0.9,
+            "crop_image_path": "",
+            "source_image": "WhatsApp Image 2025-04-13 at 4.35.57 PM.jpeg_rotated_0.jpg"
+        },
+        "Date of Birth": {
+            "ocr_text": "10-11-2001",
+            "confidence": 0.9,
+            "crop_image_path": "",
+            "source_image": "WhatsApp Image 2025-04-13 at 4.35.57 PM.jpeg_rotated_0.jpg"
+        },
+        "National ID": {
+            "ocr_text": "36-02-75-06742",
+            "confidence": 0.9,
+            "crop_image_path": "",
+            "source_image": "WhatsApp Image 2025-04-13 at 4.35.57 PM.jpeg_rotated_0.jpg"
+        },
+        "Gender": {
+            "ocr_text": "",
+            "confidence": 0.0,
+            "crop_image_path": "",
+            "source_image": "WhatsApp Image 2025-04-13 at 4.35.57 PM.jpeg_rotated_0.jpg"
+        },
+        "Expiry Date": {
+            "ocr_text": "08-03-2026",
+            "confidence": 0.9,
+            "crop_image_path": "",
+            "source_image": "WhatsApp Image 2025-04-13 at 4.35.57 PM.jpeg_rotated_0.jpg"
+        },
+        "Address": {
+            "ocr_text": "Dumkibas, Nawalparasi, Lumbini, Nepal",
+            "confidence": 0.9,
+            "crop_image_path": "",
+            "source_image": "WhatsApp Image 2025-04-13 at 4.35.57 PM.jpeg_rotated_0.jpg"
+        },
+        "Nationality": {
+            "ocr_text": "Nepal",
+            "confidence": 0.9,
+            "crop_image_path": "",
+            "source_image": "WhatsApp Image 2025-04-13 at 4.35.57 PM.jpeg_rotated_0.jpg"
+        }
+    },
+    "confidences": {
+        "Name": 0.9,
+        "Date of Birth": 0.9,
+        "National ID": 0.9,
+        "Gender": 0.0,
+        "Expiry Date": 0.9,
+        "Address": 0.9,
+        "Nationality": 0.9
+    },
+    "annotated_path": "processed/d1a89f90-06c1-46a8-aa00-88c7fd082c4e/llm ocr\\annotated_WhatsApp Image 2025-04-13 at 4.35.57 PM.jpeg_rotated_0.jpg",
+    "score": 0
+}

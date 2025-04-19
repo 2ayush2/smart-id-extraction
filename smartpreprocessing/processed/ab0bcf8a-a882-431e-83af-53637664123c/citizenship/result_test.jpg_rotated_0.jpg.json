@@ -1,0 +1,14 @@
+{
+    "fields": {
+        "\u0905\u091c\u094d\u091e\u093e\u0924": {
+            "ocr_text": "",
+            "confidence": 0.948,
+            "crop_image_path": "processed/ab0bcf8a-a882-431e-83af-53637664123c/citizenship\\crops\\test.jpg_rotated_0_rotated_270_\u0905\u091c\u094d\u091e\u093e\u0924_14_998.jpg",
+            "source_image": "test.jpg_rotated_0.jpg"
+        }
+    },
+    "confidences": {
+        "\u0905\u091c\u094d\u091e\u093e\u0924": 0.948
+    },
+    "annotated_path": "processed/ab0bcf8a-a882-431e-83af-53637664123c/citizenship\\annotated_test.jpg_rotated_0.jpg"
+}

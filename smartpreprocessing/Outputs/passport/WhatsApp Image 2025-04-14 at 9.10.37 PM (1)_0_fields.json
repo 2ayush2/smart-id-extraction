@@ -1,0 +1,42 @@
+{
+    "passport_number": {
+        "ocr_text": "PA2926222",
+        "confidence": 0.85
+    },
+    "surname": {
+        "ocr_text": "KHADKA",
+        "confidence": 0.85
+    },
+    "given_name": {
+        "ocr_text": "ADITYAKKRKKKKKKKKKKKKKKKKKKKKKK",
+        "confidence": 0.85
+    },
+    "nationality": {
+        "ocr_text": "NPL",
+        "confidence": 0.85
+    },
+    "date_of_birth": {
+        "ocr_text": "000508",
+        "confidence": 0.85
+    },
+    "place_of_birth": {
+        "ocr_text": "",
+        "confidence": 0.85
+    },
+    "sex": {
+        "ocr_text": "U",
+        "confidence": 0.85
+    },
+    "date_of_issue": {
+        "ocr_text": "",
+        "confidence": 0.85
+    },
+    "date_of_expiration": {
+        "ocr_text": "",
+        "confidence": 0.85
+    },
+    "issuing_authority": {
+        "ocr_text": "",
+        "confidence": 0.85
+    }
+}

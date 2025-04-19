@@ -1,0 +1,21 @@
+[
+    {
+        "run_id": "e7d7534b-b4c0-4b0f-8ccb-d3a5e7e46aa7",
+        "document_type": "License",
+        "timestamp": "2025-04-19T18:47:26.948361",
+        "fields": {
+            "License Number": "1077986",
+            "Address": "91Iin83",
+            "Name": "Samsul Ansari Addrecc Docndcivakhewcdi",
+            "License Office": "Trxuins",
+            "Citizenship Number": "76903520"
+        },
+        "confidences": {
+            "License Number": 0.809,
+            "Address": 0.779,
+            "Name": 0.779,
+            "License Office": 0.632,
+            "Citizenship Number": 0.632
+        }
+    }
+]

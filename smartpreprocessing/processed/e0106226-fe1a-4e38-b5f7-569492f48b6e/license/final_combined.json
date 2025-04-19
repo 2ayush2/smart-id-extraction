@@ -1,0 +1,15 @@
+[
+    {
+        "run_id": "e0106226-fe1a-4e38-b5f7-569492f48b6e",
+        "document_type": "License",
+        "timestamp": "2025-04-19T07:41:43.397833",
+        "fields": {
+            "Name": "SAMSUL ANSARI",
+            "Address": "Ramadaiya bhawadi-9 Dhansha Janakpur Nepc"
+        },
+        "confidences": {
+            "Name": 0.542,
+            "Address": 0.503
+        }
+    }
+]

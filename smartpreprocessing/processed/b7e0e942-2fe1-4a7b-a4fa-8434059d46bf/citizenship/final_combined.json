@@ -1,0 +1,17 @@
+[
+    {
+        "run_id": "b7e0e942-2fe1-4a7b-a4fa-8434059d46bf",
+        "document_type": "Citizenship",
+        "timestamp": "2025-04-18T21:42:42.244584",
+        "fields": {
+            "status": "No fields detected",
+            "Permanent Address": "0 लि wa: terms जिल्ला काठमाडौँ irae sen सिल २०५३ महिना to maw शर हुनराज es ava",
+            "नागरिकता नम्बर": "लागरिकताकौ |"
+        },
+        "confidences": {
+            "status": 0.0,
+            "Permanent Address": 0.8,
+            "नागरिकता नम्बर": 0.8
+        }
+    }
+]

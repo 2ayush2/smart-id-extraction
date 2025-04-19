@@ -1,0 +1,13 @@
+{
+    "document_type": "Citizenship",
+    "fields": {},
+    "confidences": {},
+    "source_images": [
+        "input_20250418_114313_399963_0_0_0.jpg",
+        "input_20250418_114313_399963_0_0_final.jpg",
+        "input_20250418_114313_399963_0_0_final_bw.jpg",
+        "input_20250418_114313_399963_0_0_90.jpg",
+        "input_20250418_114313_399963_0_0_270.jpg",
+        "input_20250418_114313_399963_0_0_180.jpg"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "fields": {
+        "Category": {
+            "ocr_text": "ry: A",
+            "crop_image_path": "processed\\50a51d8f-99ca-4a94-aa25-13b02281a40f\\license\\crops\\WhatsApp Image 2025-04-13 at 12.56.28 PM.jpeg_rotated_90_Category.jpg",
+            "source_image": "WhatsApp Image 2025-04-13 at 12.56.28 PM.jpeg_rotated_90.jpg"
+        },
+        "error": {
+            "ocr_text": "YOLO prediction failed: name 'value' is not defined",
+            "crop_image_path": "",
+            "source_image": "WhatsApp Image 2025-04-13 at 12.56.28 PM.jpeg_rotated_90.jpg"
+        }
+    },
+    "confidences": {
+        "Category": 0.8,
+        "error": 0.0
+    }
+}

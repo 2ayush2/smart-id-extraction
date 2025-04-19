@@ -1,0 +1,42 @@
+{
+    "fields": {
+        "License Number": {
+            "ocr_text": "02-08-00915958",
+            "confidence": 0.822,
+            "crop_image_path": "processed/87646422-3aed-4650-9235-4bfd8c8b86bd/license\\crops\\WhatsApp Image 2025-04-13 at 4.35.57 PM.jpeg_rotated_90_rotated_0_License Number_153_1039.jpg",
+            "source_image": "WhatsApp Image 2025-04-13 at 4.35.57 PM.jpeg_rotated_90.jpg"
+        },
+        "Address": {
+            "ocr_text": "Dumkibas 8 NawaloarasiLumbini",
+            "confidence": 0.74,
+            "crop_image_path": "processed/87646422-3aed-4650-9235-4bfd8c8b86bd/license\\crops\\WhatsApp Image 2025-04-13 at 4.35.57 PM.jpeg_rotated_90_rotated_0_Address_286_364.jpg",
+            "source_image": "WhatsApp Image 2025-04-13 at 4.35.57 PM.jpeg_rotated_90.jpg"
+        },
+        "Unknown": {
+            "ocr_text": "0 Loozicol",
+            "confidence": 0.9,
+            "crop_image_path": "processed/87646422-3aed-4650-9235-4bfd8c8b86bd/license\\crops\\WhatsApp Image 2025-04-13 at 4.35.57 PM.jpeg_rotated_90_rotated_270_Unknown_631_440.jpg",
+            "source_image": "WhatsApp Image 2025-04-13 at 4.35.57 PM.jpeg_rotated_90.jpg"
+        },
+        "Contact Number": {
+            "ocr_text": "9825432727",
+            "confidence": 0.64,
+            "crop_image_path": "processed/87646422-3aed-4650-9235-4bfd8c8b86bd/license\\crops\\WhatsApp Image 2025-04-13 at 4.35.57 PM.jpeg_rotated_90_rotated_90_Contact Number_551_767.jpg",
+            "source_image": "WhatsApp Image 2025-04-13 at 4.35.57 PM.jpeg_rotated_90.jpg"
+        },
+        "Category": {
+            "ocr_text": "",
+            "confidence": 0.593,
+            "crop_image_path": "processed/87646422-3aed-4650-9235-4bfd8c8b86bd/license\\crops\\WhatsApp Image 2025-04-13 at 4.35.57 PM.jpeg_rotated_90_rotated_180_Category_278_536.jpg",
+            "source_image": "WhatsApp Image 2025-04-13 at 4.35.57 PM.jpeg_rotated_90.jpg"
+        }
+    },
+    "confidences": {
+        "License Number": 0.822,
+        "Address": 0.74,
+        "Unknown": 0.9,
+        "Contact Number": 0.64,
+        "Category": 0.593
+    },
+    "annotated_path": "processed/87646422-3aed-4650-9235-4bfd8c8b86bd/license\\annotated_WhatsApp Image 2025-04-13 at 4.35.57 PM.jpeg_rotated_90.jpg"
+}

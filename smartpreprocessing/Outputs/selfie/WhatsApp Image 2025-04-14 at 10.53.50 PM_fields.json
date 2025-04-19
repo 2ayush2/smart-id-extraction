@@ -1,0 +1,8 @@
+{
+    "Selfie": {
+        "ocr_text": "Face detected",
+        "confidence": 0.9,
+        "crop_image_path": "Outputs\\selfie\\crops\\selfie_face_WhatsApp Image 2025-04-14 at 10.53.50 PM.jpeg",
+        "source_image": "WhatsApp Image 2025-04-14 at 10.53.50 PM.jpeg"
+    }
+}

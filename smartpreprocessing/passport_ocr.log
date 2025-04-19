@@ -1,0 +1,21 @@
+2025-04-18 12:37:28,323 - INFO - YOLO model loaded: yolo_models/lisc.pt
+2025-04-18 12:37:28,323 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-04-18 12:37:30,987 - INFO - EasyOCR initialized for English
+2025-04-18 12:37:31,271 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-04-18 12:39:51,803 - INFO - YOLO model loaded: yolo_models/lisc.pt
+2025-04-18 12:39:51,804 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-04-18 12:39:54,713 - INFO - EasyOCR initialized for English
+2025-04-18 12:39:54,742 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-04-18 12:40:00,928 - WARNING - deepface not installed. Face verification will be skipped.
+2025-04-18 12:40:17,160 - INFO - YOLO model loaded: yolo_models/lisc.pt
+2025-04-18 12:40:17,161 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-04-18 12:40:19,430 - INFO - EasyOCR initialized for English
+2025-04-18 12:40:19,433 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-04-18 12:40:21,779 - WARNING - deepface not installed. Face verification will be skipped.
+2025-04-18 12:49:02,412 - INFO - Processing 1 images for Citizenship (Run ID: 86ddf181-5bdd-42c8-b39a-fb384a0d425c)
+2025-04-18 12:49:40,529 - WARNING - No MRZ detected for processed\86ddf181-5bdd-42c8-b39a-fb384a0d425c\q_11zon.jpg, using fallback OCR
+2025-04-18 12:50:35,514 - ERROR - Fallback OCR failed: list index out of range
+2025-04-18 12:50:35,515 - WARNING - No valid data extracted from processed\86ddf181-5bdd-42c8-b39a-fb384a0d425c\q_11zon.jpg
+2025-04-18 12:50:35,534 - INFO - Combining results for Citizenship in processed\86ddf181-5bdd-42c8-b39a-fb384a0d425c
+2025-04-18 12:50:35,589 - WARNING - No JSON result files found in processed\86ddf181-5bdd-42c8-b39a-fb384a0d425c
+2025-04-18 12:50:35,589 - ERROR - Processing failed for Run ID 86ddf181-5bdd-42c8-b39a-fb384a0d425c: string indices must be integers

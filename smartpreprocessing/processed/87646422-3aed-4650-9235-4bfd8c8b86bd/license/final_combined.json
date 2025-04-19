@@ -1,0 +1,19 @@
+[
+    {
+        "run_id": "87646422-3aed-4650-9235-4bfd8c8b86bd",
+        "document_type": "License",
+        "timestamp": "2025-04-19T07:57:09.405360",
+        "fields": {
+            "License Number": "02-08-00915958",
+            "Address": "Dumkibas 8 NawaloarasiLumbini",
+            "Unknown": "0 Loozicol",
+            "Contact Number": "9825432727"
+        },
+        "confidences": {
+            "License Number": 0.822,
+            "Address": 0.74,
+            "Unknown": 0.9,
+            "Contact Number": 0.64
+        }
+    }
+]

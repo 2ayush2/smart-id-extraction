@@ -1,0 +1,80 @@
+{
+    "Permanent Address": {
+        "ocr_text": "नम थर वशवजत तवर\n जनम सथन जलल बक\n\nयनन स प पय प नक",
+        "confidence": 0.773,
+        "crop_image_path": "processed/349c3fd2-04a3-4977-b033-7d540692cefd/citizenship\\crops\\l_11zon.jpeg_rotated_0_rotated_270_Permanent Address_256_350.jpg",
+        "source_image": "l_11zon.jpeg_rotated_0.jpg"
+    },
+    "Father's Name": {
+        "ocr_text": "क\n\n७०:७ ०-/० २० ६",
+        "confidence": 0.797,
+        "crop_image_path": "processed/349c3fd2-04a3-4977-b033-7d540692cefd/citizenship\\crops\\l_11zon.jpeg_rotated_0_rotated_180_Father's Name_256_354.jpg",
+        "source_image": "l_11zon.jpeg_rotated_0.jpg"
+    },
+    "Gender": {
+        "ocr_text": "प०:४ ३०० र",
+        "confidence": 0.637,
+        "crop_image_path": "processed/349c3fd2-04a3-4977-b033-7d540692cefd/citizenship\\crops\\l_11zon.jpeg_rotated_0_rotated_270_Gender_75_508.jpg",
+        "source_image": "l_11zon.jpeg_rotated_0.jpg"
+    },
+    "Name": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "l_11zon.jpeg_rotated_0.jpg"
+    },
+    "Mother's Name": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "l_11zon.jpeg_rotated_0.jpg"
+    },
+    "Date of Birth": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "l_11zon.jpeg_rotated_0.jpg"
+    },
+    "Place of Birth": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "l_11zon.jpeg_rotated_0.jpg"
+    },
+    "Temporary Address": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "l_11zon.jpeg_rotated_0.jpg"
+    },
+    "Citizenship Number": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "l_11zon.jpeg_rotated_0.jpg"
+    },
+    "Issued District": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "l_11zon.jpeg_rotated_0.jpg"
+    },
+    "Spouse Name": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "l_11zon.jpeg_rotated_0.jpg"
+    },
+    "Grandfather's Name": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "l_11zon.jpeg_rotated_0.jpg"
+    },
+    "Issued Date": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "l_11zon.jpeg_rotated_0.jpg"
+    }
+}

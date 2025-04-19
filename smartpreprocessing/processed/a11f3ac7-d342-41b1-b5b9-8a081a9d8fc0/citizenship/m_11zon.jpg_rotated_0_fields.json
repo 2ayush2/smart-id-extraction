@@ -1,0 +1,80 @@
+{
+    "जारी जिल्ला": {
+        "ocr_text": "विष्यपुरप",
+        "confidence": 0.559,
+        "crop_image_path": "processed/a11f3ac7-d342-41b1-b5b9-8a081a9d8fc0/citizenship\\crops\\m_11zon.jpg_rotated_0_rotated_90_जारी जिल्ला_343_676.jpg",
+        "source_image": "m_11zon.jpg_rotated_0.jpg"
+    },
+    "नाम": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "m_11zon.jpg_rotated_0.jpg"
+    },
+    "बुबाको नाम": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "m_11zon.jpg_rotated_0.jpg"
+    },
+    "आमाको नाम": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "m_11zon.jpg_rotated_0.jpg"
+    },
+    "बाजेको नाम": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "m_11zon.jpg_rotated_0.jpg"
+    },
+    "पति/पत्नीको नाम": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "m_11zon.jpg_rotated_0.jpg"
+    },
+    "लिङ्ग": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "m_11zon.jpg_rotated_0.jpg"
+    },
+    "स्थायी ठेगाना": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "m_11zon.jpg_rotated_0.jpg"
+    },
+    "अस्थायी ठेगाना": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "m_11zon.jpg_rotated_0.jpg"
+    },
+    "जन्म मिति": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "m_11zon.jpg_rotated_0.jpg"
+    },
+    "जन्म स्थान": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "m_11zon.jpg_rotated_0.jpg"
+    },
+    "नागरिकता नं": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "m_11zon.jpg_rotated_0.jpg"
+    },
+    "जारी मिति": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "m_11zon.jpg_rotated_0.jpg"
+    }
+}

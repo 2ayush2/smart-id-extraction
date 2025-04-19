@@ -1,0 +1,8 @@
+{
+    "Citizenship Number": {
+        "ocr_text": "2000112",
+        "confidence": 0.8,
+        "crop_image_path": "processed\\4f1ce728-173f-4076-b697-8991de271598\\citizenship\\crops\\input_x_11zon_x_11zon.jpg_180_Citizenship Number_692_528.jpg",
+        "source_image": "input_x_11zon_x_11zon.jpg_180.jpg"
+    }
+}

@@ -1,0 +1,52 @@
+[
+    {
+        "run_id": "citizenship",
+        "document_type": "Citizenship",
+        "timestamp": "2025-04-19T14:14:45.100968",
+        "fields": {
+            "Gender": "ड ग",
+            "Father's Name": "ड ब ३",
+            "Name": "म थर : दव नरयण शरठ",
+            "Mother's Name": "",
+            "Date of Birth": "",
+            "Place of Birth": "",
+            "Permanent Address": "",
+            "Temporary Address": "",
+            "Citizenship Number": "",
+            "Issued District": "",
+            "Spouse Name": "",
+            "Grandfather's Name": "",
+            "Issued Date": ""
+        },
+        "confidences": {
+            "Gender": 0.721,
+            "Father's Name": 0.55,
+            "Name": 0.522,
+            "Mother's Name": 0.0,
+            "Date of Birth": 0.0,
+            "Place of Birth": 0.0,
+            "Permanent Address": 0.0,
+            "Temporary Address": 0.0,
+            "Citizenship Number": 0.0,
+            "Issued District": 0.0,
+            "Spouse Name": 0.0,
+            "Grandfather's Name": 0.0,
+            "Issued Date": 0.0
+        }
+    },
+    {
+        "run_id": "217b40f1-bfe7-4c39-b417-d1adb1452525",
+        "document_type": "Citizenship",
+        "timestamp": "2025-04-19T14:14:45.619310",
+        "fields": {
+            "Gender": "ड ग",
+            "Father's Name": "ड ब ३",
+            "Name": "म थर : दव नरयण शरठ"
+        },
+        "confidences": {
+            "Gender": 0.721,
+            "Father's Name": 0.55,
+            "Name": 0.522
+        }
+    }
+]

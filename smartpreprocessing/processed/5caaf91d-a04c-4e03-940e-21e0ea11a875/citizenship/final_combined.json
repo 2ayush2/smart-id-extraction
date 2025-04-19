@@ -1,0 +1,13 @@
+[
+    {
+        "run_id": "5caaf91d-a04c-4e03-940e-21e0ea11a875",
+        "document_type": "Citizenship",
+        "timestamp": "2025-04-19T11:42:41.453001",
+        "fields": {
+            "जारी जिल्ला": "न्"
+        },
+        "confidences": {
+            "जारी जिल्ला": 0.948
+        }
+    }
+]

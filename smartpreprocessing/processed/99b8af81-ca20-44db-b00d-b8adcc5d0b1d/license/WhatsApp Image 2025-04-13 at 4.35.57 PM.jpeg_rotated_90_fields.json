@@ -1,0 +1,14 @@
+{
+    "License Number": {
+        "ocr_text": "02-08-00915958",
+        "confidence": 0.794,
+        "crop_image_path": "processed/99b8af81-ca20-44db-b00d-b8adcc5d0b1d/license\\crops\\WhatsApp Image 2025-04-13 at 4.35.57 PM.jpeg_rotated_90_License Number_153_1039.jpg",
+        "source_image": "WhatsApp Image 2025-04-13 at 4.35.57 PM.jpeg_rotated_90.jpg"
+    },
+    "Address": {
+        "ocr_text": "Dumkibas 8 Nawaloarasi Lumbini",
+        "confidence": 0.679,
+        "crop_image_path": "processed/99b8af81-ca20-44db-b00d-b8adcc5d0b1d/license\\crops\\WhatsApp Image 2025-04-13 at 4.35.57 PM.jpeg_rotated_90_Address_286_361.jpg",
+        "source_image": "WhatsApp Image 2025-04-13 at 4.35.57 PM.jpeg_rotated_90.jpg"
+    }
+}

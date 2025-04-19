@@ -1,0 +1,80 @@
+{
+    "License Number": {
+        "ocr_text": "08",
+        "confidence": 0.888,
+        "crop_image_path": "processed/eed9937c-7c69-4989-b9f5-a1ea733b1840/license\\crops\\WhatsApp Image 2025-04-13 at 4.35.57 PM.jpeg_rotated_0_rotated_180_License Number_628_440.jpg",
+        "source_image": "WhatsApp Image 2025-04-13 at 4.35.57 PM.jpeg_rotated_0.jpg"
+    },
+    "Name": {
+        "ocr_text": "Mohan Thapa Mashranc",
+        "confidence": 0.594,
+        "crop_image_path": "processed/eed9937c-7c69-4989-b9f5-a1ea733b1840/license\\crops\\WhatsApp Image 2025-04-13 at 4.35.57 PM.jpeg_rotated_0_rotated_0_Name_573_235.jpg",
+        "source_image": "WhatsApp Image 2025-04-13 at 4.35.57 PM.jpeg_rotated_0.jpg"
+    },
+    "Contact Number": {
+        "ocr_text": "9825432727",
+        "confidence": 0.518,
+        "crop_image_path": "processed/eed9937c-7c69-4989-b9f5-a1ea733b1840/license\\crops\\WhatsApp Image 2025-04-13 at 4.35.57 PM.jpeg_rotated_0_rotated_0_Contact Number_553_766.jpg",
+        "source_image": "WhatsApp Image 2025-04-13 at 4.35.57 PM.jpeg_rotated_0.jpg"
+    },
+    "Address": {
+        "ocr_text": ": Dumkibas 8 Nawalparasi, Lumbini,",
+        "confidence": 0.524,
+        "crop_image_path": "processed/eed9937c-7c69-4989-b9f5-a1ea733b1840/license\\crops\\WhatsApp Image 2025-04-13 at 4.35.57 PM.jpeg_rotated_0_rotated_270_Address_246_357.jpg",
+        "source_image": "WhatsApp Image 2025-04-13 at 4.35.57 PM.jpeg_rotated_0.jpg"
+    },
+    "Blood Group": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "WhatsApp Image 2025-04-13 at 4.35.57 PM.jpeg_rotated_0.jpg"
+    },
+    "License Office": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "WhatsApp Image 2025-04-13 at 4.35.57 PM.jpeg_rotated_0.jpg"
+    },
+    "Date of Birth": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "WhatsApp Image 2025-04-13 at 4.35.57 PM.jpeg_rotated_0.jpg"
+    },
+    "Father/Husband Name": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "WhatsApp Image 2025-04-13 at 4.35.57 PM.jpeg_rotated_0.jpg"
+    },
+    "Citizenship Number": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "WhatsApp Image 2025-04-13 at 4.35.57 PM.jpeg_rotated_0.jpg"
+    },
+    "Category": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "WhatsApp Image 2025-04-13 at 4.35.57 PM.jpeg_rotated_0.jpg"
+    },
+    "Passport Number": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "WhatsApp Image 2025-04-13 at 4.35.57 PM.jpeg_rotated_0.jpg"
+    },
+    "Issued Date": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "WhatsApp Image 2025-04-13 at 4.35.57 PM.jpeg_rotated_0.jpg"
+    },
+    "Expiry Date": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "WhatsApp Image 2025-04-13 at 4.35.57 PM.jpeg_rotated_0.jpg"
+    }
+}

@@ -1,0 +1,52 @@
+[
+    {
+        "run_id": "license",
+        "document_type": "Citizenship",
+        "timestamp": "2025-04-19T18:18:16.649555",
+        "fields": {
+            "Name": "भ\n१\n\nन\n\nरश\n\n२०\n\nआ",
+            "Grandfather's Name": "ज ५५०पत",
+            "Father's Name": "प 4०9०4७",
+            "Mother's Name": "",
+            "Date of Birth": "",
+            "Place of Birth": "",
+            "Permanent Address": "",
+            "Temporary Address": "",
+            "Citizenship Number": "",
+            "Issued District": "",
+            "Gender": "",
+            "Spouse Name": "",
+            "Issued Date": ""
+        },
+        "confidences": {
+            "Name": 0.489,
+            "Grandfather's Name": 0.409,
+            "Father's Name": 0.653,
+            "Mother's Name": 0.0,
+            "Date of Birth": 0.0,
+            "Place of Birth": 0.0,
+            "Permanent Address": 0.0,
+            "Temporary Address": 0.0,
+            "Citizenship Number": 0.0,
+            "Issued District": 0.0,
+            "Gender": 0.0,
+            "Spouse Name": 0.0,
+            "Issued Date": 0.0
+        }
+    },
+    {
+        "run_id": "2f3306e1-3d29-4438-9cdf-d0b593ed279d",
+        "document_type": "License",
+        "timestamp": "2025-04-19T18:18:16.755815",
+        "fields": {
+            "Name": "भ\n१\n\nन\n\nरश\n\n२०\n\nआ",
+            "Grandfather's Name": "ज ५५०पत",
+            "Father's Name": "प 4०9०4७"
+        },
+        "confidences": {
+            "Name": 0.489,
+            "Grandfather's Name": 0.409,
+            "Father's Name": 0.653
+        }
+    }
+]

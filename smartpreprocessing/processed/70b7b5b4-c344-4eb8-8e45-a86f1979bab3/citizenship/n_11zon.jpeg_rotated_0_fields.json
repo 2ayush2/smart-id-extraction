@@ -1,0 +1,80 @@
+{
+    "Gender": {
+        "ocr_text": "g E",
+        "confidence": 0.578,
+        "crop_image_path": "processed/70b7b5b4-c344-4eb8-8e45-a86f1979bab3/citizenship\\crops\\n_11zon.jpeg_rotated_0_rotated_90_Gender_306_298.jpg",
+        "source_image": "n_11zon.jpeg_rotated_0.jpg"
+    },
+    "Name": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "n_11zon.jpeg_rotated_0.jpg"
+    },
+    "Father's Name": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "n_11zon.jpeg_rotated_0.jpg"
+    },
+    "Mother's Name": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "n_11zon.jpeg_rotated_0.jpg"
+    },
+    "Date of Birth": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "n_11zon.jpeg_rotated_0.jpg"
+    },
+    "Place of Birth": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "n_11zon.jpeg_rotated_0.jpg"
+    },
+    "Permanent Address": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "n_11zon.jpeg_rotated_0.jpg"
+    },
+    "Temporary Address": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "n_11zon.jpeg_rotated_0.jpg"
+    },
+    "Citizenship Number": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "n_11zon.jpeg_rotated_0.jpg"
+    },
+    "Issued District": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "n_11zon.jpeg_rotated_0.jpg"
+    },
+    "Spouse Name": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "n_11zon.jpeg_rotated_0.jpg"
+    },
+    "Grandfather's Name": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "n_11zon.jpeg_rotated_0.jpg"
+    },
+    "Issued Date": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "n_11zon.jpeg_rotated_0.jpg"
+    }
+}

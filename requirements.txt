@@ -1,2 +1,25 @@
+# Web + UI
+fastapi
+uvicorn
+streamlit
+python-multipart
+requests
+
+# Transformers & OCR
+transformers
+torch
+Pillow
+pytesseract
 opencv-python
- matplotlib
+numpy
+easyocr
+paddleocr
+sentencepiece             # required by TrOCR and multilingual models
+protobuf                  # required for PaddleOCR
+onnxruntime
+
+# Face Detection & Verification
+insightface
+
+# For local testing/debugging (optional)
+matplotlib

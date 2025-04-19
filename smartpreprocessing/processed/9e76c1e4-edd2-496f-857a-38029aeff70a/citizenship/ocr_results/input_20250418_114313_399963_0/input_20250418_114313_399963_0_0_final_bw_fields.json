@@ -1,0 +1,8 @@
+{
+    "status": {
+        "ocr_text": "No fields detected",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "input_20250418_114313_399963_0_0_final_bw.jpg"
+    }
+}

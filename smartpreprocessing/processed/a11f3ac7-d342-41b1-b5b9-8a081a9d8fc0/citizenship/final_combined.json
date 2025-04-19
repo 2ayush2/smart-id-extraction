@@ -1,0 +1,13 @@
+[
+    {
+        "run_id": "a11f3ac7-d342-41b1-b5b9-8a081a9d8fc0",
+        "document_type": "Citizenship",
+        "timestamp": "2025-04-19T12:39:13.796420",
+        "fields": {
+            "जारी जिल्ला": "विष्यपुरप"
+        },
+        "confidences": {
+            "जारी जिल्ला": 0.559
+        }
+    }
+]

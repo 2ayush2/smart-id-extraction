@@ -1,0 +1,747 @@
+<!--final-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Smart ID Extraction</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://unpkg.com/filepond/dist/filepond.min.css" rel="stylesheet">
+    <link href="https://unpkg.com/filepond-plugin-image-preview/dist/filepond-plugin-image-preview.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" rel="stylesheet">
+    <style>
+        body {
+            background: linear-gradient(135deg, #2a6e4e 0%, #4a9b74 100%);
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+            color: #1a1a1a;
+            margin: 0;
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        .container {
+            max-width: 900px;
+            margin: 40px auto;
+            padding: 30px;
+            background: rgba(255, 255, 255, 0.95);
+            border-radius: 20px;
+            box-shadow: 0 10px 40px rgba(0, 0, 0, 0.15);
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+        .container:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 15px 50px rgba(0, 0, 0, 0.2);
+        }
+        .header-text {
+            text-align: center;
+            margin-bottom: 40px;
+            font-size: 32px;
+            font-weight: 800;
+            color: #1a1a1a;
+            letter-spacing: -0.5px;
+            text-transform: uppercase;
+            background: linear-gradient(90deg, #2a6e4e, #4a9b74);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+        .file-input-container {
+            border: 2px dashed #d1d5db;
+            border-radius: 12px;
+            padding: 25px;
+            text-align: center;
+            background: #ffffff;
+            transition: all 0.3s ease;
+            position: relative;
+            overflow: hidden;
+        }
+        .file-input-container:hover {
+            border-color: #4a9b74;
+            background: #f8fafc;
+            transform: scale(1.02);
+        }
+        .file-input-container::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: -100%;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(90deg, transparent, rgba(74, 155, 116, 0.1), transparent);
+            transition: 0.5s;
+        }
+        .file-input-container:hover::before {
+            left: 100%;
+        }
+        .preview-section, .result-section {
+            margin-top: 25px;
+            padding: 20px;
+            background: #f8fafc;
+            border-radius: 12px;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+            display: none;
+            transition: opacity 0.3s ease, transform 0.3s ease;
+        }
+        .preview-section.show, .result-section.show {
+            display: block;
+            opacity: 1;
+            transform: translateY(0);
+        }
+        .preview-section img {
+            width: 100px;
+            height: 100px;
+            object-fit: cover;
+            border-radius: 8px;
+            border: 1px solid #e5e7eb;
+            margin-right: 15px;
+            transition: transform 0.3s ease;
+        }
+        .preview-section img:hover {
+            transform: scale(1.1);
+        }
+        .selfie-section {
+            background: linear-gradient(135deg, #e0f2fe 0%, #bae6fd 100%);
+            border-radius: 12px;
+            padding: 20px;
+            margin: 20px 0;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+            transition: all 0.3s ease;
+        }
+        .selfie-button {
+            background: linear-gradient(90deg, #4a9b74 0%, #2a6e4e 100%) !important;
+            color: #ffffff !important;
+            border-radius: 8px;
+            padding: 12px;
+            font-weight: 600;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+        .selfie-button:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 20px rgba(74, 155, 116, 0.3);
+        }
+        .selfie-group {
+            display: none;
+            opacity: 0;
+            transform: translateY(20px);
+            transition: opacity 0.4s ease, transform 0.4s ease;
+        }
+        .selfie-group.show {
+            display: block;
+            opacity: 1;
+            transform: translateY(0);
+        }
+        .nav-tabs {
+            border-bottom: 2px solid #e5e7eb;
+            margin-bottom: 20px;
+        }
+        .nav-tabs .nav-link {
+            color: #6b7280;
+            font-weight: 600;
+            padding: 12px 20px;
+            border: none;
+            border-bottom: 3px solid transparent;
+            transition: all 0.3s ease;
+        }
+        .nav-tabs .nav-link:hover {
+            color: #2a6e4e;
+            border-bottom: 3px solid #4a9b74;
+        }
+        .nav-tabs .nav-link.active {
+            color: #2a6e4e;
+            border-bottom: 3px solid #2a6e4e;
+            background: #ffffff;
+            border-radius: 8px 8px 0 0;
+        }
+        .tab-content {
+            position: relative;
+            overflow: hidden;
+        }
+        .tab-pane {
+            transition: transform 0.4s ease, opacity 0.4s ease;
+            position: absolute;
+            width: 100%;
+            opacity: 0;
+            transform: translateX(20px);
+        }
+        .tab-pane.show {
+            position: relative;
+            opacity: 1;
+            transform: translateX(0);
+        }
+        .tab-pane.fade:not(.show) {
+            transform: translateX(-20px);
+        }
+        .error-message, .loading-message {
+            border-radius: 8px;
+            padding: 12px;
+            margin-top: 15px;
+            display: none;
+            font-weight: 500;
+        }
+        .error-message {
+            color: #d32f2f;
+            background-color: #ffebee;
+            border-left: 4px solid #d32f2f;
+        }
+        .loading-message {
+            color: #2a6e4e;
+            background-color: #e7f3ff;
+            border-left: 4px solid #4a9b74;
+        }
+        .verification-result {
+            font-weight: 700;
+            font-size: 1.3em;
+            padding: 10px;
+            border-radius: 8px;
+        }
+        .verified {
+            color: #2a6e4e;
+            background: rgba(74, 155, 116, 0.1);
+        }
+        .not-verified {
+            color: #d32f2f;
+            background: rgba(211, 47, 47, 0.1);
+        }
+        .image-section img {
+            width: 160px;
+            height: auto;
+            object-fit: contain;
+            border-radius: 10px;
+            border: 1px solid #e5e7eb;
+            margin: 12px;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+        .image-section img:hover {
+            transform: scale(1.05);
+            box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
+        }
+        .filepond--panel-root {
+            border-radius: 12px;
+            background-color: #ffffff;
+            border: 2px dashed #d1d5db;
+            transition: all 0.3s ease;
+        }
+        .filepond--panel-root:hover {
+            border-color: #4a9b74;
+        }
+        .filepond--item {
+            width: calc(50% - 0.5em);
+        }
+        video {
+            width: 100%;
+            max-width: 480px;
+            height: auto;
+            border-radius: 10px;
+            border: 1px solid #e5e7eb;
+            background: #000;
+            margin-bottom: 15px;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s ease;
+        }
+        video:hover {
+            transform: scale(1.02);
+        }
+        .btn-primary, .btn-success, .btn-danger {
+            border-radius: 8px;
+            padding: 12px;
+            font-weight: 600;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+        .btn-primary {
+            background: linear-gradient(90deg, #4a9b74 0%, #2a6e4e 100%);
+            border: none;
+        }
+        .btn-success {
+            background: linear-gradient(90deg, #2a6e4e 0%, #4a9b74 100%);
+            border: none;
+        }
+        .btn-danger {
+            background: linear-gradient(90deg, #d32f2f 0%, #b91c1c 100%);
+            border: none;
+        }
+        .btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 20px rgba(0, 0, 0, 0.2);
+        }
+        .form-select, .form-label {
+            font-weight: 500;
+            color: #1a1a1a;
+        }
+        .form-select {
+            border-radius: 8px;
+            padding: 12px;
+            transition: all 0.3s ease;
+        }
+        .form-select:focus {
+            border-color: #4a9b74;
+            box-shadow: 0 0 0 0.2rem rgba(74, 155, 116, 0.25);
+        }
+        .table {
+            background: #ffffff;
+            border-radius: 8px;
+            overflow: hidden;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+        }
+        .table th {
+            background: #2a6e4e;
+            color: #ffffff;
+            font-weight: 600;
+        }
+        .table td {
+            vertical-align: middle;
+        }
+        .alert {
+            border-radius: 8px;
+            border-left: 4px solid;
+            font-weight: 500;
+        }
+        .alert-warning {
+            border-color: #f59e0b;
+        }
+        @keyframes slideIn {
+            from {
+                opacity: 0;
+                transform: translateY(20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+        .animate-slide-in {
+            animation: slideIn 0.4s ease forwards;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1 class="header-text">Smart ID Extraction System</h1>
+        <form id="upload-form" enctype="multipart/form-data">
+            <div class="mb-3">
+                <label for="doc-type" class="form-label">Document Type</label>
+                <select class="form-select" id="doc-type" name="doc_type">
+                    <option value="Citizenship" selected>Citizenship</option>
+                    <option value="License">License</option>
+                    <option value="Passport">Passport</option>
+                    <option value="Llm ocr">LLM OCR</option>
+                </select>
+            </div>
+            <div class="mb-3">
+                <label class="form-label">Upload ID Images</label>
+                <div class="file-input-container">
+                    <input id="id-images" type="file" class="filepond" name="files" multiple accept="image/jpeg,image/png">
+                </div>
+            </div>
+            <div class="preview-section" id="preview-section">
+                <label class="form-label">Uploaded Images Preview</label>
+                <div id="image-preview" class="d-flex flex-wrap gap-2"></div>
+            </div>
+            <div class="selfie-section">
+                <button type="button" id="selfie-toggle" class="btn selfie-button w-100">
+                    <i class="fas fa-camera me-2"></i> Add Selfie Verification
+                </button>
+            </div>
+            <div class="selfie-group" id="selfie-group">
+                <ul class="nav nav-tabs mb-3" id="selfie-tabs" role="tablist">
+                    <li class="nav-item">
+                        <button class="nav-link active" id="capture-tab" data-bs-toggle="tab" data-bs-target="#capture" type="button">Capture Live Selfie</button>
+                    </li>
+                    <li class="nav-item">
+                        <button class="nav-link" id="upload-tab" data-bs-toggle="tab" data-bs-target="#upload" type="button">Upload Selfie</button>
+                    </li>
+                </ul>
+                <div class="tab-content" id="selfie-tab-content">
+                    <div class="tab-pane fade show active" id="capture" role="tabpanel">
+                        <div id="msg">Please allow camera access to capture a selfie.</div>
+                        <div id="wrapper">
+                            <video playsinline autoplay muted></video>
+                            <canvas style="display: none;"></canvas>
+                            <div class="d-flex gap-2">
+                                <button type="button" id="newphoto" class="btn btn-primary w-100">Take A Photo</button>
+                                <button type="button" id="download" disabled class="btn btn-success w-100">Capture Selfie</button>
+                            </div>
+                        </div>
+                        <input type="hidden" name="selfie_file" id="selfie-data">
+                    </div>
+                    <div class="tab-pane fade" id="upload" role="tabpanel">
+                        <div class="file-input-container">
+                            <input id="selfie-upload" type="file" class="filepond" name="selfie_file" accept="image/jpeg,image/png">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="d-flex gap-2">
+                <button type="submit" id="extract-button" class="btn btn-success w-100">Extract</button>
+                <button type="button" id="reset-button" class="btn btn-danger w-100">Reset</button>
+            </div>
+            <div class="loading-message" id="loading-message">Processing... Please wait.</div>
+        </form>
+        <div class="result-section" id="result-section">
+            <h4>OCR Results</h4>
+            <table class="table table-striped" id="result-table">
+                <thead>
+                    <tr>
+                        <th>Field</th>
+                        <th>Value</th>
+                        <th>Confidence</th>
+                    </tr>
+                </thead>
+                <tbody></tbody>
+            </table>
+            <h4>Face Verification</h4>
+            <div class="verification-result" id="verification-status"></div>
+            <div class="alert alert-warning" id="face-detection-warning" style="display: none;">
+                <i class="fas fa-exclamation-triangle me-2"></i>
+                <span id="face-detection-warning-text"></span>
+            </div>
+            <table class="table table-striped" id="verification-table">
+                <thead>
+                    <tr>
+                        <th>Metric</th>
+                        <th>Value</th>
+                    </tr>
+                </thead>
+                <tbody></tbody>
+            </table>
+            <div class="image-section" id="preprocessed-images">
+                <h4>Preprocessed Images</h4>
+                <div id="preprocessed-gallery" class="d-flex flex-wrap gap-2"></div>
+            </div>
+            <div class="image-section" id="annotated-images">
+                <h4>Annotated Images</h4>
+                <div id="annotated-gallery" class="d-flex flex-wrap gap-2"></div>
+            </div>
+            <div class="image-section" id="cropped-face-images">
+                <h4>Cropped Face Images</h4>
+                <div id="cropped-face-gallery" class="d-flex flex-wrap gap-2"></div>
+            </div>
+            <div class="error-message" id="error-message"></div>
+        </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://unpkg.com/filepond/dist/filepond.min.js"></script>
+    <script src="https://unpkg.com/filepond-plugin-image-preview/dist/filepond-plugin-image-preview.min.js"></script>
+    <script src="https://unpkg.com/filepond-plugin-file-validate-type/dist/filepond-plugin-file-validate-type.min.js"></script>
+    <script src="https://unpkg.com/filepond-plugin-file-validate-size/dist/filepond-plugin-file-validate-size.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            FilePond.registerPlugin(
+                FilePondPluginImagePreview,
+                FilePondPluginFileValidateType,
+                FilePondPluginFileValidateSize
+            );
+
+            const idImagesPond = FilePond.create(document.querySelector('#id-images'), {
+                allowMultiple: true,
+                maxFiles: 5,
+                maxFileSize: '5MB',
+                acceptedFileTypes: ['image/jpeg', 'image/png'],
+                name: 'files',
+                labelIdle: 'Drop ID Images Here or <span class="filepond--label-action">Click to Upload</span>',
+                imagePreviewHeight: 80,
+                onaddfile: (error) => {
+                    if (error) {
+                        $('#error-message').show().text('Error adding file: ' + error.main);
+                        return;
+                    }
+                    $('#preview-section').show();
+                },
+                onremovefile: () => {
+                    if (idImagesPond.getFiles().length === 0) {
+                        $('#preview-section').hide();
+                    }
+                }
+            });
+
+            const selfieUploadPond = FilePond.create(document.querySelector('#selfie-upload'), {
+                allowMultiple: false,
+                maxFileSize: '5MB',
+                acceptedFileTypes: ['image/jpeg', 'image/png'],
+                name: 'selfie_file',
+                labelIdle: 'Drop Selfie Here or <span class="filepond--label-action">Click to Upload</span>',
+                imagePreviewHeight: 80
+            });
+
+            let message, wrapper, buttonNewPhoto, buttonDownload, video, canvas, selfieDataInput;
+
+            function initElement() {
+                message = document.getElementById('msg');
+                wrapper = document.getElementById('wrapper');
+                buttonNewPhoto = document.getElementById('newphoto');
+                buttonDownload = document.getElementById('download');
+                video = document.querySelector('#wrapper video');
+                canvas = document.querySelector('#wrapper canvas');
+                selfieDataInput = document.getElementById('selfie-data');
+
+                if (navigator.mediaDevices === undefined) navigator.mediaDevices = {};
+                if (!navigator.mediaDevices.getUserMedia) {
+                    navigator.mediaDevices.getUserMedia = constraints => {
+                        const getUserMedia = navigator.getUserMedia || navigator.webkitGetUserMedia || navigator.mozGetUserMedia || navigator.msGetUserMedia;
+                        if (!getUserMedia) {
+                            $('#error-message').show().text('Camera not supported by this browser. Please upload a selfie.');
+                            $('#upload-tab').tab('show');
+                            return Promise.reject(new Error('getUserMedia is not implemented'));
+                        }
+                        return new Promise((resolve, reject) => getUserMedia.call(navigator, constraints, resolve, reject));
+                    };
+                }
+            }
+
+            function onTakeAPhoto() {
+                try {
+                    canvas.width = video.videoWidth;
+                    canvas.height = video.videoHeight;
+                    canvas.getContext('2d').drawImage(video, 0, 0, video.videoWidth, video.videoHeight);
+                    buttonDownload.removeAttribute('disabled');
+                } catch (e) {
+                    $('#error-message').show().text('Error capturing selfie: ' + e.message);
+                }
+            }
+
+            function onDownloadPhoto() {
+                try {
+                    const dataUrl = canvas.toDataURL('image/jpeg');
+                    if (!dataUrl || dataUrl === 'data:,') {
+                        $('#error-message').show().text('Failed to capture selfie. Please try again.');
+                        return;
+                    }
+                    selfieDataInput.value = dataUrl;
+                    stopWebcam();
+                } catch (e) {
+                    $('#error-message').show().text('Error saving selfie: ' + e.message);
+                }
+            }
+
+            function onLoadVideo() {
+                video.play();
+            }
+
+            function onMediaStream(stream) {
+                video.srcObject = stream;
+                message.style.display = 'none';
+                wrapper.style.display = 'block';
+                buttonNewPhoto.addEventListener('click', onTakeAPhoto);
+                buttonDownload.addEventListener('click', onDownloadPhoto);
+                video.addEventListener('loadedmetadata', onLoadVideo);
+            }
+
+            function onMediaError(err) {
+                message.innerHTML = 'Camera access denied: ' + err.message + '. Please upload a selfie instead.';
+                $('#upload-tab').tab('show');
+                $('#error-message').show().text('Camera access denied. Please upload a selfie.');
+            }
+
+            function startWebcam() {
+                initElement();
+                navigator.mediaDevices.getUserMedia({ 
+                    video: { 
+                        width: { ideal: 1280 },
+                        height: { ideal: 720 },
+                        facingMode: 'user'
+                    } 
+                }).then(onMediaStream).catch(onMediaError);
+            }
+
+            function stopWebcam() {
+                const stream = video.srcObject;
+                if (stream) {
+                    stream.getTracks().forEach(track => track.stop());
+                    video.srcObject = null;
+                }
+                message.style.display = 'block';
+                wrapper.style.display = 'none';
+            }
+
+            $('#selfie-toggle').click(function () {
+                const isVisible = $('#selfie-group').is(':visible');
+                if (isVisible) {
+                    $('#selfie-group').removeClass('show').slideUp(400, function() {
+                        $(this).hide();
+                    });
+                    $(this).html('<i class="fas fa-camera me-2"></i> Add Selfie Verification');
+                    stopWebcam();
+                    $('#selfie-data').val('');
+                    selfieUploadPond.removeFiles();
+                } else {
+                    $('#selfie-group').addClass('show').hide().slideDown(400);
+                    $(this).html('<i class="fas fa-camera me-2"></i> Remove Selfie Verification');
+                    startWebcam();
+                }
+            });
+
+            $('#upload-form').submit(function (e) {
+                e.preventDefault();
+                if (idImagesPond.getFiles().length === 0) {
+                    $('#error-message').show().text('Please upload at least one ID image.');
+                    return false;
+                }
+                $('#loading-message').show();
+                $('#result-section').hide();
+                $('#error-message').hide();
+                $('#extract-button').prop('disabled', true);
+
+                const formData = new FormData();
+                formData.append('doc_type', $('#doc-type').val());
+                idImagesPond.getFiles().forEach(file => formData.append('files', file.file));
+                if (selfieDataInput && selfieDataInput.value) {
+                    const blob = dataURLtoBlob(selfieDataInput.value);
+                    if (blob) {
+                        formData.append('selfie_file', blob, 'webcam-selfie.jpg');
+                    }
+                } else if (selfieUploadPond.getFiles().length > 0) {
+                    formData.append('selfie_file', selfieUploadPond.getFiles()[0].file);
+                }
+
+                $.ajax({
+                    url: '/process',
+                    type: 'POST',
+                    data: formData,
+                    processData: false,
+                    contentType: false,
+                    success: function (response) {
+                        console.log('Backend response:', response);
+                        $('#loading-message').hide();
+                        $('#result-section').addClass('show').show();
+                        $('#error-message').hide();
+                        $('#extract-button').prop('disabled', false);
+
+                        const verification = response.face_verification || { 
+                            is_verified: "false", 
+                            match_score: 0.0, 
+                            details: ['No verification performed'] 
+                        };
+                        const statusElement = $('#verification-status');
+                        if (verification.is_verified === "true") {
+                            statusElement.text('Face Verified').addClass('verified').removeClass('not-verified');
+                        } else {
+                            statusElement.text('Face Not Verified').addClass('not-verified').removeClass('verified');
+                            $('#face-detection-warning').show().find('#face-detection-warning-text').text(
+                                verification.details.join(', ')
+                            );
+                        }
+
+                        const fields = response.combined_result?.fields || {};
+                        const confidences = response.combined_result?.confidences || {};
+                        const tbody = $('#result-table tbody');
+                        tbody.empty();
+                        if (Object.keys(fields).length > 0) {
+                            for (const field in fields) {
+                                if (field === 'error') {
+                                    tbody.append(`
+                                        <tr>
+                                            <td colspan="3">${fields[field].ocr_text || 'No fields extracted'}</td>
+                                        </tr>
+                                    `);
+                                } else {
+                                    const displayValue = typeof fields[field] === 'object' && fields[field].ocr_text ? fields[field].ocr_text : fields[field];
+                                    tbody.append(`
+                                        <tr>
+                                            <td>${field}</td>
+                                            <td>${displayValue}</td>
+                                            <td>${confidences[field] || 'N/A'}</td>
+                                        </tr>
+                                    `);
+                                }
+                            }
+                        } else {
+                            tbody.append('<tr><td colspan="3">No fields extracted.</td></tr>');
+                        }
+
+                        const vTbody = $('#verification-table tbody');
+                        vTbody.empty();
+                        vTbody.append(`
+                            <tr><td>Is Verified</td><td>${verification.is_verified}</td></tr>
+                            <tr><td>Match Score</td><td>${verification.match_score}</td></tr>
+                            <tr><td>Details</td><td>${verification.details.join(', ')}</td></tr>
+                        `);
+
+                        const preprocessedGallery = $('#preprocessed-gallery');
+                        preprocessedGallery.empty();
+                        if (response.preprocessed_files?.length > 0) {
+                            response.preprocessed_files.forEach(file => {
+                                preprocessedGallery.append(`<img src="/${file}" alt="Preprocessed Image">`);
+                            });
+                        } else {
+                            preprocessedGallery.append('<p>No preprocessed images available.</p>');
+                        }
+
+                        const annotatedGallery = $('#annotated-gallery');
+                        annotatedGallery.empty();
+                        if (response.annotated_files?.length > 0) {
+                            response.annotated_files.forEach(file => {
+                                annotatedGallery.append(`<img src="/${file}" alt="Annotated Image">`);
+                            });
+                        } else {
+                            annotatedGallery.append('<p>No annotated images available.</p>');
+                        }
+
+                        const croppedFaceGallery = $('#cropped-face-gallery');
+                        croppedFaceGallery.empty();
+                        if (response.cropped_face_files?.length > 0) {
+                            response.cropped_face_files.forEach(file => {
+                                croppedFaceGallery.append(`<img src="/${file}" alt="Cropped Face Image">`);
+                            });
+                        } else {
+                            croppedFaceGallery.append('<p>No cropped face images available.</p>');
+                        }
+                    },
+                    error: function (xhr, status, error) {
+                        console.error('Backend error:', { xhr, status, error });
+                        $('#loading-message').hide();
+                        $('#result-section').hide();
+                        $('#error-message').show().text(
+                            'Processing failed: ' + (xhr.responseJSON?.detail || xhr.statusText || 'Unable to connect to server')
+                        );
+                        $('#extract-button').prop('disabled', false);
+                    }
+                });
+                return false;
+            });
+
+            $('#reset-button').click(function () {
+                $('#upload-form')[0].reset();
+                idImagesPond.removeFiles();
+                selfieUploadPond.removeFiles();
+                $('#selfie-group').removeClass('show').slideUp(400, function() {
+                    $(this).hide();
+                });
+                $('#selfie-toggle').html('<i class="fas fa-camera me-2"></i> Add Selfie Verification');
+                $('#preview-section').hide();
+                $('#result-section').removeClass('show').hide();
+                $('#error-message').hide();
+                $('#loading-message').hide();
+                $('#face-detection-warning').hide();
+                $('#extract-button').prop('disabled', false);
+                stopWebcam();
+                $('#selfie-data').val('');
+                $('#preprocessed-gallery').empty();
+                $('#annotated-gallery').empty();
+                $('#cropped-face-gallery').empty();
+                $('#result-table tbody').empty();
+                $('#verification-table tbody').empty();
+                $('#verification-status').empty();
+            });
+
+            function dataURLtoBlob(dataurl) {
+                try {
+                    const arr = dataurl.split(','), 
+                          mime = arr[0].match(/:(.*?);/)[1], 
+                          bstr = atob(arr[1]);
+                    let n = bstr.length, 
+                        u8arr = new Uint8Array(n);
+                    while (n--) u8arr[n] = bstr.charCodeAt(n);
+                    return new Blob([u8arr], { type: mime });
+                } catch (e) {
+                    $('#error-message').show().text('Error converting selfie data: ' + e.message);
+                    return null;
+                }
+            }
+        });
+    </script>
+</body>
+</html>

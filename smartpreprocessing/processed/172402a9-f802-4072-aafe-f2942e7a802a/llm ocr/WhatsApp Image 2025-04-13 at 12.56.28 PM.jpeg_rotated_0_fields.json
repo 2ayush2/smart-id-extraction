@@ -1,0 +1,44 @@
+{
+    "Name": {
+        "ocr_text": "SAMSUL ANSARI",
+        "confidence": 0.9,
+        "crop_image_path": "",
+        "source_image": "WhatsApp Image 2025-04-13 at 12.56.28 PM.jpeg_rotated_0.jpg"
+    },
+    "Date of Birth": {
+        "ocr_text": "10-11-1988",
+        "confidence": 0.9,
+        "crop_image_path": "",
+        "source_image": "WhatsApp Image 2025-04-13 at 12.56.28 PM.jpeg_rotated_0.jpg"
+    },
+    "National ID": {
+        "ocr_text": "76903520",
+        "confidence": 0.9,
+        "crop_image_path": "",
+        "source_image": "WhatsApp Image 2025-04-13 at 12.56.28 PM.jpeg_rotated_0.jpg"
+    },
+    "Gender": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "WhatsApp Image 2025-04-13 at 12.56.28 PM.jpeg_rotated_0.jpg"
+    },
+    "Expiry Date": {
+        "ocr_text": "16-11-2029",
+        "confidence": 0.9,
+        "crop_image_path": "",
+        "source_image": "WhatsApp Image 2025-04-13 at 12.56.28 PM.jpeg_rotated_0.jpg"
+    },
+    "Address": {
+        "ocr_text": "Ramadaiya bhawadi-9, Dhanusha, Janakpur, Nepal",
+        "confidence": 0.9,
+        "crop_image_path": "",
+        "source_image": "WhatsApp Image 2025-04-13 at 12.56.28 PM.jpeg_rotated_0.jpg"
+    },
+    "Nationality": {
+        "ocr_text": "Nepal",
+        "confidence": 0.9,
+        "crop_image_path": "",
+        "source_image": "WhatsApp Image 2025-04-13 at 12.56.28 PM.jpeg_rotated_0.jpg"
+    }
+}

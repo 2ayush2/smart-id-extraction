@@ -1,0 +1,80 @@
+{
+    "License Number": {
+        "ocr_text": "1077986",
+        "confidence": 0.809,
+        "crop_image_path": "processed/e7d7534b-b4c0-4b0f-8ccb-d3a5e7e46aa7/license\\crops\\WhatsApp Image 2025-04-13 at 12.56.28 PM.jpeg_rotated_0_rotated_0_License Number_296_329.jpg",
+        "source_image": "WhatsApp Image 2025-04-13 at 12.56.28 PM.jpeg_rotated_0.jpg"
+    },
+    "Address": {
+        "ocr_text": "91Iin83",
+        "confidence": 0.779,
+        "crop_image_path": "processed/e7d7534b-b4c0-4b0f-8ccb-d3a5e7e46aa7/license\\crops\\WhatsApp Image 2025-04-13 at 12.56.28 PM.jpeg_rotated_0_rotated_90_Address_418_278.jpg",
+        "source_image": "WhatsApp Image 2025-04-13 at 12.56.28 PM.jpeg_rotated_0.jpg"
+    },
+    "Name": {
+        "ocr_text": "Samsul Ansari Addrecc Docndcivakhewcdi",
+        "confidence": 0.779,
+        "crop_image_path": "processed/e7d7534b-b4c0-4b0f-8ccb-d3a5e7e46aa7/license\\crops\\WhatsApp Image 2025-04-13 at 12.56.28 PM.jpeg_rotated_0_rotated_90_Name_418_278.jpg",
+        "source_image": "WhatsApp Image 2025-04-13 at 12.56.28 PM.jpeg_rotated_0.jpg"
+    },
+    "License Office": {
+        "ocr_text": "Trxuins",
+        "confidence": 0.632,
+        "crop_image_path": "processed/e7d7534b-b4c0-4b0f-8ccb-d3a5e7e46aa7/license\\crops\\WhatsApp Image 2025-04-13 at 12.56.28 PM.jpeg_rotated_0_rotated_270_License Office_386_377.jpg",
+        "source_image": "WhatsApp Image 2025-04-13 at 12.56.28 PM.jpeg_rotated_0.jpg"
+    },
+    "Citizenship Number": {
+        "ocr_text": "76903520",
+        "confidence": 0.632,
+        "crop_image_path": "processed/e7d7534b-b4c0-4b0f-8ccb-d3a5e7e46aa7/license\\crops\\WhatsApp Image 2025-04-13 at 12.56.28 PM.jpeg_rotated_0_rotated_270_Citizenship Number_386_377.jpg",
+        "source_image": "WhatsApp Image 2025-04-13 at 12.56.28 PM.jpeg_rotated_0.jpg"
+    },
+    "Blood Group": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "WhatsApp Image 2025-04-13 at 12.56.28 PM.jpeg_rotated_0.jpg"
+    },
+    "Date of Birth": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "WhatsApp Image 2025-04-13 at 12.56.28 PM.jpeg_rotated_0.jpg"
+    },
+    "Father/Husband Name": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "WhatsApp Image 2025-04-13 at 12.56.28 PM.jpeg_rotated_0.jpg"
+    },
+    "Category": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "WhatsApp Image 2025-04-13 at 12.56.28 PM.jpeg_rotated_0.jpg"
+    },
+    "Passport Number": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "WhatsApp Image 2025-04-13 at 12.56.28 PM.jpeg_rotated_0.jpg"
+    },
+    "Contact Number": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "WhatsApp Image 2025-04-13 at 12.56.28 PM.jpeg_rotated_0.jpg"
+    },
+    "Issued Date": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "WhatsApp Image 2025-04-13 at 12.56.28 PM.jpeg_rotated_0.jpg"
+    },
+    "Expiry Date": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "WhatsApp Image 2025-04-13 at 12.56.28 PM.jpeg_rotated_0.jpg"
+    }
+}

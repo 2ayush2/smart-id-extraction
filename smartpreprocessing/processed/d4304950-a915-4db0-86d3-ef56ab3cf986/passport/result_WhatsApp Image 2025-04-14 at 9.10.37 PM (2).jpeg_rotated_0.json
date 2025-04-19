@@ -1,0 +1,50 @@
+{
+    "fields": {
+        "Passport Number": {
+            "ocr_text": "PA2926222"
+        },
+        "Surname": {
+            "ocr_text": "KHADKAK"
+        },
+        "Given Name": {
+            "ocr_text": "ADITYASK KK           K K K"
+        },
+        "Nationality": {
+            "ocr_text": "NPL"
+        },
+        "Date of Birth": {
+            "ocr_text": ""
+        },
+        "Place of Birth": {
+            "ocr_text": ""
+        },
+        "Sex": {
+            "ocr_text": "M"
+        },
+        "Date of Issue": {
+            "ocr_text": ""
+        },
+        "Date of Expiration": {
+            "ocr_text": "18/06/2034"
+        },
+        "Issuing Authority": {
+            "ocr_text": ""
+        },
+        "MRZ": {
+            "ocr_text": "P<NPLKHADKAK<<ADITYASK<KK<<<<<<<<<<<K<K<K<<<\nPA29262224NPLO005083M340618612017300959<<<56"
+        }
+    },
+    "confidences": {
+        "Passport Number": 0.9,
+        "Surname": 0.9,
+        "Given Name": 0.9,
+        "Nationality": 0.9,
+        "Date of Birth": 0.9,
+        "Place of Birth": 0.9,
+        "Sex": 0.9,
+        "Date of Issue": 0.9,
+        "Date of Expiration": 0.9,
+        "Issuing Authority": 0.9,
+        "MRZ": 0.9
+    }
+}

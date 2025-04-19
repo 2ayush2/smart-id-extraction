@@ -1,0 +1,49 @@
+{
+    "file_name": "best_output_180.jpg",
+    "rotation_angle": 180,
+    "image_size": {
+        "height": 937,
+        "width": 1280
+    },
+    "detections": [
+        {
+            "field_name": "Unknown",
+            "raw_label": "Address",
+            "confidence": 0.936,
+            "bounding_box": {
+                "x1": 369,
+                "y1": 683,
+                "x2": 963,
+                "y2": 735
+            },
+            "ocr_text": "दपरङ चइचमम गप२ खटङ",
+            "ocr_lang_used": "nep-fuse-2"
+        },
+        {
+            "field_name": "Unknown",
+            "raw_label": "stamp",
+            "confidence": 0.683,
+            "bounding_box": {
+                "x1": 36,
+                "y1": 12,
+                "x2": 282,
+                "y2": 214
+            },
+            "ocr_text": "",
+            "ocr_lang_used": "none"
+        },
+        {
+            "field_name": "Unknown",
+            "raw_label": "id_number",
+            "confidence": 0.679,
+            "bounding_box": {
+                "x1": 44,
+                "y1": 231,
+                "x2": 472,
+                "y2": 286
+            },
+            "ocr_text": "ननपरशन २२०१७७०१४६९",
+            "ocr_lang_used": "nep-fuse-2"
+        }
+    ]
+}

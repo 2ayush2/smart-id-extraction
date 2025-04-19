@@ -1,0 +1,44 @@
+{
+    "Name": {
+        "ocr_text": "ANNA MARIA ERIKSSON",
+        "confidence": 0.9,
+        "crop_image_path": "",
+        "source_image": "td2.jpg_rotated_0.jpg"
+    },
+    "Date of Birth": {
+        "ocr_text": "12AUG/AOUT 74",
+        "confidence": 0.9,
+        "crop_image_path": "",
+        "source_image": "td2.jpg_rotated_0.jpg"
+    },
+    "National ID": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "td2.jpg_rotated_0.jpg"
+    },
+    "Gender": {
+        "ocr_text": "F",
+        "confidence": 0.9,
+        "crop_image_path": "",
+        "source_image": "td2.jpg_rotated_0.jpg"
+    },
+    "Expiry Date": {
+        "ocr_text": "15APR/AVR 12",
+        "confidence": 0.9,
+        "crop_image_path": "",
+        "source_image": "td2.jpg_rotated_0.jpg"
+    },
+    "Address": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "td2.jpg_rotated_0.jpg"
+    },
+    "Nationality": {
+        "ocr_text": "UTO",
+        "confidence": 0.9,
+        "crop_image_path": "",
+        "source_image": "td2.jpg_rotated_0.jpg"
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "Grandfather's Name": {
+        "ocr_text": "20 ज 8 07 29:71 /04 दपरङखइचसम 5071 74 क वधङयइदमग प: खड",
+        "confidence": 0.922,
+        "crop_image_path": "processed/39485131-b056-495f-93c4-46d3444c5c1f/citizenship\\crops\\test.jpg_rotated_90_rotated_90_Grandfather's Name_367_684.jpg",
+        "source_image": "test.jpg_rotated_90.jpg"
+    },
+    "Name": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "test.jpg_rotated_90.jpg"
+    },
+    "Father's Name": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "test.jpg_rotated_90.jpg"
+    },
+    "Mother's Name": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "test.jpg_rotated_90.jpg"
+    },
+    "Date of Birth": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "test.jpg_rotated_90.jpg"
+    },
+    "Place of Birth": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "test.jpg_rotated_90.jpg"
+    },
+    "Permanent Address": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "test.jpg_rotated_90.jpg"
+    },
+    "Temporary Address": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "test.jpg_rotated_90.jpg"
+    },
+    "Citizenship Number": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "test.jpg_rotated_90.jpg"
+    },
+    "Issued District": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "test.jpg_rotated_90.jpg"
+    },
+    "Gender": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "test.jpg_rotated_90.jpg"
+    },
+    "Spouse Name": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "test.jpg_rotated_90.jpg"
+    },
+    "Issued Date": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "test.jpg_rotated_90.jpg"
+    }
+}

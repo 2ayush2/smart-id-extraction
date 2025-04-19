@@ -1,0 +1,13 @@
+[
+    {
+        "run_id": "39485131-b056-495f-93c4-46d3444c5c1f",
+        "document_type": "Citizenship",
+        "timestamp": "2025-04-19T12:25:39.023109",
+        "fields": {
+            "Grandfather's Name": "20 ज 8 07 29:71 /04 दपरङखइचसम 5071 74 क वधङयइदमग प: खड"
+        },
+        "confidences": {
+            "Grandfather's Name": 0.922
+        }
+    }
+]

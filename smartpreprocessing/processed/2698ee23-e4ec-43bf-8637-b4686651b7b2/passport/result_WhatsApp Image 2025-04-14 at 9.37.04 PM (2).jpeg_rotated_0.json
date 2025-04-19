@@ -1,0 +1,10 @@
+{
+    "fields": {
+        "status": {
+            "ocr_text": "No MRZ detected"
+        }
+    },
+    "confidences": {
+        "status": 0.0
+    }
+}

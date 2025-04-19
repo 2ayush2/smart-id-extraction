@@ -1,0 +1,116 @@
+{
+    "द्िंपुङचइचना": {
+        "ocr_text": "गष2 2 खढाड",
+        "confidence": 0.931,
+        "crop_image_path": "processed/1b894c96-e788-4672-ae4a-b00924f529a6/citizenship\\crops\\test.jpg_rotated_0_rotated_0_द्िंपुङचइचना_376_684.jpg",
+        "source_image": "test.jpg_rotated_0.jpg"
+    },
+    "39": {
+        "ocr_text": "022060283",
+        "confidence": 0.633,
+        "crop_image_path": "processed/1b894c96-e788-4672-ae4a-b00924f529a6/citizenship\\crops\\test.jpg_rotated_0_rotated_0_39_25_231.jpg",
+        "source_image": "test.jpg_rotated_0.jpg"
+    },
+    "0869": {
+        "ocr_text": "08038",
+        "confidence": 0.679,
+        "crop_image_path": "processed/1b894c96-e788-4672-ae4a-b00924f529a6/citizenship\\crops\\test.jpg_rotated_0_rotated_90_0869_635_17.jpg",
+        "source_image": "test.jpg_rotated_0.jpg"
+    },
+    "3286": {
+        "ocr_text": "22915993",
+        "confidence": 0.461,
+        "crop_image_path": "processed/1b894c96-e788-4672-ae4a-b00924f529a6/citizenship\\crops\\test.jpg_rotated_0_rotated_90_3286_377_643.jpg",
+        "source_image": "test.jpg_rotated_0.jpg"
+    },
+    "स्थायी ठेगाना": {
+        "ocr_text": "॥",
+        "confidence": 0.948,
+        "crop_image_path": "processed/1b894c96-e788-4672-ae4a-b00924f529a6/citizenship\\crops\\test.jpg_rotated_0_rotated_270_स्थायी ठेगाना_8_991.jpg",
+        "source_image": "test.jpg_rotated_0.jpg"
+    },
+    "नच": {
+        "ocr_text": "9820:063989",
+        "confidence": 0.863,
+        "crop_image_path": "processed/1b894c96-e788-4672-ae4a-b00924f529a6/citizenship\\crops\\test.jpg_rotated_0_rotated_270_नच_217_780.jpg",
+        "source_image": "test.jpg_rotated_0.jpg"
+    },
+    "090": {
+        "ocr_text": "06030",
+        "confidence": 0.812,
+        "crop_image_path": "processed/1b894c96-e788-4672-ae4a-b00924f529a6/citizenship\\crops\\test.jpg_rotated_0_rotated_270_090_223_789.jpg",
+        "source_image": "test.jpg_rotated_0.jpg"
+    },
+    "नाम": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "test.jpg_rotated_0.jpg"
+    },
+    "बुबाको नाम": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "test.jpg_rotated_0.jpg"
+    },
+    "आमाको नाम": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "test.jpg_rotated_0.jpg"
+    },
+    "बाजेको नाम": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "test.jpg_rotated_0.jpg"
+    },
+    "पति/पत्नीको नाम": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "test.jpg_rotated_0.jpg"
+    },
+    "लिङ्ग": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "test.jpg_rotated_0.jpg"
+    },
+    "अस्थायी ठेगाना": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "test.jpg_rotated_0.jpg"
+    },
+    "जन्म मिति": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "test.jpg_rotated_0.jpg"
+    },
+    "जन्म स्थान": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "test.jpg_rotated_0.jpg"
+    },
+    "नागरिकता नं": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "test.jpg_rotated_0.jpg"
+    },
+    "जारी जिल्ला": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "test.jpg_rotated_0.jpg"
+    },
+    "जारी मिति": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "test.jpg_rotated_0.jpg"
+    }
+}

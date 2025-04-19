@@ -1,0 +1,13 @@
+2025-04-17 15:11:04,375 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-04-17 15:11:14,174 - DEBUG - EasyOCR ready for Nepali and English
+2025-04-17 15:11:15,165 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-04-17 15:11:28,680 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-04-17 15:11:36,175 - INFO - FaceVerifier initialized successfully
+2025-04-17 15:11:45,380 - ERROR - Shape predictor file not found: shape_predictor_68_face_landmarks.dat
+2025-04-17 15:11:45,381 - ERROR - LivenessChecker initialization failed: Shape predictor file not found: shape_predictor_68_face_landmarks.dat
+2025-04-17 15:11:45,381 - ERROR - Initialization failed: Shape predictor file not found: shape_predictor_68_face_landmarks.dat
+2025-04-17 15:11:48,677 - WARNING - Face verification and liveness checking will be disabled due to initialization failure.
+2025-04-17 16:29:10,233 - INFO - FaceVerifier initialized
+2025-04-17 16:29:10,250 - INFO - FaceVerifier initialized successfully
+2025-04-17 16:29:10,250 - INFO - LivenessChecker initialized
+2025-04-17 16:29:10,250 - INFO - LivenessChecker initialized successfully

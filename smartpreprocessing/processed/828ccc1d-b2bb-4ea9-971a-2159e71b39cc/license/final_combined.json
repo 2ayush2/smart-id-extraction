@@ -1,0 +1,19 @@
+[
+    {
+        "run_id": "828ccc1d-b2bb-4ea9-971a-2159e71b39cc",
+        "document_type": "License",
+        "timestamp": "2025-04-19T10:39:10.408876",
+        "fields": {
+            "License Number": "08",
+            "Name": "Mohan Thapa Mashranc",
+            "Contact Number": "9825432727",
+            "Address": ": Dumkibas 8 Nawalparasi, Lumbini,"
+        },
+        "confidences": {
+            "License Number": 0.888,
+            "Name": 0.594,
+            "Contact Number": 0.518,
+            "Address": 0.524
+        }
+    }
+]

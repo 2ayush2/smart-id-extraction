@@ -1,0 +1,64 @@
+{
+    "fields": {
+        "Passport Number": {
+            "ocr_text": "P42965880"
+        },
+        "Surname": {
+            "ocr_text": "EMADKA CHUABIWACEELEEEKEKKKEEKEKEEKKKE"
+        },
+        "Given Name": {
+            "ocr_text": ""
+        },
+        "Nationality": {
+            "ocr_text": "HPL"
+        },
+        "Date of Birth": {
+            "ocr_text": "22/06/2000"
+        },
+        "Place of Birth": {
+            "ocr_text": ""
+        },
+        "Sex": {
+            "ocr_text": "F"
+        },
+        "Date of Issue": {
+            "ocr_text": ""
+        },
+        "Date of Expiration": {
+            "ocr_text": "25/09/2034"
+        },
+        "Issuing Authority": {
+            "ocr_text": ""
+        },
+        "MRZ": {
+            "ocr_text": "PRUPLEMADKA<CHUABIWACEELEEEKEKKKEEKEKEEKKKE<\nP429658807HPL0006220F340925712017401605<<<94"
+        }
+    },
+    "confidences": {
+        "Passport Number": 0.9,
+        "Surname": 0.9,
+        "Given Name": 0.9,
+        "Nationality": 0.9,
+        "Date of Birth": 0.9,
+        "Place of Birth": 0.9,
+        "Sex": 0.9,
+        "Date of Issue": 0.9,
+        "Date of Expiration": 0.9,
+        "Issuing Authority": 0.9,
+        "MRZ": 0.9
+    },
+    "mrz_data": {
+        "Passport Number": "P42965880",
+        "Surname": "EMADKA CHUABIWACEELEEEKEKKKEEKEKEEKKKE",
+        "Given Name": "",
+        "Sex": "F",
+        "Date of Birth": "22/06/2000",
+        "Nationality": "HPL",
+        "Passport Type": "PR",
+        "Issuing Country": "UPL",
+        "Date of Expiration": "25/09/2034",
+        "Personal Number": "12017401605",
+        "MRZ": "PRUPLEMADKA<CHUABIWACEELEEEKEKKKEEKEKEEKKKE<\nP429658807HPL0006220F340925712017401605<<<94"
+    },
+    "warning": null
+}

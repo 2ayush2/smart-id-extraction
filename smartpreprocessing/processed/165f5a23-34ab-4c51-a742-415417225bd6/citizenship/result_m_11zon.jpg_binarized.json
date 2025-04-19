@@ -1,0 +1,12 @@
+{
+    "fields": {
+        "error": {
+            "ocr_text": "No fields detected",
+            "crop_image_path": "",
+            "source_image": "m_11zon.jpg_binarized.jpg"
+        }
+    },
+    "confidences": {
+        "error": 0.0
+    }
+}

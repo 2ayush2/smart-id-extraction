@@ -1,0 +1,23 @@
+[
+    {
+        "run_id": "ccdaea00-ea32-4974-ba75-69d77cb67ce0",
+        "document_type": "License",
+        "timestamp": "2025-04-19T18:25:04.634533",
+        "fields": {
+            "License Number": "81",
+            "License Office": "Hi",
+            "Name": "Samsul Ansari Ddrecc Dor",
+            "Unknown": "91s83",
+            "Address": "Iuvsnv Inswvs Bupn",
+            "Citizenship Number": "76903520"
+        },
+        "confidences": {
+            "License Number": 0.809,
+            "License Office": 0.726,
+            "Name": 0.779,
+            "Unknown": 0.779,
+            "Address": 0.791,
+            "Citizenship Number": 0.632
+        }
+    }
+]

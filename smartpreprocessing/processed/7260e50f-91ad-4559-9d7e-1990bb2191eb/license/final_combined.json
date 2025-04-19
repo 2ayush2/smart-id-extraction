@@ -1,0 +1,19 @@
+[
+    {
+        "run_id": "7260e50f-91ad-4559-9d7e-1990bb2191eb",
+        "document_type": "License",
+        "timestamp": "2025-04-19T07:32:14.125838",
+        "fields": {
+            "Text": "Q Ss bey  NN  NK AMI   enens one a",
+            "Text_1": "j ne SS",
+            "Text_2": "Eg",
+            "Text_3": "_     C2  re d   VQ  a"
+        },
+        "confidences": {
+            "Text": 0.8,
+            "Text_1": 0.8,
+            "Text_2": 0.8,
+            "Text_3": 0.8
+        }
+    }
+]

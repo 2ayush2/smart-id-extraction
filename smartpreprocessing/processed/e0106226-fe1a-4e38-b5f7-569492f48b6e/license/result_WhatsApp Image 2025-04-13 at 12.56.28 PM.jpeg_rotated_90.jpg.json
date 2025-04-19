@@ -1,0 +1,21 @@
+{
+    "fields": {
+        "Name": {
+            "ocr_text": "SAMSUL ANSARI",
+            "confidence": 0.542,
+            "crop_image_path": "processed/e0106226-fe1a-4e38-b5f7-569492f48b6e/license\\crops\\WhatsApp Image 2025-04-13 at 12.56.28 PM.jpeg_rotated_90_Name_202_413.jpg",
+            "source_image": "WhatsApp Image 2025-04-13 at 12.56.28 PM.jpeg_rotated_90.jpg"
+        },
+        "Address": {
+            "ocr_text": "Ramadaiya bhawadi-9 Dhansha Janakpur Nepc",
+            "confidence": 0.503,
+            "crop_image_path": "processed/e0106226-fe1a-4e38-b5f7-569492f48b6e/license\\crops\\WhatsApp Image 2025-04-13 at 12.56.28 PM.jpeg_rotated_90_Address_231_229.jpg",
+            "source_image": "WhatsApp Image 2025-04-13 at 12.56.28 PM.jpeg_rotated_90.jpg"
+        }
+    },
+    "confidences": {
+        "Name": 0.542,
+        "Address": 0.503
+    },
+    "annotated_path": "processed/e0106226-fe1a-4e38-b5f7-569492f48b6e/license\\annotated_WhatsApp Image 2025-04-13 at 12.56.28 PM.jpeg_rotated_90.jpg"
+}

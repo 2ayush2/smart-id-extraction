@@ -1,0 +1,365 @@
+2025-04-18 12:58:42,383 - INFO - YOLO model loaded: yolo_models/citizenship.pt
+2025-04-18 12:58:42,414 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-04-18 12:58:43,326 - ERROR - Failed to initialize EasyOCR: ({'nep'}, 'is not supported')
+2025-04-18 12:58:51,918 - INFO - YOLO model loaded: yolo_models/citizenship.pt
+2025-04-18 12:58:51,919 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-04-18 12:58:52,126 - ERROR - Failed to initialize EasyOCR: ({'nep'}, 'is not supported')
+2025-04-18 13:00:28,871 - INFO - YOLO model loaded: yolo_models/citizenship.pt
+2025-04-18 13:00:28,872 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-04-18 13:00:58,348 - INFO - EasyOCR initialized for Nepali and English
+2025-04-18 13:00:59,790 - INFO - YOLO model loaded: yolo_models/lisc.pt
+2025-04-18 13:00:59,790 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-04-18 13:01:04,313 - INFO - EasyOCR initialized for English
+2025-04-18 13:01:34,878 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-04-18 13:01:37,006 - INFO - EasyOCR initialized for English
+2025-04-18 13:02:48,987 - INFO - YOLO model loaded: yolo_models/citizenship.pt
+2025-04-18 13:02:48,988 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-04-18 13:02:54,801 - INFO - EasyOCR initialized for Nepali and English
+2025-04-18 13:02:56,561 - INFO - YOLO model loaded: yolo_models/lisc.pt
+2025-04-18 13:02:56,562 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-04-18 13:02:58,847 - INFO - EasyOCR initialized for English
+2025-04-18 13:03:04,345 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-04-18 13:03:06,451 - INFO - EasyOCR initialized for English
+2025-04-18 13:11:49,660 - INFO - YOLO model loaded: yolo_models/citizenship.pt
+2025-04-18 13:11:49,660 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-04-18 13:12:00,677 - INFO - EasyOCR initialized for Nepali and English
+2025-04-18 13:12:04,571 - INFO - YOLO model loaded: yolo_models/lisc.pt
+2025-04-18 13:12:04,571 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-04-18 13:12:12,258 - INFO - EasyOCR initialized for English
+2025-04-18 13:12:20,875 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-04-18 13:12:24,339 - INFO - EasyOCR initialized for English
+2025-04-18 13:14:53,897 - INFO - YOLO model loaded: yolo_models/citizenship.pt
+2025-04-18 13:14:53,897 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-04-18 13:14:58,870 - INFO - EasyOCR initialized for Nepali and English
+2025-04-18 13:14:59,773 - INFO - YOLO model loaded: yolo_models/lisc.pt
+2025-04-18 13:14:59,773 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-04-18 13:15:02,075 - INFO - EasyOCR initialized for English
+2025-04-18 13:15:09,494 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-04-18 13:15:11,545 - INFO - EasyOCR initialized for English
+2025-04-18 13:18:48,552 - INFO - YOLO model loaded: yolo_models/citizenship.pt
+2025-04-18 13:18:48,552 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-04-18 13:18:54,125 - INFO - EasyOCR initialized for Nepali and English
+2025-04-18 13:18:55,982 - INFO - YOLO model loaded: yolo_models/lisc.pt
+2025-04-18 13:18:55,990 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-04-18 13:18:58,895 - INFO - EasyOCR initialized for English
+2025-04-18 13:19:06,488 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-04-18 13:19:08,514 - INFO - EasyOCR initialized for English
+2025-04-18 13:25:03,098 - INFO - YOLO model loaded: yolo_models/citizenship.pt
+2025-04-18 13:25:03,140 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-04-18 13:25:11,099 - INFO - EasyOCR initialized for Nepali and English
+2025-04-18 13:25:11,299 - INFO - YOLO model loaded: yolo_models/lisc.pt
+2025-04-18 13:25:11,299 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-04-18 13:25:16,802 - INFO - EasyOCR initialized for English
+2025-04-18 13:25:43,667 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-04-18 13:25:46,460 - INFO - EasyOCR initialized for English
+2025-04-18 13:39:22,854 - INFO - YOLO model loaded: yolo_models/citizenship.pt
+2025-04-18 13:39:22,854 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-04-18 13:39:30,106 - INFO - EasyOCR initialized for Nepali and English
+2025-04-18 13:39:31,130 - INFO - YOLO model loaded: yolo_models/lisc.pt
+2025-04-18 13:39:31,138 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-04-18 13:39:37,678 - INFO - EasyOCR initialized for English
+2025-04-18 13:39:51,144 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-04-18 13:39:53,894 - INFO - EasyOCR initialized for English
+2025-04-18 13:44:04,610 - INFO - YOLO model loaded: yolo_models/citizenship.pt
+2025-04-18 13:44:04,610 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-04-18 13:44:11,271 - INFO - EasyOCR initialized for Nepali and English
+2025-04-18 13:44:12,317 - INFO - YOLO model loaded: yolo_models/lisc.pt
+2025-04-18 13:44:12,317 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-04-18 13:44:16,215 - INFO - EasyOCR initialized for English
+2025-04-18 13:44:21,898 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-04-18 13:44:24,844 - INFO - EasyOCR initialized for English
+2025-04-18 13:56:54,460 - INFO - YOLO model loaded: yolo_models/citizenship.pt
+2025-04-18 13:56:54,460 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-04-18 13:57:12,047 - INFO - EasyOCR initialized for Nepali and English
+2025-04-18 13:57:16,059 - INFO - YOLO model loaded: yolo_models/lisc.pt
+2025-04-18 13:57:16,059 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-04-18 13:57:24,274 - INFO - EasyOCR initialized for English
+2025-04-18 13:58:59,174 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-04-18 14:00:22,264 - INFO - EasyOCR initialized for English
+2025-04-18 16:30:02,245 - INFO - YOLO model loaded: yolo_models/citizenship.pt
+2025-04-18 16:30:02,253 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-04-18 16:30:23,343 - INFO - EasyOCR initialized for Nepali and English
+2025-04-18 16:30:25,925 - INFO - YOLO model loaded: yolo_models/lisc.pt
+2025-04-18 16:30:25,927 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-04-18 16:30:46,798 - INFO - EasyOCR initialized for English
+2025-04-18 16:31:16,312 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-04-18 16:31:20,149 - INFO - EasyOCR initialized for English
+2025-04-18 17:02:21,729 - INFO - YOLO model loaded: yolo_models/citizenship.pt
+2025-04-18 17:02:21,768 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-04-18 17:02:28,580 - INFO - EasyOCR initialized for Nepali and English
+2025-04-18 17:02:30,477 - INFO - YOLO model loaded: yolo_models/lisc.pt
+2025-04-18 17:02:30,478 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-04-18 17:02:33,282 - INFO - EasyOCR initialized for English
+2025-04-18 17:02:41,311 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-04-18 17:02:43,877 - INFO - EasyOCR initialized for English
+2025-04-18 17:15:01,265 - INFO - YOLO model loaded: yolo_models/citizenship.pt
+2025-04-18 17:15:01,311 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-04-18 17:17:18,937 - INFO - EasyOCR initialized for Nepali and English
+2025-04-18 17:17:29,523 - INFO - YOLO model loaded: yolo_models/lisc.pt
+2025-04-18 17:17:29,525 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-04-18 17:18:13,600 - INFO - EasyOCR initialized for English
+2025-04-18 17:19:23,864 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-04-18 17:19:26,950 - INFO - EasyOCR initialized for English
+2025-04-18 17:24:15,299 - INFO - YOLO model loaded: yolo_models/citizenship.pt
+2025-04-18 17:24:15,301 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-04-18 17:24:27,088 - INFO - EasyOCR initialized for Nepali and English
+2025-04-18 17:24:30,897 - INFO - YOLO model loaded: yolo_models/lisc.pt
+2025-04-18 17:24:30,898 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-04-18 17:24:35,046 - INFO - EasyOCR initialized for English
+2025-04-18 17:26:06,913 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-04-18 17:26:09,637 - INFO - EasyOCR initialized for English
+2025-04-18 17:28:40,628 - INFO - YOLO model loaded: yolo_models/citizenship.pt
+2025-04-18 17:28:40,629 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-04-18 17:28:46,762 - INFO - EasyOCR initialized for Nepali and English
+2025-04-18 17:28:51,183 - INFO - YOLO model loaded: yolo_models/lisc.pt
+2025-04-18 17:28:51,184 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-04-18 17:29:19,470 - INFO - EasyOCR initialized for English
+2025-04-18 17:29:52,847 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-04-18 17:29:55,354 - INFO - EasyOCR initialized for English
+2025-04-18 17:31:51,407 - INFO - YOLO model loaded: yolo_models/citizenship.pt
+2025-04-18 17:31:51,407 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-04-18 17:32:29,582 - INFO - EasyOCR initialized for Nepali and English
+2025-04-18 17:32:34,216 - INFO - YOLO model loaded: yolo_models/lisc.pt
+2025-04-18 17:32:34,217 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-04-18 17:32:37,161 - INFO - EasyOCR initialized for English
+2025-04-18 17:32:59,306 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-04-18 17:33:01,952 - INFO - EasyOCR initialized for English
+2025-04-18 17:34:02,959 - INFO - YOLO model loaded: yolo_models/citizenship.pt
+2025-04-18 17:34:02,960 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-04-18 17:34:25,491 - INFO - EasyOCR initialized for Nepali and English
+2025-04-18 17:34:25,582 - INFO - YOLO model loaded: yolo_models/lisc.pt
+2025-04-18 17:34:25,583 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-04-18 17:34:27,999 - INFO - EasyOCR initialized for English
+2025-04-18 17:34:34,197 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-04-18 17:34:36,625 - INFO - EasyOCR initialized for English
+2025-04-18 17:35:26,079 - INFO - YOLO model loaded: yolo_models/citizenship.pt
+2025-04-18 17:35:26,080 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-04-18 17:35:29,376 - INFO - EasyOCR initialized for Nepali and English
+2025-04-18 17:35:29,466 - INFO - YOLO model loaded: yolo_models/lisc.pt
+2025-04-18 17:35:29,467 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-04-18 17:35:31,792 - INFO - EasyOCR initialized for English
+2025-04-18 17:35:40,301 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-04-18 17:35:42,538 - INFO - EasyOCR initialized for English
+2025-04-18 17:37:41,255 - DEBUG - Calling on_part_begin with no data
+2025-04-18 17:37:41,256 - DEBUG - Calling on_header_field with data[42:61]
+2025-04-18 17:37:41,257 - DEBUG - Calling on_header_value with data[63:89]
+2025-04-18 17:37:41,257 - DEBUG - Calling on_header_end with no data
+2025-04-18 17:37:41,257 - DEBUG - Calling on_headers_finished with no data
+2025-04-18 17:37:41,257 - DEBUG - Calling on_part_data with data[93:104]
+2025-04-18 17:37:41,257 - DEBUG - Calling on_part_end with no data
+2025-04-18 17:37:41,257 - DEBUG - Calling on_part_begin with no data
+2025-04-18 17:37:41,257 - DEBUG - Calling on_header_field with data[148:167]
+2025-04-18 17:37:41,258 - DEBUG - Calling on_header_value with data[169:216]
+2025-04-18 17:37:41,258 - DEBUG - Calling on_header_end with no data
+2025-04-18 17:37:41,258 - DEBUG - Calling on_header_field with data[218:230]
+2025-04-18 17:37:41,529 - DEBUG - Calling on_header_value with data[232:242]
+2025-04-18 17:37:41,529 - DEBUG - Calling on_header_end with no data
+2025-04-18 17:37:41,530 - DEBUG - Calling on_headers_finished with no data
+2025-04-18 17:37:41,531 - DEBUG - Calling on_part_data with data[246:196608]
+2025-04-18 17:37:41,533 - DEBUG - Calling on_part_data with data[0:66729]
+2025-04-18 17:37:41,533 - DEBUG - Calling on_part_end with no data
+2025-04-18 17:37:41,534 - DEBUG - Calling on_part_begin with no data
+2025-04-18 17:37:41,534 - DEBUG - Calling on_header_field with data[66773:66792]
+2025-04-18 17:37:41,534 - DEBUG - Calling on_header_value with data[66794:66853]
+2025-04-18 17:37:41,534 - DEBUG - Calling on_header_end with no data
+2025-04-18 17:37:41,535 - DEBUG - Calling on_header_field with data[66855:66867]
+2025-04-18 17:37:41,535 - DEBUG - Calling on_header_value with data[66869:66879]
+2025-04-18 17:37:41,536 - DEBUG - Calling on_header_end with no data
+2025-04-18 17:37:41,536 - DEBUG - Calling on_headers_finished with no data
+2025-04-18 17:37:41,537 - DEBUG - Calling on_part_data with data[66883:131203]
+2025-04-18 17:37:41,537 - DEBUG - Calling on_part_end with no data
+2025-04-18 17:37:41,538 - DEBUG - Calling on_end with no data
+2025-04-18 17:37:41,839 - WARNING - Unknown file type: z_11zon.jpg
+2025-04-18 17:37:42,496 - DEBUG - Saved selfie: Uploads\selfie\webcam-selfie.jpg
+2025-04-18 17:37:42,496 - DEBUG - Processing Selfie image: Uploads\selfie\webcam-selfie.jpg
+2025-04-18 17:37:43,799 - DEBUG - Image enhanced
+2025-04-18 17:37:45,715 - DEBUG - Detected 1 faces
+2025-04-18 17:37:46,142 - DEBUG - Saved face crop to Outputs\selfie\crops\selfie_face_webcam-selfie.jpg
+2025-04-18 17:37:46,145 - DEBUG - Saved results to Outputs\selfie\webcam-selfie_fields.json
+2025-04-18 17:37:46,148 - DEBUG - Saved annotated image to Outputs\selfie\annotated_webcam-selfie.jpg
+2025-04-18 17:37:46,260 - DEBUG - Saved final combined JSON: Outputs\final_combined.json
+2025-04-18 17:37:46,261 - DEBUG - Selfie results for Uploads\selfie\webcam-selfie.jpg: {'Selfie': {'ocr_text': 'Face detected', 'confidence': 0.9, 'crop_image_path': 'Outputs\\selfie\\crops\\selfie_face_webcam-selfie.jpg', 'source_image': 'webcam-selfie.jpg'}}
+2025-04-18 17:37:46,262 - INFO - Combined JSON saved: Outputs\final_combined.json
+2025-04-18 17:41:07,905 - INFO - YOLO model loaded: yolo_models/citizenship.pt
+2025-04-18 17:41:07,906 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-04-18 17:41:11,764 - INFO - EasyOCR initialized for Nepali and English
+2025-04-18 17:41:11,845 - INFO - YOLO model loaded: yolo_models/lisc.pt
+2025-04-18 17:41:11,846 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-04-18 17:41:14,354 - INFO - EasyOCR initialized for English
+2025-04-18 17:41:21,558 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-04-18 17:41:23,997 - INFO - EasyOCR initialized for English
+2025-04-18 17:42:02,351 - DEBUG - Calling on_part_begin with no data
+2025-04-18 17:42:02,352 - DEBUG - Calling on_header_field with data[42:61]
+2025-04-18 17:42:02,352 - DEBUG - Calling on_header_value with data[63:89]
+2025-04-18 17:42:02,352 - DEBUG - Calling on_header_end with no data
+2025-04-18 17:42:02,353 - DEBUG - Calling on_headers_finished with no data
+2025-04-18 17:42:02,353 - DEBUG - Calling on_part_data with data[93:104]
+2025-04-18 17:42:02,353 - DEBUG - Calling on_part_end with no data
+2025-04-18 17:42:02,354 - DEBUG - Calling on_part_begin with no data
+2025-04-18 17:42:02,354 - DEBUG - Calling on_header_field with data[148:167]
+2025-04-18 17:42:02,355 - DEBUG - Calling on_header_value with data[169:216]
+2025-04-18 17:42:02,355 - DEBUG - Calling on_header_end with no data
+2025-04-18 17:42:02,356 - DEBUG - Calling on_header_field with data[218:230]
+2025-04-18 17:42:02,356 - DEBUG - Calling on_header_value with data[232:242]
+2025-04-18 17:42:02,356 - DEBUG - Calling on_header_end with no data
+2025-04-18 17:42:02,356 - DEBUG - Calling on_headers_finished with no data
+2025-04-18 17:42:02,357 - DEBUG - Calling on_part_data with data[246:262144]
+2025-04-18 17:42:02,358 - DEBUG - Calling on_part_data with data[0:1193]
+2025-04-18 17:42:02,358 - DEBUG - Calling on_part_end with no data
+2025-04-18 17:42:02,358 - DEBUG - Calling on_part_begin with no data
+2025-04-18 17:42:02,359 - DEBUG - Calling on_header_field with data[1237:1256]
+2025-04-18 17:42:02,359 - DEBUG - Calling on_header_value with data[1258:1317]
+2025-04-18 17:42:02,359 - DEBUG - Calling on_header_end with no data
+2025-04-18 17:42:02,359 - DEBUG - Calling on_header_field with data[1319:1331]
+2025-04-18 17:42:02,360 - DEBUG - Calling on_header_value with data[1333:1343]
+2025-04-18 17:42:02,361 - DEBUG - Calling on_header_end with no data
+2025-04-18 17:42:02,361 - DEBUG - Calling on_headers_finished with no data
+2025-04-18 17:42:02,361 - DEBUG - Calling on_part_data with data[1347:62607]
+2025-04-18 17:42:02,361 - DEBUG - Calling on_part_end with no data
+2025-04-18 17:42:02,361 - DEBUG - Calling on_end with no data
+2025-04-18 17:42:02,500 - DEBUG - Saved ID file: Uploads\citizenship\z_11zon.jpg
+2025-04-18 17:42:02,503 - DEBUG - Saved selfie: Uploads\selfie\webcam-selfie.jpg
+2025-04-18 17:42:02,503 - DEBUG - Processing image: Uploads\citizenship\z_11zon.jpg
+2025-04-18 17:42:05,626 - DEBUG - ['tesseract', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_osjv8h58_input.PNG', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_osjv8h58', '-l', 'osd', '--psm', '0']
+2025-04-18 17:42:08,156 - DEBUG - Rotated image by 180 degrees
+2025-04-18 17:42:08,159 - DEBUG - Image rotated by 180 degrees
+2025-04-18 17:42:12,613 - DEBUG - YOLO detected 1 objects in Uploads\citizenship\z_11zon.jpg
+2025-04-18 17:42:12,626 - DEBUG - Bounding box 0: (266, 554, 679, 589) with confidence 0.57679682970047
+2025-04-18 17:42:12,637 - DEBUG - Crop standard deviation: 46.59590474904683
+2025-04-18 17:42:12,637 - DEBUG - Crop enhanced
+2025-04-18 17:42:16,373 - DEBUG - EasyOCR text for : , confidence: 0.0
+2025-04-18 17:42:16,379 - DEBUG - ['tesseract', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_yxd5b2fs_input.PNG', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_yxd5b2fs', '-l', 'nep+eng', '--oem', '3', '--psm', '6', 'txt']
+2025-04-18 17:42:18,998 - DEBUG - EasyOCR results: [[[[4, 200], [41, 200], [41, 421], [4, 421]], '']]
+2025-04-18 17:42:18,998 - DEBUG - EasyOCR text for : , confidence: 0.0
+2025-04-18 17:42:19,002 - DEBUG - ['tesseract', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_4_4c4ncw_input.PNG', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_4_4c4ncw', '-l', 'nep+eng', '--oem', '3', '--psm', '6', 'txt']
+2025-04-18 17:42:21,452 - DEBUG - EasyOCR text for : , confidence: 0.0
+2025-04-18 17:42:21,455 - DEBUG - ['tesseract', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_8zk839ha_input.PNG', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_8zk839ha', '-l', 'nep+eng', '--oem', '3', '--psm', '6', 'txt']
+2025-04-18 17:42:23,016 - DEBUG - EasyOCR results: [[[[4, 8], [32, 8], [32, 226], [4, 226]], '']]
+2025-04-18 17:42:23,017 - DEBUG - EasyOCR text for : , confidence: 0.0
+2025-04-18 17:42:23,019 - DEBUG - ['tesseract', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_n3q2oxvb_input.PNG', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_n3q2oxvb', '-l', 'nep+eng', '--oem', '3', '--psm', '6', 'txt']
+2025-04-18 17:42:23,275 - DEBUG - Tesseract text: 
+2025-04-18 17:42:23,796 - DEBUG - EasyOCR text for : , confidence: 0.0
+2025-04-18 17:42:23,798 - DEBUG - ['tesseract', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_h12jwy1d_input.PNG', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_h12jwy1d', '-l', 'nep+eng', '--oem', '3', '--psm', '6', 'txt']
+2025-04-18 17:42:24,163 - WARNING - No valid text or label for crop at (258, 554, 687, 597)
+2025-04-18 17:42:24,163 - WARNING - No fields found in Uploads\citizenship\z_11zon.jpg
+2025-04-18 17:42:24,165 - DEBUG - Saved results to Outputs\citizenship\z_11zon_fields.json
+2025-04-18 17:42:24,171 - DEBUG - Saved annotated image to Outputs\citizenship\annotated_z_11zon.jpg
+2025-04-18 17:42:24,171 - DEBUG - Saved final combined JSON: Outputs\final_combined.json
+2025-04-18 17:42:24,172 - DEBUG - Returning fields: ['status']
+2025-04-18 17:42:24,172 - DEBUG - Citizenship results for Uploads\citizenship\z_11zon.jpg: {'status': {'ocr_text': 'No fields detected', 'confidence': 0.0, 'crop_image_path': '', 'source_image': 'z_11zon.jpg'}}
+2025-04-18 17:42:24,172 - DEBUG - Processing Selfie image: Uploads\selfie\webcam-selfie.jpg
+2025-04-18 17:42:24,218 - DEBUG - Image enhanced
+2025-04-18 17:42:24,526 - DEBUG - Detected 1 faces
+2025-04-18 17:42:24,594 - DEBUG - Saved face crop to Outputs\selfie\crops\selfie_face_webcam-selfie.jpg
+2025-04-18 17:42:24,596 - DEBUG - Saved results to Outputs\selfie\webcam-selfie_fields.json
+2025-04-18 17:42:24,599 - DEBUG - Saved annotated image to Outputs\selfie\annotated_webcam-selfie.jpg
+2025-04-18 17:42:24,601 - DEBUG - Saved final combined JSON: Outputs\final_combined.json
+2025-04-18 17:42:24,602 - DEBUG - Selfie results for Uploads\selfie\webcam-selfie.jpg: {'Selfie': {'ocr_text': 'Face detected', 'confidence': 0.9, 'crop_image_path': 'Outputs\\selfie\\crops\\selfie_face_webcam-selfie.jpg', 'source_image': 'webcam-selfie.jpg'}}
+2025-04-18 17:42:27,055 - INFO - Combined JSON saved: Outputs\final_combined.json
+2025-04-18 17:49:14,986 - INFO - YOLO model loaded: yolo_models/citizenship.pt
+2025-04-18 17:49:15,023 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-04-18 17:52:21,870 - INFO - EasyOCR initialized for Nepali and English
+2025-04-18 17:52:45,938 - INFO - YOLO model loaded: yolo_models/lisc.pt
+2025-04-18 17:52:45,939 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-04-18 17:54:39,385 - INFO - EasyOCR initialized for English
+2025-04-18 17:58:54,508 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-04-18 18:00:12,239 - INFO - EasyOCR initialized for English
+2025-04-18 18:01:28,305 - DEBUG - Calling on_part_begin with no data
+2025-04-18 18:01:28,306 - DEBUG - Calling on_header_field with data[42:61]
+2025-04-18 18:01:28,306 - DEBUG - Calling on_header_value with data[63:89]
+2025-04-18 18:01:28,307 - DEBUG - Calling on_header_end with no data
+2025-04-18 18:01:28,307 - DEBUG - Calling on_headers_finished with no data
+2025-04-18 18:01:28,307 - DEBUG - Calling on_part_data with data[93:101]
+2025-04-18 18:01:28,307 - DEBUG - Calling on_part_end with no data
+2025-04-18 18:01:28,308 - DEBUG - Calling on_part_begin with no data
+2025-04-18 18:01:28,309 - DEBUG - Calling on_header_field with data[145:164]
+2025-04-18 18:01:28,309 - DEBUG - Calling on_header_value with data[166:250]
+2025-04-18 18:01:28,310 - DEBUG - Calling on_header_end with no data
+2025-04-18 18:01:28,310 - DEBUG - Calling on_header_field with data[252:264]
+2025-04-18 18:01:28,310 - DEBUG - Calling on_header_value with data[266:276]
+2025-04-18 18:01:28,310 - DEBUG - Calling on_header_end with no data
+2025-04-18 18:01:28,310 - DEBUG - Calling on_headers_finished with no data
+2025-04-18 18:01:28,311 - DEBUG - Calling on_part_data with data[280:261449]
+2025-04-18 18:01:28,312 - DEBUG - Calling on_part_data with data[0:93219]
+2025-04-18 18:01:28,313 - DEBUG - Calling on_part_end with no data
+2025-04-18 18:01:28,313 - DEBUG - Calling on_part_begin with no data
+2025-04-18 18:01:28,313 - DEBUG - Calling on_header_field with data[93263:93282]
+2025-04-18 18:01:28,314 - DEBUG - Calling on_header_value with data[93284:93371]
+2025-04-18 18:01:28,314 - DEBUG - Calling on_header_end with no data
+2025-04-18 18:01:28,314 - DEBUG - Calling on_header_field with data[93373:93385]
+2025-04-18 18:01:28,314 - DEBUG - Calling on_header_value with data[93387:93397]
+2025-04-18 18:01:28,314 - DEBUG - Calling on_header_end with no data
+2025-04-18 18:01:28,315 - DEBUG - Calling on_headers_finished with no data
+2025-04-18 18:01:28,315 - DEBUG - Calling on_part_data with data[93401:111305]
+2025-04-18 18:01:28,316 - DEBUG - Calling on_part_end with no data
+2025-04-18 18:01:28,316 - DEBUG - Calling on_end with no data
+2025-04-18 18:01:28,633 - DEBUG - Saved ID file: Uploads\passport\WhatsApp Image 2025-04-14 at 9.10.37 PM (1).jpeg
+2025-04-18 18:01:28,769 - DEBUG - Saved selfie: Uploads\selfie\WhatsApp Image 2025-04-14 at 10.53.50 PM.jpeg
+2025-04-18 18:01:28,769 - INFO - Processing Passport image: Uploads\passport\WhatsApp Image 2025-04-14 at 9.10.37 PM (1).jpeg
+2025-04-18 18:04:11,597 - DEBUG - Importing AvifImagePlugin
+2025-04-18 18:04:12,015 - DEBUG - Importing BlpImagePlugin
+2025-04-18 18:04:12,137 - DEBUG - Importing BmpImagePlugin
+2025-04-18 18:04:12,137 - DEBUG - Importing BufrStubImagePlugin
+2025-04-18 18:04:12,235 - DEBUG - Importing CurImagePlugin
+2025-04-18 18:04:12,408 - DEBUG - Importing DcxImagePlugin
+2025-04-18 18:04:12,649 - DEBUG - Importing DdsImagePlugin
+2025-04-18 18:04:12,774 - DEBUG - Importing EpsImagePlugin
+2025-04-18 18:04:12,872 - DEBUG - Importing FitsImagePlugin
+2025-04-18 18:04:13,025 - DEBUG - Importing FliImagePlugin
+2025-04-18 18:04:13,028 - DEBUG - Importing FpxImagePlugin
+2025-04-18 18:04:13,140 - DEBUG - Image: failed to import FpxImagePlugin: No module named 'olefile'
+2025-04-18 18:04:13,141 - DEBUG - Importing FtexImagePlugin
+2025-04-18 18:04:13,158 - DEBUG - Importing GbrImagePlugin
+2025-04-18 18:04:13,202 - DEBUG - Importing GifImagePlugin
+2025-04-18 18:04:13,203 - DEBUG - Importing GribStubImagePlugin
+2025-04-18 18:04:13,255 - DEBUG - Importing Hdf5StubImagePlugin
+2025-04-18 18:04:13,277 - DEBUG - Importing IcnsImagePlugin
+2025-04-18 18:04:13,582 - DEBUG - Importing IcoImagePlugin
+2025-04-18 18:04:13,695 - DEBUG - Importing ImImagePlugin
+2025-04-18 18:04:13,920 - DEBUG - Importing ImtImagePlugin
+2025-04-18 18:04:13,985 - DEBUG - Importing IptcImagePlugin
+2025-04-18 18:04:14,122 - DEBUG - Importing JpegImagePlugin
+2025-04-18 18:04:14,123 - DEBUG - Importing Jpeg2KImagePlugin
+2025-04-18 18:04:14,123 - DEBUG - Importing McIdasImagePlugin
+2025-04-18 18:04:14,181 - DEBUG - Importing MicImagePlugin
+2025-04-18 18:04:14,184 - DEBUG - Image: failed to import MicImagePlugin: No module named 'olefile'
+2025-04-18 18:04:14,184 - DEBUG - Importing MpegImagePlugin
+2025-04-18 18:04:14,211 - DEBUG - Importing MpoImagePlugin
+2025-04-18 18:04:14,582 - DEBUG - Importing MspImagePlugin
+2025-04-18 18:04:14,595 - DEBUG - Importing PalmImagePlugin
+2025-04-18 18:04:14,754 - DEBUG - Importing PcdImagePlugin
+2025-04-18 18:04:14,759 - DEBUG - Importing PcxImagePlugin
+2025-04-18 18:04:14,760 - DEBUG - Importing PdfImagePlugin
+2025-04-18 18:04:15,061 - DEBUG - Importing PixarImagePlugin
+2025-04-18 18:04:15,064 - DEBUG - Importing PngImagePlugin
+2025-04-18 18:04:15,083 - DEBUG - Importing PpmImagePlugin
+2025-04-18 18:04:15,083 - DEBUG - Importing PsdImagePlugin
+2025-04-18 18:04:15,129 - DEBUG - Importing QoiImagePlugin
+2025-04-18 18:04:15,169 - DEBUG - Importing SgiImagePlugin
+2025-04-18 18:04:15,282 - DEBUG - Importing SpiderImagePlugin
+2025-04-18 18:04:15,286 - DEBUG - Importing SunImagePlugin
+2025-04-18 18:04:15,306 - DEBUG - Importing TgaImagePlugin
+2025-04-18 18:04:15,382 - DEBUG - Importing TiffImagePlugin
+2025-04-18 18:04:15,384 - DEBUG - Importing WebPImagePlugin
+2025-04-18 18:04:15,454 - DEBUG - Importing WmfImagePlugin
+2025-04-18 18:04:15,484 - DEBUG - Importing XbmImagePlugin
+2025-04-18 18:04:15,489 - DEBUG - Importing XpmImagePlugin
+2025-04-18 18:04:15,530 - DEBUG - Importing XVThumbImagePlugin
+2025-04-18 18:04:15,705 - DEBUG - ['tesseract', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_uk6jd1up.bmp', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_jodw64g3', '--psm', '6', '-c', 'tessedit_char_whitelist=ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789><', '-c', 'load_system_dawg=F', '-c', 'load_freq_dawg=F', 'txt']
+2025-04-18 18:05:02,326 - DEBUG - ['tesseract', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_16x6jsd6.bmp', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_xx8smmjt', '--psm', '6', '-c', 'tessedit_char_whitelist=ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789><', '-c', 'load_system_dawg=F', '-c', 'load_freq_dawg=F', 'txt']
+2025-04-18 18:05:02,784 - DEBUG - ['tesseract', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_ddbrgizc.bmp', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_iurnqcv2', '--psm', '6', '-c', 'tessedit_char_whitelist=ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789><', '-c', 'load_system_dawg=F', '-c', 'load_freq_dawg=F', 'txt']
+2025-04-18 18:05:05,202 - DEBUG - ['tesseract', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess__msbj3lv.bmp', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess__qkii35j', '--psm', '6', '-c', 'tessedit_char_whitelist=ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789><', '-c', 'load_system_dawg=F', '-c', 'load_freq_dawg=F', 'txt']
+2025-04-18 18:05:11,361 - DEBUG - ['tesseract', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_u45zm6zr.bmp', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_3x5vjacb', '--psm', '6', '-c', 'tessedit_char_whitelist=ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789><', '-c', 'load_system_dawg=F', '-c', 'load_freq_dawg=F', 'txt']
+2025-04-18 18:05:12,657 - DEBUG - ['tesseract', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_8ew73tbp.bmp', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_3dowpl07', '--psm', '6', '-c', 'tessedit_char_whitelist=ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789><', '-c', 'load_system_dawg=F', '-c', 'load_freq_dawg=F', 'txt']
+2025-04-18 18:05:13,032 - DEBUG - ['tesseract', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_vmf_urr0.bmp', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_rs7kk47j', '--psm', '6', '-c', 'tessedit_char_whitelist=ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789><', '-c', 'load_system_dawg=F', '-c', 'load_freq_dawg=F', 'txt']
+2025-04-18 18:05:14,424 - INFO - Results saved for 0°: Outputs\passport\WhatsApp Image 2025-04-14 at 9.10.37 PM (1)_0_fields.json
+2025-04-18 18:05:14,425 - ERROR - Passport processing failed: [Errno 2] No such file or directory: 'Uploads\\passport\\WhatsApp Image 2025-04-14 at 9.10.37 PM (1).jpeg'
+2025-04-18 18:05:14,426 - DEBUG - Processing Selfie image: Uploads\selfie\WhatsApp Image 2025-04-14 at 10.53.50 PM.jpeg
+2025-04-18 18:05:14,809 - DEBUG - Image enhanced
+2025-04-18 18:05:20,519 - DEBUG - Detected 1 faces
+2025-04-18 18:05:20,931 - DEBUG - Saved face crop to Outputs\selfie\crops\selfie_face_WhatsApp Image 2025-04-14 at 10.53.50 PM.jpeg
+2025-04-18 18:05:20,933 - DEBUG - Saved results to Outputs\selfie\WhatsApp Image 2025-04-14 at 10.53.50 PM_fields.json
+2025-04-18 18:05:21,498 - DEBUG - Saved annotated image to Outputs\selfie\annotated_WhatsApp Image 2025-04-14 at 10.53.50 PM.jpeg
+2025-04-18 18:05:21,501 - DEBUG - Saved final combined JSON: Outputs\final_combined.json
+2025-04-18 18:05:21,502 - DEBUG - Selfie results for Uploads\selfie\WhatsApp Image 2025-04-14 at 10.53.50 PM.jpeg: {'Selfie': {'ocr_text': 'Face detected', 'confidence': 0.9, 'crop_image_path': 'Outputs\\selfie\\crops\\selfie_face_WhatsApp Image 2025-04-14 at 10.53.50 PM.jpeg', 'source_image': 'WhatsApp Image 2025-04-14 at 10.53.50 PM.jpeg'}}
+2025-04-18 18:05:21,502 - INFO - Combined JSON saved: Outputs\final_combined.json

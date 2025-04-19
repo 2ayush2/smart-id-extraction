@@ -1,0 +1,12 @@
+{
+    "fields": {
+        "error": {
+            "ocr_text": "No fields detected",
+            "crop_image_path": "",
+            "source_image": "WhatsApp Image 2025-04-13 at 4.35.57 PM.jpeg_bw.jpg"
+        }
+    },
+    "confidences": {
+        "error": 0.0
+    }
+}

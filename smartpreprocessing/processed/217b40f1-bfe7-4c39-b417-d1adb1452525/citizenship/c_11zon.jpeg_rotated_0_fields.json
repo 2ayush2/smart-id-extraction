@@ -1,0 +1,80 @@
+{
+    "Gender": {
+        "ocr_text": "ड ग",
+        "confidence": 0.721,
+        "crop_image_path": "processed/217b40f1-bfe7-4c39-b417-d1adb1452525/citizenship\\crops\\c_11zon.jpeg_rotated_0_rotated_270_Gender_876_973.jpg",
+        "source_image": "c_11zon.jpeg_rotated_0.jpg"
+    },
+    "Father's Name": {
+        "ocr_text": "ड ब ३",
+        "confidence": 0.55,
+        "crop_image_path": "processed/217b40f1-bfe7-4c39-b417-d1adb1452525/citizenship\\crops\\c_11zon.jpeg_rotated_0_rotated_270_Father's Name_738_973.jpg",
+        "source_image": "c_11zon.jpeg_rotated_0.jpg"
+    },
+    "Name": {
+        "ocr_text": "म थर : दव नरयण शरठ",
+        "confidence": 0.522,
+        "crop_image_path": "processed/217b40f1-bfe7-4c39-b417-d1adb1452525/citizenship\\crops\\c_11zon.jpeg_rotated_0_rotated_270_Name_579_716.jpg",
+        "source_image": "c_11zon.jpeg_rotated_0.jpg"
+    },
+    "Mother's Name": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "c_11zon.jpeg_rotated_0.jpg"
+    },
+    "Date of Birth": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "c_11zon.jpeg_rotated_0.jpg"
+    },
+    "Place of Birth": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "c_11zon.jpeg_rotated_0.jpg"
+    },
+    "Permanent Address": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "c_11zon.jpeg_rotated_0.jpg"
+    },
+    "Temporary Address": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "c_11zon.jpeg_rotated_0.jpg"
+    },
+    "Citizenship Number": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "c_11zon.jpeg_rotated_0.jpg"
+    },
+    "Issued District": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "c_11zon.jpeg_rotated_0.jpg"
+    },
+    "Spouse Name": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "c_11zon.jpeg_rotated_0.jpg"
+    },
+    "Grandfather's Name": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "c_11zon.jpeg_rotated_0.jpg"
+    },
+    "Issued Date": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "c_11zon.jpeg_rotated_0.jpg"
+    }
+}

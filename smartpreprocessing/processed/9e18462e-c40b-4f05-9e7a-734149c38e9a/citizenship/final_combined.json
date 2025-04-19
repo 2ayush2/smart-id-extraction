@@ -1,0 +1,24 @@
+[
+    {
+        "run_id": "citizenship",
+        "document_type": "Citizenship",
+        "timestamp": "2025-04-19T13:24:17.278720",
+        "fields": {
+            "Permanent Address": "ree"
+        },
+        "confidences": {
+            "Permanent Address": 0.802
+        }
+    },
+    {
+        "run_id": "9e18462e-c40b-4f05-9e7a-734149c38e9a",
+        "document_type": "Citizenship",
+        "timestamp": "2025-04-19T13:24:17.441636",
+        "fields": {
+            "Permanent Address": "ree"
+        },
+        "confidences": {
+            "Permanent Address": 0.802
+        }
+    }
+]

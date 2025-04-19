@@ -1,0 +1,17 @@
+[
+    {
+        "run_id": "165f5a23-34ab-4c51-a742-415417225bd6",
+        "document_type": "Citizenship",
+        "timestamp": "2025-04-19T01:59:41.091221",
+        "fields": {
+            "Issued Date": "०७००-६१-३०",
+            "Permanent Address": "४-००५५९८ सामचर मुवन लुहागुन न्म स्थान जिल्ला तेषटथुम",
+            "Spouse Name": "थर : ५"
+        },
+        "confidences": {
+            "Issued Date": 0.8,
+            "Permanent Address": 0.8,
+            "Spouse Name": 0.8
+        }
+    }
+]

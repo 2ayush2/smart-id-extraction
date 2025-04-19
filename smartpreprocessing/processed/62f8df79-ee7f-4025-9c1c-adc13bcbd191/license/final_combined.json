@@ -1,0 +1,23 @@
+[
+    {
+        "run_id": "62f8df79-ee7f-4025-9c1c-adc13bcbd191",
+        "document_type": "License",
+        "timestamp": "2025-04-19T10:01:18.115468",
+        "fields": {
+            "Selfie": "Face detected",
+            "Date of Birth": "10-11-1988",
+            "Unknown": "tani 71dr 34047 DRIVING LICENSE",
+            "License Number": "02-04-89111583",
+            "Name": "SAMSUL ANSARI",
+            "Citizenship Number": "76903520 daccnett Al"
+        },
+        "confidences": {
+            "Selfie": 0.8241483569145203,
+            "Date of Birth": 0.809,
+            "Unknown": 0.726,
+            "License Number": 0.725,
+            "Name": 0.791,
+            "Citizenship Number": 0.632
+        }
+    }
+]

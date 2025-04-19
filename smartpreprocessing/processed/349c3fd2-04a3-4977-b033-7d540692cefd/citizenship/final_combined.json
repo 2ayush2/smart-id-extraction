@@ -1,0 +1,52 @@
+[
+    {
+        "run_id": "citizenship",
+        "document_type": "Citizenship",
+        "timestamp": "2025-04-19T14:33:35.122179",
+        "fields": {
+            "Permanent Address": "नम थर वशवजत तवर\n जनम सथन जलल बक\n\nयनन स प पय प नक",
+            "Father's Name": "क\n\n७०:७ ०-/० २० ६",
+            "Gender": "प०:४ ३०० र",
+            "Name": "",
+            "Mother's Name": "",
+            "Date of Birth": "",
+            "Place of Birth": "",
+            "Temporary Address": "",
+            "Citizenship Number": "",
+            "Issued District": "",
+            "Spouse Name": "",
+            "Grandfather's Name": "",
+            "Issued Date": ""
+        },
+        "confidences": {
+            "Permanent Address": 0.773,
+            "Father's Name": 0.797,
+            "Gender": 0.637,
+            "Name": 0.0,
+            "Mother's Name": 0.0,
+            "Date of Birth": 0.0,
+            "Place of Birth": 0.0,
+            "Temporary Address": 0.0,
+            "Citizenship Number": 0.0,
+            "Issued District": 0.0,
+            "Spouse Name": 0.0,
+            "Grandfather's Name": 0.0,
+            "Issued Date": 0.0
+        }
+    },
+    {
+        "run_id": "349c3fd2-04a3-4977-b033-7d540692cefd",
+        "document_type": "Citizenship",
+        "timestamp": "2025-04-19T14:33:35.230958",
+        "fields": {
+            "Permanent Address": "नम थर वशवजत तवर\n जनम सथन जलल बक\n\nयनन स प पय प नक",
+            "Father's Name": "क\n\n७०:७ ०-/० २० ६",
+            "Gender": "प०:४ ३०० र"
+        },
+        "confidences": {
+            "Permanent Address": 0.773,
+            "Father's Name": 0.797,
+            "Gender": 0.637
+        }
+    }
+]

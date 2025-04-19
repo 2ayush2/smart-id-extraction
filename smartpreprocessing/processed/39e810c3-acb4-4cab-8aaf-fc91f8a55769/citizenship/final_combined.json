@@ -1,0 +1,56 @@
+[
+    {
+        "run_id": "citizenship",
+        "document_type": "Citizenship",
+        "timestamp": "2025-04-19T18:57:40.666470",
+        "fields": {
+            "Name": "म परन : ०४-०१-७३-००९९८",
+            "Father's Name": "2००००-६१-३०-० : क",
+            "Gender": "ल परशरन कगय",
+            "Permanent Address": "य  2",
+            "Spouse Name": "पत\n\n/पतनक",
+            "Mother's Name": "",
+            "Date of Birth": "",
+            "Place of Birth": "",
+            "Temporary Address": "",
+            "Citizenship Number": "",
+            "Issued District": "",
+            "Grandfather's Name": "",
+            "Issued Date": ""
+        },
+        "confidences": {
+            "Name": 0.693,
+            "Father's Name": 0.728,
+            "Gender": 0.535,
+            "Permanent Address": 0.895,
+            "Spouse Name": 0.42,
+            "Mother's Name": 0.0,
+            "Date of Birth": 0.0,
+            "Place of Birth": 0.0,
+            "Temporary Address": 0.0,
+            "Citizenship Number": 0.0,
+            "Issued District": 0.0,
+            "Grandfather's Name": 0.0,
+            "Issued Date": 0.0
+        }
+    },
+    {
+        "run_id": "39e810c3-acb4-4cab-8aaf-fc91f8a55769",
+        "document_type": "Citizenship",
+        "timestamp": "2025-04-19T18:57:41.528436",
+        "fields": {
+            "Name": "म परन : ०४-०१-७३-००९९८",
+            "Father's Name": "2००००-६१-३०-० : क",
+            "Gender": "ल परशरन कगय",
+            "Permanent Address": "य  2",
+            "Spouse Name": "पत\n\n/पतनक"
+        },
+        "confidences": {
+            "Name": 0.693,
+            "Father's Name": 0.728,
+            "Gender": 0.535,
+            "Permanent Address": 0.895,
+            "Spouse Name": 0.42
+        }
+    }
+]

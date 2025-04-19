@@ -1,0 +1,80 @@
+{
+    "Name": {
+        "ocr_text": "म परन : ०४-०१-७३-००९९८",
+        "confidence": 0.693,
+        "crop_image_path": "processed/39e810c3-acb4-4cab-8aaf-fc91f8a55769/citizenship\\crops\\m_11zon.jpg_rotated_0_rotated_270_Name_240_635.jpg",
+        "source_image": "m_11zon.jpg_rotated_0.jpg"
+    },
+    "Father's Name": {
+        "ocr_text": "2००००-६१-३०-० : क",
+        "confidence": 0.728,
+        "crop_image_path": "processed/39e810c3-acb4-4cab-8aaf-fc91f8a55769/citizenship\\crops\\m_11zon.jpg_rotated_0_rotated_180_Father's Name_241_637.jpg",
+        "source_image": "m_11zon.jpg_rotated_0.jpg"
+    },
+    "Gender": {
+        "ocr_text": "ल परशरन कगय",
+        "confidence": 0.535,
+        "crop_image_path": "processed/39e810c3-acb4-4cab-8aaf-fc91f8a55769/citizenship\\crops\\m_11zon.jpg_rotated_0_rotated_90_Gender_527_260.jpg",
+        "source_image": "m_11zon.jpg_rotated_0.jpg"
+    },
+    "Permanent Address": {
+        "ocr_text": "य  2",
+        "confidence": 0.895,
+        "crop_image_path": "processed/39e810c3-acb4-4cab-8aaf-fc91f8a55769/citizenship\\crops\\m_11zon.jpg_rotated_0_rotated_90_Permanent Address_748_478.jpg",
+        "source_image": "m_11zon.jpg_rotated_0.jpg"
+    },
+    "Spouse Name": {
+        "ocr_text": "पत\n\n/पतनक",
+        "confidence": 0.42,
+        "crop_image_path": "processed/39e810c3-acb4-4cab-8aaf-fc91f8a55769/citizenship\\crops\\m_11zon.jpg_rotated_0_rotated_180_Spouse Name_62_195.jpg",
+        "source_image": "m_11zon.jpg_rotated_0.jpg"
+    },
+    "Mother's Name": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "m_11zon.jpg_rotated_0.jpg"
+    },
+    "Date of Birth": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "m_11zon.jpg_rotated_0.jpg"
+    },
+    "Place of Birth": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "m_11zon.jpg_rotated_0.jpg"
+    },
+    "Temporary Address": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "m_11zon.jpg_rotated_0.jpg"
+    },
+    "Citizenship Number": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "m_11zon.jpg_rotated_0.jpg"
+    },
+    "Issued District": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "m_11zon.jpg_rotated_0.jpg"
+    },
+    "Grandfather's Name": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "m_11zon.jpg_rotated_0.jpg"
+    },
+    "Issued Date": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "m_11zon.jpg_rotated_0.jpg"
+    }
+}

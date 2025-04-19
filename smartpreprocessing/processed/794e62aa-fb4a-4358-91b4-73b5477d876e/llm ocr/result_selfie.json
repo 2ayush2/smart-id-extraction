@@ -1,0 +1,13 @@
+{
+    "fields": {
+        "Selfie": {
+            "ocr_text": "Face detected",
+            "confidence": 0.8874778747558594,
+            "crop_image_path": "processed/794e62aa-fb4a-4358-91b4-73b5477d876e/llm ocr/crops/selfie_face_selfie.jpg",
+            "source_image": "selfie.jpg"
+        }
+    },
+    "confidences": {
+        "Selfie": 0.8874778747558594
+    }
+}

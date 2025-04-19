@@ -1,0 +1,27 @@
+[
+    {
+        "run_id": "3eb10cc8-6fc4-40b7-8284-a3e96c2cb16d",
+        "document_type": "Passport",
+        "timestamp": "2025-04-19T01:03:01.765335",
+        "fields": {
+            "Passport Number": "PA2926222",
+            "Surname": "KIIADKAS ADITYASK",
+            "Given Name": "5 KKKKKKEKKKKKKKKKK",
+            "Nationality": "NPL",
+            "Sex": "UNKNOWN",
+            "Date of Expiration": "18/06/2034",
+            "MRZ": "P<NPLKIIADKAS<ADITYASK<<<5<KKKKKKEKKKKKKKKKK\nPA29262224NPLONOSO834340618612017300959<<<56",
+            "Date of Birth": "08/05/2000"
+        },
+        "confidences": {
+            "Passport Number": 0.9,
+            "Surname": 0.9,
+            "Given Name": 0.9,
+            "Nationality": 0.9,
+            "Sex": 0.9,
+            "Date of Expiration": 0.9,
+            "MRZ": 0.9,
+            "Date of Birth": 0.85
+        }
+    }
+]

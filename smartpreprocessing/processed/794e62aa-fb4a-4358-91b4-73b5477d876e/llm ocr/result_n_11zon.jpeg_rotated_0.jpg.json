@@ -1,0 +1,57 @@
+{
+    "fields": {
+        "Name": {
+            "ocr_text": "\u0938\u0938\u094d\u092e\u093f\u0924\u093e \u0930\u093e\u0908",
+            "confidence": 0.9,
+            "crop_image_path": "",
+            "source_image": "n_11zon.jpeg_rotated_0.jpg"
+        },
+        "Date of Birth": {
+            "ocr_text": "\u0938\u093e\u0932 \u0968\u0966\u096b\u096b \u092e\u0939\u093f\u0928\u093e \u0966\u0969 \u0917\u0924\u0947 \u0968\u0969",
+            "confidence": 0.9,
+            "crop_image_path": "",
+            "source_image": "n_11zon.jpeg_rotated_0.jpg"
+        },
+        "National ID": {
+            "ocr_text": "\u0966\u096c-\u0966\u0967-\u096d\u0969-\u0967\u0966\u0966\u0967\u0966",
+            "confidence": 0.9,
+            "crop_image_path": "",
+            "source_image": "n_11zon.jpeg_rotated_0.jpg"
+        },
+        "Gender": {
+            "ocr_text": "",
+            "confidence": 0.0,
+            "crop_image_path": "",
+            "source_image": "n_11zon.jpeg_rotated_0.jpg"
+        },
+        "Expiry Date": {
+            "ocr_text": "",
+            "confidence": 0.0,
+            "crop_image_path": "",
+            "source_image": "n_11zon.jpeg_rotated_0.jpg"
+        },
+        "Address": {
+            "ocr_text": "\u0917\u093e.\u0935\u093f. \u0938. \u092c\u0915\u0932\u094c\u0930\u0940",
+            "confidence": 0.9,
+            "crop_image_path": "",
+            "source_image": "n_11zon.jpeg_rotated_0.jpg"
+        },
+        "Nationality": {
+            "ocr_text": "\u0928\u0947\u092a\u093e\u0932\u0940",
+            "confidence": 0.9,
+            "crop_image_path": "",
+            "source_image": "n_11zon.jpeg_rotated_0.jpg"
+        }
+    },
+    "confidences": {
+        "Name": 0.9,
+        "Date of Birth": 0.9,
+        "National ID": 0.9,
+        "Gender": 0.0,
+        "Expiry Date": 0.0,
+        "Address": 0.9,
+        "Nationality": 0.9
+    },
+    "annotated_path": "processed/794e62aa-fb4a-4358-91b4-73b5477d876e/llm ocr\\annotated_n_11zon.jpeg_rotated_0.jpg",
+    "score": 0
+}

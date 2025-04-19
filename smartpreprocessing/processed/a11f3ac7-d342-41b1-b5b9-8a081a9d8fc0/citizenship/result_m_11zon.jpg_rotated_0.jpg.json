@@ -1,0 +1,98 @@
+{
+    "fields": {
+        "\u091c\u093e\u0930\u0940 \u091c\u093f\u0932\u094d\u0932\u093e": {
+            "ocr_text": "\u0935\u093f\u0937\u094d\u092f\u092a\u0941\u0930\u092a",
+            "confidence": 0.559,
+            "crop_image_path": "processed/a11f3ac7-d342-41b1-b5b9-8a081a9d8fc0/citizenship\\crops\\m_11zon.jpg_rotated_0_rotated_90_\u091c\u093e\u0930\u0940 \u091c\u093f\u0932\u094d\u0932\u093e_343_676.jpg",
+            "source_image": "m_11zon.jpg_rotated_0.jpg"
+        },
+        "\u0928\u093e\u092e": {
+            "ocr_text": "",
+            "confidence": 0.0,
+            "crop_image_path": "",
+            "source_image": "m_11zon.jpg_rotated_0.jpg"
+        },
+        "\u092c\u0941\u092c\u093e\u0915\u094b \u0928\u093e\u092e": {
+            "ocr_text": "",
+            "confidence": 0.0,
+            "crop_image_path": "",
+            "source_image": "m_11zon.jpg_rotated_0.jpg"
+        },
+        "\u0906\u092e\u093e\u0915\u094b \u0928\u093e\u092e": {
+            "ocr_text": "",
+            "confidence": 0.0,
+            "crop_image_path": "",
+            "source_image": "m_11zon.jpg_rotated_0.jpg"
+        },
+        "\u092c\u093e\u091c\u0947\u0915\u094b \u0928\u093e\u092e": {
+            "ocr_text": "",
+            "confidence": 0.0,
+            "crop_image_path": "",
+            "source_image": "m_11zon.jpg_rotated_0.jpg"
+        },
+        "\u092a\u0924\u093f/\u092a\u0924\u094d\u0928\u0940\u0915\u094b \u0928\u093e\u092e": {
+            "ocr_text": "",
+            "confidence": 0.0,
+            "crop_image_path": "",
+            "source_image": "m_11zon.jpg_rotated_0.jpg"
+        },
+        "\u0932\u093f\u0919\u094d\u0917": {
+            "ocr_text": "",
+            "confidence": 0.0,
+            "crop_image_path": "",
+            "source_image": "m_11zon.jpg_rotated_0.jpg"
+        },
+        "\u0938\u094d\u0925\u093e\u092f\u0940 \u0920\u0947\u0917\u093e\u0928\u093e": {
+            "ocr_text": "",
+            "confidence": 0.0,
+            "crop_image_path": "",
+            "source_image": "m_11zon.jpg_rotated_0.jpg"
+        },
+        "\u0905\u0938\u094d\u0925\u093e\u092f\u0940 \u0920\u0947\u0917\u093e\u0928\u093e": {
+            "ocr_text": "",
+            "confidence": 0.0,
+            "crop_image_path": "",
+            "source_image": "m_11zon.jpg_rotated_0.jpg"
+        },
+        "\u091c\u0928\u094d\u092e \u092e\u093f\u0924\u093f": {
+            "ocr_text": "",
+            "confidence": 0.0,
+            "crop_image_path": "",
+            "source_image": "m_11zon.jpg_rotated_0.jpg"
+        },
+        "\u091c\u0928\u094d\u092e \u0938\u094d\u0925\u093e\u0928": {
+            "ocr_text": "",
+            "confidence": 0.0,
+            "crop_image_path": "",
+            "source_image": "m_11zon.jpg_rotated_0.jpg"
+        },
+        "\u0928\u093e\u0917\u0930\u093f\u0915\u0924\u093e \u0928\u0902": {
+            "ocr_text": "",
+            "confidence": 0.0,
+            "crop_image_path": "",
+            "source_image": "m_11zon.jpg_rotated_0.jpg"
+        },
+        "\u091c\u093e\u0930\u0940 \u092e\u093f\u0924\u093f": {
+            "ocr_text": "",
+            "confidence": 0.0,
+            "crop_image_path": "",
+            "source_image": "m_11zon.jpg_rotated_0.jpg"
+        }
+    },
+    "confidences": {
+        "\u091c\u093e\u0930\u0940 \u091c\u093f\u0932\u094d\u0932\u093e": 0.559,
+        "\u0928\u093e\u092e": 0.0,
+        "\u092c\u0941\u092c\u093e\u0915\u094b \u0928\u093e\u092e": 0.0,
+        "\u0906\u092e\u093e\u0915\u094b \u0928\u093e\u092e": 0.0,
+        "\u092c\u093e\u091c\u0947\u0915\u094b \u0928\u093e\u092e": 0.0,
+        "\u092a\u0924\u093f/\u092a\u0924\u094d\u0928\u0940\u0915\u094b \u0928\u093e\u092e": 0.0,
+        "\u0932\u093f\u0919\u094d\u0917": 0.0,
+        "\u0938\u094d\u0925\u093e\u092f\u0940 \u0920\u0947\u0917\u093e\u0928\u093e": 0.0,
+        "\u0905\u0938\u094d\u0925\u093e\u092f\u0940 \u0920\u0947\u0917\u093e\u0928\u093e": 0.0,
+        "\u091c\u0928\u094d\u092e \u092e\u093f\u0924\u093f": 0.0,
+        "\u091c\u0928\u094d\u092e \u0938\u094d\u0925\u093e\u0928": 0.0,
+        "\u0928\u093e\u0917\u0930\u093f\u0915\u0924\u093e \u0928\u0902": 0.0,
+        "\u091c\u093e\u0930\u0940 \u092e\u093f\u0924\u093f": 0.0
+    },
+    "annotated_path": "processed/a11f3ac7-d342-41b1-b5b9-8a081a9d8fc0/citizenship\\annotated_m_11zon.jpg_rotated_0.jpg"
+}

@@ -1,0 +1,36 @@
+{
+    "file_name": "best_output_final_bw.jpg",
+    "rotation_angle": 0,
+    "image_size": {
+        "height": 937,
+        "width": 1280
+    },
+    "detections": [
+        {
+            "field_name": "Unknown",
+            "raw_label": "Address",
+            "confidence": 0.923,
+            "bounding_box": {
+                "x1": 407,
+                "y1": 686,
+                "x2": 949,
+                "y2": 735
+            },
+            "ocr_text": "दपरङ चइचमम गप२ खटउड",
+            "ocr_lang_used": "nep-fuse-2"
+        },
+        {
+            "field_name": "Unknown",
+            "raw_label": "id_number",
+            "confidence": 0.765,
+            "bounding_box": {
+                "x1": 48,
+                "y1": 235,
+                "x2": 472,
+                "y2": 288
+            },
+            "ocr_text": "ननपरन २२०१७७०१४६९",
+            "ocr_lang_used": "nep-fuse-2"
+        }
+    ]
+}

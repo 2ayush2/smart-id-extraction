@@ -1,0 +1,13 @@
+{
+    "fields": {
+        "Selfie": {
+            "ocr_text": "Face detected",
+            "confidence": 0.8770405650138855,
+            "crop_image_path": "processed/ff3fbb90-cc6e-4de0-80f7-eb6f0a676db3/passport/crops/selfie_face_selfie.jpg",
+            "source_image": "selfie.jpg"
+        }
+    },
+    "confidences": {
+        "Selfie": 0.8770405650138855
+    }
+}

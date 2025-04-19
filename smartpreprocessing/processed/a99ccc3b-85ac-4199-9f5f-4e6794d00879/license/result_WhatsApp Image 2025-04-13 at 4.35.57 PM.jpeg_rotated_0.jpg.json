@@ -1,0 +1,6 @@
+{
+    "fields": {
+        "Citizenship Number": {
+            "ocr_text": "\u096b\u096b\u096b\u0967\u096e\u096c\u096b",
+            "confidence": 0.8,
+            "crop_image": 

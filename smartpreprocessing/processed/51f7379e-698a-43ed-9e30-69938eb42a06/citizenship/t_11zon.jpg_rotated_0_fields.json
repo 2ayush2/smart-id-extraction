@@ -1,0 +1,80 @@
+{
+    "Spouse Name": {
+        "ocr_text": "पत पतनक",
+        "confidence": 0.643,
+        "crop_image_path": "processed/51f7379e-698a-43ed-9e30-69938eb42a06/citizenship\\crops\\t_11zon.jpg_rotated_0_rotated_0_Spouse Name_126_467.jpg",
+        "source_image": "t_11zon.jpg_rotated_0.jpg"
+    },
+    "Name": {
+        "ocr_text": "चदणडगढ न",
+        "confidence": 0.623,
+        "crop_image_path": "processed/51f7379e-698a-43ed-9e30-69938eb42a06/citizenship\\crops\\t_11zon.jpg_rotated_0_rotated_0_Name_175_670.jpg",
+        "source_image": "t_11zon.jpg_rotated_0.jpg"
+    },
+    "Grandfather's Name": {
+        "ocr_text": "ज ङ",
+        "confidence": 0.594,
+        "crop_image_path": "processed/51f7379e-698a-43ed-9e30-69938eb42a06/citizenship\\crops\\t_11zon.jpg_rotated_0_rotated_0_Grandfather's Name_121_467.jpg",
+        "source_image": "t_11zon.jpg_rotated_0.jpg"
+    },
+    "Father's Name": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "t_11zon.jpg_rotated_0.jpg"
+    },
+    "Mother's Name": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "t_11zon.jpg_rotated_0.jpg"
+    },
+    "Date of Birth": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "t_11zon.jpg_rotated_0.jpg"
+    },
+    "Place of Birth": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "t_11zon.jpg_rotated_0.jpg"
+    },
+    "Permanent Address": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "t_11zon.jpg_rotated_0.jpg"
+    },
+    "Temporary Address": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "t_11zon.jpg_rotated_0.jpg"
+    },
+    "Citizenship Number": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "t_11zon.jpg_rotated_0.jpg"
+    },
+    "Issued District": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "t_11zon.jpg_rotated_0.jpg"
+    },
+    "Gender": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "t_11zon.jpg_rotated_0.jpg"
+    },
+    "Issued Date": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "t_11zon.jpg_rotated_0.jpg"
+    }
+}

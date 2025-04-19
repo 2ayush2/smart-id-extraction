@@ -1,0 +1,21 @@
+[
+    {
+        "run_id": "36f7a98f-8b36-4544-a5d8-ef0c38b5980a",
+        "document_type": "Llm ocr",
+        "timestamp": "2025-04-19T22:15:49.198905",
+        "fields": {
+            "Name": "ANNA MARIA ERIKSSON",
+            "Date of Birth": "12AUG/AOUT 74",
+            "Gender": "F",
+            "Expiry Date": "15APR/AVR 12",
+            "Nationality": "UTO"
+        },
+        "confidences": {
+            "Name": 0.9,
+            "Date of Birth": 0.9,
+            "Gender": 0.9,
+            "Expiry Date": 0.9,
+            "Nationality": 0.9
+        }
+    }
+]

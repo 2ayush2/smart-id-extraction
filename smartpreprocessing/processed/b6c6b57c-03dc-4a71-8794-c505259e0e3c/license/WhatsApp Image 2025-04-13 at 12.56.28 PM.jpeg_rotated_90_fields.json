@@ -1,0 +1,80 @@
+{
+    "Name": {
+        "ocr_text": "भ\n१\n\nन\n\nरश\n\n२०\n\nआ",
+        "confidence": 0.489,
+        "crop_image_path": "processed/b6c6b57c-03dc-4a71-8794-c505259e0e3c/license\\crops\\WhatsApp Image 2025-04-13 at 12.56.28 PM.jpeg_rotated_90_rotated_270_Name_13_866.jpg",
+        "source_image": "WhatsApp Image 2025-04-13 at 12.56.28 PM.jpeg_rotated_90.jpg"
+    },
+    "Grandfather's Name": {
+        "ocr_text": "ज ५५०पत",
+        "confidence": 0.409,
+        "crop_image_path": "processed/b6c6b57c-03dc-4a71-8794-c505259e0e3c/license\\crops\\WhatsApp Image 2025-04-13 at 12.56.28 PM.jpeg_rotated_90_rotated_270_Grandfather's Name_492_590.jpg",
+        "source_image": "WhatsApp Image 2025-04-13 at 12.56.28 PM.jpeg_rotated_90.jpg"
+    },
+    "Father's Name": {
+        "ocr_text": "प 4०9०4७",
+        "confidence": 0.653,
+        "crop_image_path": "processed/b6c6b57c-03dc-4a71-8794-c505259e0e3c/license\\crops\\WhatsApp Image 2025-04-13 at 12.56.28 PM.jpeg_rotated_90_rotated_270_Father's Name_427_77.jpg",
+        "source_image": "WhatsApp Image 2025-04-13 at 12.56.28 PM.jpeg_rotated_90.jpg"
+    },
+    "Mother's Name": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "WhatsApp Image 2025-04-13 at 12.56.28 PM.jpeg_rotated_90.jpg"
+    },
+    "Date of Birth": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "WhatsApp Image 2025-04-13 at 12.56.28 PM.jpeg_rotated_90.jpg"
+    },
+    "Place of Birth": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "WhatsApp Image 2025-04-13 at 12.56.28 PM.jpeg_rotated_90.jpg"
+    },
+    "Permanent Address": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "WhatsApp Image 2025-04-13 at 12.56.28 PM.jpeg_rotated_90.jpg"
+    },
+    "Temporary Address": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "WhatsApp Image 2025-04-13 at 12.56.28 PM.jpeg_rotated_90.jpg"
+    },
+    "Citizenship Number": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "WhatsApp Image 2025-04-13 at 12.56.28 PM.jpeg_rotated_90.jpg"
+    },
+    "Issued District": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "WhatsApp Image 2025-04-13 at 12.56.28 PM.jpeg_rotated_90.jpg"
+    },
+    "Gender": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "WhatsApp Image 2025-04-13 at 12.56.28 PM.jpeg_rotated_90.jpg"
+    },
+    "Spouse Name": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "WhatsApp Image 2025-04-13 at 12.56.28 PM.jpeg_rotated_90.jpg"
+    },
+    "Issued Date": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "WhatsApp Image 2025-04-13 at 12.56.28 PM.jpeg_rotated_90.jpg"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "fields": {
+        "error": {
+            "ocr_text": "No fields detected"
+        }
+    },
+    "confidences": {
+        "error": 0.0
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "Date of Birth": {
+        "ocr_text": "10-11-1988",
+        "confidence": 0.809,
+        "crop_image_path": "processed/62f8df79-ee7f-4025-9c1c-adc13bcbd191/license\\crops\\WhatsApp Image 2025-04-13 at 12.56.28 PM.jpeg_rotated_0_rotated_0_Date of Birth_296_329.jpg",
+        "source_image": "WhatsApp Image 2025-04-13 at 12.56.28 PM.jpeg_rotated_0.jpg"
+    },
+    "Unknown": {
+        "ocr_text": "tani 71dr 34047 DRIVING LICENSE",
+        "confidence": 0.726,
+        "crop_image_path": "processed/62f8df79-ee7f-4025-9c1c-adc13bcbd191/license\\crops\\WhatsApp Image 2025-04-13 at 12.56.28 PM.jpeg_rotated_0_rotated_0_Unknown_381_101.jpg",
+        "source_image": "WhatsApp Image 2025-04-13 at 12.56.28 PM.jpeg_rotated_0.jpg"
+    },
+    "License Number": {
+        "ocr_text": "02-04-89111583",
+        "confidence": 0.725,
+        "crop_image_path": "processed/62f8df79-ee7f-4025-9c1c-adc13bcbd191/license\\crops\\WhatsApp Image 2025-04-13 at 12.56.28 PM.jpeg_rotated_0_rotated_90_License Number_468_10.jpg",
+        "source_image": "WhatsApp Image 2025-04-13 at 12.56.28 PM.jpeg_rotated_0.jpg"
+    },
+    "Name": {
+        "ocr_text": "SAMSUL ANSARI",
+        "confidence": 0.791,
+        "crop_image_path": "processed/62f8df79-ee7f-4025-9c1c-adc13bcbd191/license\\crops\\WhatsApp Image 2025-04-13 at 12.56.28 PM.jpeg_rotated_0_rotated_180_Name_307_438.jpg",
+        "source_image": "WhatsApp Image 2025-04-13 at 12.56.28 PM.jpeg_rotated_0.jpg"
+    },
+    "Citizenship Number": {
+        "ocr_text": "76903520 daccnett Al",
+        "confidence": 0.632,
+        "crop_image_path": "processed/62f8df79-ee7f-4025-9c1c-adc13bcbd191/license\\crops\\WhatsApp Image 2025-04-13 at 12.56.28 PM.jpeg_rotated_0_rotated_270_Citizenship Number_386_377.jpg",
+        "source_image": "WhatsApp Image 2025-04-13 at 12.56.28 PM.jpeg_rotated_0.jpg"
+    }
+}

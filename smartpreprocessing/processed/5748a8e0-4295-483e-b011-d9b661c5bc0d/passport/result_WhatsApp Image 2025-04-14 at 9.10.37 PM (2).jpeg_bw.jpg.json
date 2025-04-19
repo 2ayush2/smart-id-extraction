@@ -1,0 +1,64 @@
+{
+    "fields": {
+        "Passport Number": {
+            "ocr_text": "942926222"
+        },
+        "Surname": {
+            "ocr_text": "KHADKA KADITYA"
+        },
+        "Given Name": {
+            "ocr_text": "K4  K  K"
+        },
+        "Nationality": {
+            "ocr_text": "NPL"
+        },
+        "Date of Birth": {
+            "ocr_text": "08/05/2000"
+        },
+        "Place of Birth": {
+            "ocr_text": ""
+        },
+        "Sex": {
+            "ocr_text": "M"
+        },
+        "Date of Issue": {
+            "ocr_text": ""
+        },
+        "Date of Expiration": {
+            "ocr_text": "18/06/2034"
+        },
+        "Issuing Authority": {
+            "ocr_text": ""
+        },
+        "MRZ": {
+            "ocr_text": "PKNPLKHADKA<KADITYA<<<<<<<<<K4<<K<<K<<<<<<<<\n9429262224NPL00050830340618612017300959<<<56"
+        }
+    },
+    "confidences": {
+        "Passport Number": 0.85,
+        "Surname": 0.85,
+        "Given Name": 0.85,
+        "Nationality": 0.85,
+        "Date of Birth": 0.85,
+        "Place of Birth": 0.85,
+        "Sex": 0.85,
+        "Date of Issue": 0.85,
+        "Date of Expiration": 0.85,
+        "Issuing Authority": 0.85,
+        "MRZ": 0.85
+    },
+    "mrz_data": {
+        "Passport Number": "942926222",
+        "Surname": "KHADKA KADITYA",
+        "Given Name": "K4  K  K",
+        "Sex": "M",
+        "Date of Birth": "08/05/2000",
+        "Nationality": "NPL",
+        "Passport Type": "PK",
+        "Issuing Country": "NPL",
+        "Date of Expiration": "18/06/2034",
+        "Personal Number": "12017300959",
+        "MRZ": "PKNPLKHADKA<KADITYA<<<<<<<<<K4<<K<<K<<<<<<<<\n9429262224NPL00050830340618612017300959<<<56"
+    },
+    "warning": null
+}

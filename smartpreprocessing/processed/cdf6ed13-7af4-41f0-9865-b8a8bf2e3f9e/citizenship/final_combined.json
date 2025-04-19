@@ -1,0 +1,13 @@
+[
+    {
+        "run_id": "cdf6ed13-7af4-41f0-9865-b8a8bf2e3f9e",
+        "document_type": "Citizenship",
+        "timestamp": "2025-04-19T12:27:29.023623",
+        "fields": {
+            "Mother's Name": "आ पत पतचक नमजर"
+        },
+        "confidences": {
+            "Mother's Name": 0.368
+        }
+    }
+]

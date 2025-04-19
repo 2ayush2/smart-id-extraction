@@ -1,0 +1,615 @@
+2025-04-18 09:43:29,866 - INFO - YOLO model loaded: yolo_models/citizenship.pt
+2025-04-18 09:43:29,867 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-04-18 09:43:36,181 - INFO - EasyOCR initialized for Nepali and English
+2025-04-18 09:43:42,150 - INFO - YOLO model loaded: yolo_models/lisc.pt
+2025-04-18 09:43:42,151 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-04-18 09:43:46,210 - INFO - EasyOCR initialized for English and Nepali
+2025-04-18 09:46:24,560 - INFO - YOLO model loaded: yolo_models/citizenship.pt
+2025-04-18 09:46:24,561 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-04-18 09:46:30,126 - INFO - EasyOCR initialized for Nepali and English
+2025-04-18 09:46:32,076 - INFO - YOLO model loaded: yolo_models/lisc.pt
+2025-04-18 09:46:32,077 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-04-18 09:46:35,430 - INFO - EasyOCR initialized for English and Nepali
+2025-04-18 09:47:31,808 - DEBUG - Calling on_part_begin with no data
+2025-04-18 09:47:31,810 - DEBUG - Calling on_header_field with data[42:61]
+2025-04-18 09:47:31,811 - DEBUG - Calling on_header_value with data[63:89]
+2025-04-18 09:47:31,812 - DEBUG - Calling on_header_end with no data
+2025-04-18 09:47:31,813 - DEBUG - Calling on_headers_finished with no data
+2025-04-18 09:47:31,813 - DEBUG - Calling on_part_data with data[93:101]
+2025-04-18 09:47:31,814 - DEBUG - Calling on_part_end with no data
+2025-04-18 09:47:31,814 - DEBUG - Calling on_part_begin with no data
+2025-04-18 09:47:31,815 - DEBUG - Calling on_header_field with data[145:164]
+2025-04-18 09:47:31,816 - DEBUG - Calling on_header_value with data[166:250]
+2025-04-18 09:47:31,816 - DEBUG - Calling on_header_end with no data
+2025-04-18 09:47:31,816 - DEBUG - Calling on_header_field with data[252:264]
+2025-04-18 09:47:31,817 - DEBUG - Calling on_header_value with data[266:276]
+2025-04-18 09:47:31,817 - DEBUG - Calling on_header_end with no data
+2025-04-18 09:47:31,818 - DEBUG - Calling on_headers_finished with no data
+2025-04-18 09:47:31,818 - DEBUG - Calling on_part_data with data[280:147456]
+2025-04-18 09:47:31,819 - DEBUG - Calling on_part_data with data[0:207212]
+2025-04-18 09:47:31,819 - DEBUG - Calling on_part_end with no data
+2025-04-18 09:47:31,819 - DEBUG - Calling on_end with no data
+2025-04-18 09:47:32,334 - INFO - Processing 1 images for Passport (Run ID: 522014b6-324e-47b0-b550-02c5e6207f3d)
+2025-04-18 09:47:32,494 - DEBUG - Saved input image to C:\Users\User\AppData\Local\Temp\tmp3g3_ivsb\input_20250418_094732_493255_0.jpg
+2025-04-18 09:47:32,497 - DEBUG - Preprocessing image 1
+2025-04-18 09:47:40,396 - DEBUG - Saved preprocessed passport image: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.0_angle0_var0.jpg
+2025-04-18 09:47:40,787 - DEBUG - Image properties: resolution=(1280, 940), size=441.38KB
+2025-04-18 09:47:41,014 - DEBUG - Deskewed image by -90.00 degrees
+2025-04-18 09:47:43,227 - DEBUG - Importing AvifImagePlugin
+2025-04-18 09:47:43,269 - DEBUG - Importing BlpImagePlugin
+2025-04-18 09:47:43,324 - DEBUG - Importing BmpImagePlugin
+2025-04-18 09:47:43,324 - DEBUG - Importing BufrStubImagePlugin
+2025-04-18 09:47:43,369 - DEBUG - Importing CurImagePlugin
+2025-04-18 09:47:43,432 - DEBUG - Importing DcxImagePlugin
+2025-04-18 09:47:43,529 - DEBUG - Importing DdsImagePlugin
+2025-04-18 09:47:43,554 - DEBUG - Importing EpsImagePlugin
+2025-04-18 09:47:43,558 - DEBUG - Importing FitsImagePlugin
+2025-04-18 09:47:43,572 - DEBUG - Importing FliImagePlugin
+2025-04-18 09:47:43,577 - DEBUG - Importing FpxImagePlugin
+2025-04-18 09:47:43,609 - DEBUG - Image: failed to import FpxImagePlugin: No module named 'olefile'
+2025-04-18 09:47:43,610 - DEBUG - Importing FtexImagePlugin
+2025-04-18 09:47:43,617 - DEBUG - Importing GbrImagePlugin
+2025-04-18 09:47:43,621 - DEBUG - Importing GifImagePlugin
+2025-04-18 09:47:43,622 - DEBUG - Importing GribStubImagePlugin
+2025-04-18 09:47:43,680 - DEBUG - Importing Hdf5StubImagePlugin
+2025-04-18 09:47:43,685 - DEBUG - Importing IcnsImagePlugin
+2025-04-18 09:47:43,707 - DEBUG - Importing IcoImagePlugin
+2025-04-18 09:47:43,723 - DEBUG - Importing ImImagePlugin
+2025-04-18 09:47:43,734 - DEBUG - Importing ImtImagePlugin
+2025-04-18 09:47:43,740 - DEBUG - Importing IptcImagePlugin
+2025-04-18 09:47:43,743 - DEBUG - Importing JpegImagePlugin
+2025-04-18 09:47:43,745 - DEBUG - Importing Jpeg2KImagePlugin
+2025-04-18 09:47:43,745 - DEBUG - Importing McIdasImagePlugin
+2025-04-18 09:47:43,748 - DEBUG - Importing MicImagePlugin
+2025-04-18 09:47:43,752 - DEBUG - Image: failed to import MicImagePlugin: No module named 'olefile'
+2025-04-18 09:47:43,753 - DEBUG - Importing MpegImagePlugin
+2025-04-18 09:47:43,773 - DEBUG - Importing MpoImagePlugin
+2025-04-18 09:47:43,786 - DEBUG - Importing MspImagePlugin
+2025-04-18 09:47:43,790 - DEBUG - Importing PalmImagePlugin
+2025-04-18 09:47:43,795 - DEBUG - Importing PcdImagePlugin
+2025-04-18 09:47:43,798 - DEBUG - Importing PcxImagePlugin
+2025-04-18 09:47:43,799 - DEBUG - Importing PdfImagePlugin
+2025-04-18 09:47:43,812 - DEBUG - Importing PixarImagePlugin
+2025-04-18 09:47:43,815 - DEBUG - Importing PngImagePlugin
+2025-04-18 09:47:43,815 - DEBUG - Importing PpmImagePlugin
+2025-04-18 09:47:43,815 - DEBUG - Importing PsdImagePlugin
+2025-04-18 09:47:43,818 - DEBUG - Importing QoiImagePlugin
+2025-04-18 09:47:43,821 - DEBUG - Importing SgiImagePlugin
+2025-04-18 09:47:43,839 - DEBUG - Importing SpiderImagePlugin
+2025-04-18 09:47:43,842 - DEBUG - Importing SunImagePlugin
+2025-04-18 09:47:43,845 - DEBUG - Importing TgaImagePlugin
+2025-04-18 09:47:43,847 - DEBUG - Importing TiffImagePlugin
+2025-04-18 09:47:43,847 - DEBUG - Importing WebPImagePlugin
+2025-04-18 09:47:43,892 - DEBUG - Importing WmfImagePlugin
+2025-04-18 09:47:43,894 - DEBUG - Importing XbmImagePlugin
+2025-04-18 09:47:43,900 - DEBUG - Importing XpmImagePlugin
+2025-04-18 09:47:43,904 - DEBUG - Importing XVThumbImagePlugin
+2025-04-18 09:47:43,911 - DEBUG - ['tesseract', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_z4093kq3.bmp', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_5s7uhs1q', '--psm', '6', '-c', 'tessedit_char_whitelist=ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789><', '-c', 'load_system_dawg=F', '-c', 'load_freq_dawg=F', '--rotate', 'txt']
+2025-04-18 09:47:44,442 - ERROR - Error processing passport image processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\temp_mrz_score_2027641529968.jpg: (1, "Error, unknown command line argument '--rotate'")
+2025-04-18 09:47:44,446 - DEBUG - No MRZ detected in image.
+2025-04-18 09:47:44,481 - DEBUG - Saved preprocessed passport image: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.0_angle0_var1.jpg
+2025-04-18 09:47:44,515 - DEBUG - Image properties: resolution=(1280, 940), size=441.38KB
+2025-04-18 09:47:44,601 - DEBUG - Deskewed image by -90.00 degrees
+2025-04-18 09:47:44,769 - DEBUG - ['tesseract', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_txmj0hnt.bmp', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_d36er2uv', '--psm', '6', '-c', 'tessedit_char_whitelist=ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789><', '-c', 'load_system_dawg=F', '-c', 'load_freq_dawg=F', '--rotate', 'txt']
+2025-04-18 09:47:44,794 - ERROR - Error processing passport image processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\temp_mrz_score_2027641529968.jpg: (1, "Error, unknown command line argument '--rotate'")
+2025-04-18 09:47:44,796 - DEBUG - No MRZ detected in image.
+2025-04-18 09:47:45,007 - DEBUG - Saved preprocessed passport image: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.0_angle0_var2.jpg
+2025-04-18 09:47:45,101 - DEBUG - Image properties: resolution=(1280, 940), size=441.38KB
+2025-04-18 09:47:45,187 - DEBUG - Deskewed image by -90.00 degrees
+2025-04-18 09:47:45,339 - DEBUG - ['tesseract', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_9ld4ll02.bmp', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_jsm9osfq', '--psm', '6', '-c', 'tessedit_char_whitelist=ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789><', '-c', 'load_system_dawg=F', '-c', 'load_freq_dawg=F', '--rotate', 'txt']
+2025-04-18 09:47:45,369 - ERROR - Error processing passport image processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\temp_mrz_score_2027641529968.jpg: (1, "Error, unknown command line argument '--rotate'")
+2025-04-18 09:47:45,371 - DEBUG - No MRZ detected in image.
+2025-04-18 09:47:45,430 - DEBUG - Saved preprocessed passport image: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.0_angle90_var0.jpg
+2025-04-18 09:47:45,525 - DEBUG - Image properties: resolution=(940, 1280), size=449.34KB
+2025-04-18 09:47:45,612 - DEBUG - Deskewed image by -90.00 degrees
+2025-04-18 09:47:45,766 - DEBUG - ['tesseract', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_2ve1chjw.bmp', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_ivceqywq', '--psm', '6', '-c', 'tessedit_char_whitelist=ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789><', '-c', 'load_system_dawg=F', '-c', 'load_freq_dawg=F', '--rotate', 'txt']
+2025-04-18 09:47:45,795 - ERROR - Error processing passport image processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\temp_mrz_score_2027641530640.jpg: (1, "Error, unknown command line argument '--rotate'")
+2025-04-18 09:47:45,798 - DEBUG - No MRZ detected in image.
+2025-04-18 09:47:45,846 - DEBUG - Saved preprocessed passport image: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.0_angle90_var1.jpg
+2025-04-18 09:47:45,915 - DEBUG - Image properties: resolution=(940, 1280), size=449.34KB
+2025-04-18 09:47:46,006 - DEBUG - Deskewed image by -90.00 degrees
+2025-04-18 09:47:46,149 - DEBUG - ['tesseract', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_qzvzc2hz.bmp', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_03zvzqbo', '--psm', '6', '-c', 'tessedit_char_whitelist=ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789><', '-c', 'load_system_dawg=F', '-c', 'load_freq_dawg=F', '--rotate', 'txt']
+2025-04-18 09:47:46,182 - ERROR - Error processing passport image processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\temp_mrz_score_2027641530640.jpg: (1, "Error, unknown command line argument '--rotate'")
+2025-04-18 09:47:46,186 - DEBUG - No MRZ detected in image.
+2025-04-18 09:47:46,196 - DEBUG - Saved preprocessed passport image: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.0_angle90_var2.jpg
+2025-04-18 09:47:46,237 - DEBUG - Image properties: resolution=(940, 1280), size=449.34KB
+2025-04-18 09:47:46,334 - DEBUG - Deskewed image by -90.00 degrees
+2025-04-18 09:47:46,492 - DEBUG - ['tesseract', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_sgsku_v5.bmp', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_qxwemyr1', '--psm', '6', '-c', 'tessedit_char_whitelist=ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789><', '-c', 'load_system_dawg=F', '-c', 'load_freq_dawg=F', '--rotate', 'txt']
+2025-04-18 09:47:46,522 - ERROR - Error processing passport image processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\temp_mrz_score_2027641530640.jpg: (1, "Error, unknown command line argument '--rotate'")
+2025-04-18 09:47:46,525 - DEBUG - No MRZ detected in image.
+2025-04-18 09:47:46,576 - DEBUG - Saved preprocessed passport image: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.0_angle180_var0.jpg
+2025-04-18 09:47:46,651 - DEBUG - Image properties: resolution=(1280, 940), size=454.59KB
+2025-04-18 09:47:46,736 - DEBUG - Deskewed image by -90.00 degrees
+2025-04-18 09:47:46,883 - DEBUG - ['tesseract', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_b49i15wl.bmp', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_imm7pia9', '--psm', '6', '-c', 'tessedit_char_whitelist=ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789><', '-c', 'load_system_dawg=F', '-c', 'load_freq_dawg=F', '--rotate', 'txt']
+2025-04-18 09:47:46,910 - ERROR - Error processing passport image processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\temp_mrz_score_2028058241584.jpg: (1, "Error, unknown command line argument '--rotate'")
+2025-04-18 09:47:46,912 - DEBUG - No MRZ detected in image.
+2025-04-18 09:47:46,936 - DEBUG - Saved preprocessed passport image: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.0_angle180_var1.jpg
+2025-04-18 09:47:47,039 - DEBUG - Image properties: resolution=(1280, 940), size=454.59KB
+2025-04-18 09:47:47,134 - DEBUG - Deskewed image by -90.00 degrees
+2025-04-18 09:47:47,295 - DEBUG - ['tesseract', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_psodc2vn.bmp', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_lhexdzmz', '--psm', '6', '-c', 'tessedit_char_whitelist=ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789><', '-c', 'load_system_dawg=F', '-c', 'load_freq_dawg=F', '--rotate', 'txt']
+2025-04-18 09:47:47,323 - ERROR - Error processing passport image processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\temp_mrz_score_2028058241584.jpg: (1, "Error, unknown command line argument '--rotate'")
+2025-04-18 09:47:47,326 - DEBUG - No MRZ detected in image.
+2025-04-18 09:47:47,334 - DEBUG - Saved preprocessed passport image: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.0_angle180_var2.jpg
+2025-04-18 09:47:47,398 - DEBUG - Image properties: resolution=(1280, 940), size=454.59KB
+2025-04-18 09:47:47,470 - DEBUG - Deskewed image by -90.00 degrees
+2025-04-18 09:47:47,636 - DEBUG - ['tesseract', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_lsg0orwx.bmp', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_56ikfr7m', '--psm', '6', '-c', 'tessedit_char_whitelist=ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789><', '-c', 'load_system_dawg=F', '-c', 'load_freq_dawg=F', '--rotate', 'txt']
+2025-04-18 09:47:47,665 - ERROR - Error processing passport image processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\temp_mrz_score_2028058241584.jpg: (1, "Error, unknown command line argument '--rotate'")
+2025-04-18 09:47:47,667 - DEBUG - No MRZ detected in image.
+2025-04-18 09:47:47,718 - DEBUG - Saved preprocessed passport image: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.0_angle270_var0.jpg
+2025-04-18 09:47:47,899 - DEBUG - Image properties: resolution=(940, 1280), size=440.02KB
+2025-04-18 09:47:47,995 - DEBUG - Deskewed image by -90.00 degrees
+2025-04-18 09:47:48,171 - DEBUG - ['tesseract', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_1og1qqh9.bmp', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_0qtvxdnz', '--psm', '6', '-c', 'tessedit_char_whitelist=ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789><', '-c', 'load_system_dawg=F', '-c', 'load_freq_dawg=F', '--rotate', 'txt']
+2025-04-18 09:47:48,194 - ERROR - Error processing passport image processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\temp_mrz_score_2028058243408.jpg: (1, "Error, unknown command line argument '--rotate'")
+2025-04-18 09:47:48,198 - DEBUG - No MRZ detected in image.
+2025-04-18 09:47:48,230 - DEBUG - Saved preprocessed passport image: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.0_angle270_var1.jpg
+2025-04-18 09:47:48,273 - DEBUG - Image properties: resolution=(940, 1280), size=440.02KB
+2025-04-18 09:47:48,358 - DEBUG - Deskewed image by -90.00 degrees
+2025-04-18 09:47:48,541 - DEBUG - ['tesseract', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_pt02v3w_.bmp', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_d3qd5w7v', '--psm', '6', '-c', 'tessedit_char_whitelist=ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789><', '-c', 'load_system_dawg=F', '-c', 'load_freq_dawg=F', '--rotate', 'txt']
+2025-04-18 09:47:49,335 - ERROR - Error processing passport image processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\temp_mrz_score_2028058243408.jpg: (1, "Error, unknown command line argument '--rotate'")
+2025-04-18 09:47:49,338 - DEBUG - No MRZ detected in image.
+2025-04-18 09:47:49,349 - DEBUG - Saved preprocessed passport image: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.0_angle270_var2.jpg
+2025-04-18 09:47:49,389 - DEBUG - Image properties: resolution=(940, 1280), size=440.02KB
+2025-04-18 09:47:49,489 - DEBUG - Deskewed image by -90.00 degrees
+2025-04-18 09:47:49,631 - DEBUG - ['tesseract', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_55i_59r8.bmp', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_nmwznn8j', '--psm', '6', '-c', 'tessedit_char_whitelist=ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789><', '-c', 'load_system_dawg=F', '-c', 'load_freq_dawg=F', '--rotate', 'txt']
+2025-04-18 09:47:49,658 - ERROR - Error processing passport image processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\temp_mrz_score_2028058243408.jpg: (1, "Error, unknown command line argument '--rotate'")
+2025-04-18 09:47:49,662 - DEBUG - No MRZ detected in image.
+2025-04-18 09:47:49,826 - DEBUG - Saved preprocessed passport image: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.5_angle0_var0.jpg
+2025-04-18 09:47:50,513 - DEBUG - Image properties: resolution=(1920, 1410), size=726.98KB
+2025-04-18 09:47:50,981 - DEBUG - ['tesseract', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_9354ra2d.bmp', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_eeol6r1z', '--psm', '6', '-c', 'tessedit_char_whitelist=ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789><', '-c', 'load_system_dawg=F', '-c', 'load_freq_dawg=F', '--rotate', 'txt']
+2025-04-18 09:47:51,010 - ERROR - Error processing passport image processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\temp_mrz_score_2028058241968.jpg: (1, "Error, unknown command line argument '--rotate'")
+2025-04-18 09:47:51,016 - DEBUG - No MRZ detected in image.
+2025-04-18 09:47:51,083 - DEBUG - Saved preprocessed passport image: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.5_angle0_var1.jpg
+2025-04-18 09:47:51,146 - DEBUG - Image properties: resolution=(1920, 1410), size=726.98KB
+2025-04-18 09:47:51,652 - DEBUG - ['tesseract', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_lrn2brno.bmp', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_n6rmircm', '--psm', '6', '-c', 'tessedit_char_whitelist=ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789><', '-c', 'load_system_dawg=F', '-c', 'load_freq_dawg=F', '--rotate', 'txt']
+2025-04-18 09:47:51,680 - ERROR - Error processing passport image processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\temp_mrz_score_2028058241968.jpg: (1, "Error, unknown command line argument '--rotate'")
+2025-04-18 09:47:51,685 - DEBUG - No MRZ detected in image.
+2025-04-18 09:47:51,702 - DEBUG - Saved preprocessed passport image: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.5_angle0_var2.jpg
+2025-04-18 09:47:51,744 - DEBUG - Image properties: resolution=(1920, 1410), size=726.98KB
+2025-04-18 09:47:52,212 - DEBUG - ['tesseract', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_z0wwpk6x.bmp', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_z1hq64g7', '--psm', '6', '-c', 'tessedit_char_whitelist=ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789><', '-c', 'load_system_dawg=F', '-c', 'load_freq_dawg=F', '--rotate', 'txt']
+2025-04-18 09:47:52,238 - ERROR - Error processing passport image processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\temp_mrz_score_2028058241968.jpg: (1, "Error, unknown command line argument '--rotate'")
+2025-04-18 09:47:52,245 - DEBUG - No MRZ detected in image.
+2025-04-18 09:47:52,346 - DEBUG - Saved preprocessed passport image: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.5_angle90_var0.jpg
+2025-04-18 09:47:53,343 - DEBUG - Image properties: resolution=(1410, 1920), size=731.80KB
+2025-04-18 09:47:53,539 - DEBUG - Deskewed image by -90.00 degrees
+2025-04-18 09:47:53,847 - DEBUG - ['tesseract', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_xw_81k2x.bmp', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_98a1vam0', '--psm', '6', '-c', 'tessedit_char_whitelist=ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789><', '-c', 'load_system_dawg=F', '-c', 'load_freq_dawg=F', '--rotate', 'txt']
+2025-04-18 09:47:53,871 - ERROR - Error processing passport image processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\temp_mrz_score_2028351190768.jpg: (1, "Error, unknown command line argument '--rotate'")
+2025-04-18 09:47:53,877 - DEBUG - No MRZ detected in image.
+2025-04-18 09:47:53,933 - DEBUG - Saved preprocessed passport image: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.5_angle90_var1.jpg
+2025-04-18 09:47:54,074 - DEBUG - Image properties: resolution=(1410, 1920), size=731.80KB
+2025-04-18 09:47:54,233 - DEBUG - Deskewed image by -90.00 degrees
+2025-04-18 09:47:54,522 - DEBUG - ['tesseract', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_6699qlu9.bmp', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_qy4x4s31', '--psm', '6', '-c', 'tessedit_char_whitelist=ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789><', '-c', 'load_system_dawg=F', '-c', 'load_freq_dawg=F', '--rotate', 'txt']
+2025-04-18 09:47:54,552 - ERROR - Error processing passport image processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\temp_mrz_score_2028351190768.jpg: (1, "Error, unknown command line argument '--rotate'")
+2025-04-18 09:47:54,558 - DEBUG - No MRZ detected in image.
+2025-04-18 09:47:54,574 - DEBUG - Saved preprocessed passport image: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.5_angle90_var2.jpg
+2025-04-18 09:47:54,650 - DEBUG - Image properties: resolution=(1410, 1920), size=731.80KB
+2025-04-18 09:47:54,845 - DEBUG - Deskewed image by -90.00 degrees
+2025-04-18 09:47:55,149 - DEBUG - ['tesseract', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_jk1l4zg0.bmp', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_gbb6hyxo', '--psm', '6', '-c', 'tessedit_char_whitelist=ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789><', '-c', 'load_system_dawg=F', '-c', 'load_freq_dawg=F', '--rotate', 'txt']
+2025-04-18 09:47:55,176 - ERROR - Error processing passport image processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\temp_mrz_score_2028351190768.jpg: (1, "Error, unknown command line argument '--rotate'")
+2025-04-18 09:47:55,180 - DEBUG - No MRZ detected in image.
+2025-04-18 09:47:55,281 - DEBUG - Saved preprocessed passport image: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.5_angle180_var0.jpg
+2025-04-18 09:47:55,709 - DEBUG - Image properties: resolution=(1920, 1410), size=734.99KB
+2025-04-18 09:47:57,585 - DEBUG - ['tesseract', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_e9sd4qdy.bmp', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_5x9ma4uj', '--psm', '6', '-c', 'tessedit_char_whitelist=ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789><', '-c', 'load_system_dawg=F', '-c', 'load_freq_dawg=F', '--rotate', 'txt']
+2025-04-18 09:47:57,612 - ERROR - Error processing passport image processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\temp_mrz_score_2028351190864.jpg: (1, "Error, unknown command line argument '--rotate'")
+2025-04-18 09:47:57,617 - DEBUG - No MRZ detected in image.
+2025-04-18 09:47:57,672 - DEBUG - Saved preprocessed passport image: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.5_angle180_var1.jpg
+2025-04-18 09:47:57,784 - DEBUG - Image properties: resolution=(1920, 1410), size=734.99KB
+2025-04-18 09:47:58,341 - DEBUG - ['tesseract', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_8_7ioil9.bmp', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_tvl0pphz', '--psm', '6', '-c', 'tessedit_char_whitelist=ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789><', '-c', 'load_system_dawg=F', '-c', 'load_freq_dawg=F', '--rotate', 'txt']
+2025-04-18 09:47:58,366 - ERROR - Error processing passport image processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\temp_mrz_score_2028351190864.jpg: (1, "Error, unknown command line argument '--rotate'")
+2025-04-18 09:47:58,372 - DEBUG - No MRZ detected in image.
+2025-04-18 09:47:58,392 - DEBUG - Saved preprocessed passport image: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.5_angle180_var2.jpg
+2025-04-18 09:47:58,571 - DEBUG - Image properties: resolution=(1920, 1410), size=734.99KB
+2025-04-18 09:47:59,068 - DEBUG - ['tesseract', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_39kibx46.bmp', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_qld01jy_', '--psm', '6', '-c', 'tessedit_char_whitelist=ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789><', '-c', 'load_system_dawg=F', '-c', 'load_freq_dawg=F', '--rotate', 'txt']
+2025-04-18 09:47:59,096 - ERROR - Error processing passport image processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\temp_mrz_score_2028351190864.jpg: (1, "Error, unknown command line argument '--rotate'")
+2025-04-18 09:47:59,101 - DEBUG - No MRZ detected in image.
+2025-04-18 09:47:59,227 - DEBUG - Saved preprocessed passport image: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.5_angle270_var0.jpg
+2025-04-18 09:47:59,339 - DEBUG - Image properties: resolution=(1410, 1920), size=730.51KB
+2025-04-18 09:47:59,531 - DEBUG - Deskewed image by -90.00 degrees
+2025-04-18 09:47:59,838 - DEBUG - ['tesseract', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_62l9npqy.bmp', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_1tfv1x_r', '--psm', '6', '-c', 'tessedit_char_whitelist=ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789><', '-c', 'load_system_dawg=F', '-c', 'load_freq_dawg=F', '--rotate', 'txt']
+2025-04-18 09:47:59,863 - ERROR - Error processing passport image processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\temp_mrz_score_2028058237264.jpg: (1, "Error, unknown command line argument '--rotate'")
+2025-04-18 09:47:59,868 - DEBUG - No MRZ detected in image.
+2025-04-18 09:47:59,924 - DEBUG - Saved preprocessed passport image: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.5_angle270_var1.jpg
+2025-04-18 09:47:59,978 - DEBUG - Image properties: resolution=(1410, 1920), size=730.51KB
+2025-04-18 09:48:00,182 - DEBUG - Deskewed image by -90.00 degrees
+2025-04-18 09:48:00,510 - DEBUG - ['tesseract', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_0s0fpr9e.bmp', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_l7ion1fl', '--psm', '6', '-c', 'tessedit_char_whitelist=ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789><', '-c', 'load_system_dawg=F', '-c', 'load_freq_dawg=F', '--rotate', 'txt']
+2025-04-18 09:48:00,661 - ERROR - Error processing passport image processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\temp_mrz_score_2028058237264.jpg: (1, "Error, unknown command line argument '--rotate'")
+2025-04-18 09:48:00,664 - DEBUG - No MRZ detected in image.
+2025-04-18 09:48:00,688 - DEBUG - Saved preprocessed passport image: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.5_angle270_var2.jpg
+2025-04-18 09:48:00,741 - DEBUG - Image properties: resolution=(1410, 1920), size=730.51KB
+2025-04-18 09:48:00,922 - DEBUG - Deskewed image by -90.00 degrees
+2025-04-18 09:48:01,233 - DEBUG - ['tesseract', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_pa50amox.bmp', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_8rhcx7vl', '--psm', '6', '-c', 'tessedit_char_whitelist=ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789><', '-c', 'load_system_dawg=F', '-c', 'load_freq_dawg=F', '--rotate', 'txt']
+2025-04-18 09:48:01,258 - ERROR - Error processing passport image processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\temp_mrz_score_2028058237264.jpg: (1, "Error, unknown command line argument '--rotate'")
+2025-04-18 09:48:01,263 - DEBUG - No MRZ detected in image.
+2025-04-18 09:48:01,296 - DEBUG - Saved preprocessed passport image: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale0.75_angle0_var0.jpg
+2025-04-18 09:48:01,865 - DEBUG - Image properties: resolution=(960, 705), size=236.92KB
+2025-04-18 09:48:01,922 - DEBUG - Deskewed image by -90.00 degrees
+2025-04-18 09:48:02,028 - DEBUG - ['tesseract', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_zaqv8j9b.bmp', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_a4otvcbi', '--psm', '6', '-c', 'tessedit_char_whitelist=ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789><', '-c', 'load_system_dawg=F', '-c', 'load_freq_dawg=F', '--rotate', 'txt']
+2025-04-18 09:48:02,055 - ERROR - Error processing passport image processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\temp_mrz_score_2028058245424.jpg: (1, "Error, unknown command line argument '--rotate'")
+2025-04-18 09:48:02,057 - DEBUG - No MRZ detected in image.
+2025-04-18 09:48:02,074 - DEBUG - Saved preprocessed passport image: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale0.75_angle0_var1.jpg
+2025-04-18 09:48:02,100 - DEBUG - Image properties: resolution=(960, 705), size=236.92KB
+2025-04-18 09:48:02,144 - DEBUG - Deskewed image by -90.00 degrees
+2025-04-18 09:48:02,262 - DEBUG - ['tesseract', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_zqlhxyca.bmp', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_smm3dqk9', '--psm', '6', '-c', 'tessedit_char_whitelist=ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789><', '-c', 'load_system_dawg=F', '-c', 'load_freq_dawg=F', '--rotate', 'txt']
+2025-04-18 09:48:02,291 - ERROR - Error processing passport image processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\temp_mrz_score_2028058245424.jpg: (1, "Error, unknown command line argument '--rotate'")
+2025-04-18 09:48:02,293 - DEBUG - No MRZ detected in image.
+2025-04-18 09:48:02,300 - DEBUG - Saved preprocessed passport image: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale0.75_angle0_var2.jpg
+2025-04-18 09:48:02,323 - DEBUG - Image properties: resolution=(960, 705), size=236.92KB
+2025-04-18 09:48:02,370 - DEBUG - Deskewed image by -90.00 degrees
+2025-04-18 09:48:02,485 - DEBUG - ['tesseract', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_fkpfbytf.bmp', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_m6cef4ly', '--psm', '6', '-c', 'tessedit_char_whitelist=ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789><', '-c', 'load_system_dawg=F', '-c', 'load_freq_dawg=F', '--rotate', 'txt']
+2025-04-18 09:48:02,508 - ERROR - Error processing passport image processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\temp_mrz_score_2028058245424.jpg: (1, "Error, unknown command line argument '--rotate'")
+2025-04-18 09:48:02,510 - DEBUG - No MRZ detected in image.
+2025-04-18 09:48:02,543 - DEBUG - Saved preprocessed passport image: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale0.75_angle90_var0.jpg
+2025-04-18 09:48:04,551 - DEBUG - Image properties: resolution=(705, 960), size=239.24KB
+2025-04-18 09:48:04,595 - DEBUG - Deskewed image by -90.00 degrees
+2025-04-18 09:48:04,700 - DEBUG - ['tesseract', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_7g10oveb.bmp', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_7je5u966', '--psm', '6', '-c', 'tessedit_char_whitelist=ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789><', '-c', 'load_system_dawg=F', '-c', 'load_freq_dawg=F', '--rotate', 'txt']
+2025-04-18 09:48:04,726 - ERROR - Error processing passport image processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\temp_mrz_score_2028058241872.jpg: (1, "Error, unknown command line argument '--rotate'")
+2025-04-18 09:48:04,729 - DEBUG - No MRZ detected in image.
+2025-04-18 09:48:04,743 - DEBUG - Saved preprocessed passport image: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale0.75_angle90_var1.jpg
+2025-04-18 09:48:04,769 - DEBUG - Image properties: resolution=(705, 960), size=239.24KB
+2025-04-18 09:48:04,830 - DEBUG - Deskewed image by -90.00 degrees
+2025-04-18 09:48:04,950 - DEBUG - ['tesseract', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_n3rm9tof.bmp', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_qn4z_x33', '--psm', '6', '-c', 'tessedit_char_whitelist=ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789><', '-c', 'load_system_dawg=F', '-c', 'load_freq_dawg=F', '--rotate', 'txt']
+2025-04-18 09:48:04,975 - ERROR - Error processing passport image processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\temp_mrz_score_2028058241872.jpg: (1, "Error, unknown command line argument '--rotate'")
+2025-04-18 09:48:04,979 - DEBUG - No MRZ detected in image.
+2025-04-18 09:48:04,985 - DEBUG - Saved preprocessed passport image: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale0.75_angle90_var2.jpg
+2025-04-18 09:48:05,007 - DEBUG - Image properties: resolution=(705, 960), size=239.24KB
+2025-04-18 09:48:05,047 - DEBUG - Deskewed image by -90.00 degrees
+2025-04-18 09:48:05,791 - DEBUG - ['tesseract', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_n9h6r4vf.bmp', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_13kbelec', '--psm', '6', '-c', 'tessedit_char_whitelist=ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789><', '-c', 'load_system_dawg=F', '-c', 'load_freq_dawg=F', '--rotate', 'txt']
+2025-04-18 09:48:05,822 - ERROR - Error processing passport image processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\temp_mrz_score_2028058241872.jpg: (1, "Error, unknown command line argument '--rotate'")
+2025-04-18 09:48:05,824 - DEBUG - No MRZ detected in image.
+2025-04-18 09:48:05,854 - DEBUG - Saved preprocessed passport image: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale0.75_angle180_var0.jpg
+2025-04-18 09:48:06,051 - DEBUG - Image properties: resolution=(960, 705), size=237.58KB
+2025-04-18 09:48:06,114 - DEBUG - Deskewed image by -90.00 degrees
+2025-04-18 09:48:06,204 - DEBUG - ['tesseract', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_w7c_i61u.bmp', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_71_1hp5w', '--psm', '6', '-c', 'tessedit_char_whitelist=ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789><', '-c', 'load_system_dawg=F', '-c', 'load_freq_dawg=F', '--rotate', 'txt']
+2025-04-18 09:48:06,230 - ERROR - Error processing passport image processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\temp_mrz_score_2028351182512.jpg: (1, "Error, unknown command line argument '--rotate'")
+2025-04-18 09:48:06,232 - DEBUG - No MRZ detected in image.
+2025-04-18 09:48:06,247 - DEBUG - Saved preprocessed passport image: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale0.75_angle180_var1.jpg
+2025-04-18 09:48:06,272 - DEBUG - Image properties: resolution=(960, 705), size=237.58KB
+2025-04-18 09:48:06,318 - DEBUG - Deskewed image by -90.00 degrees
+2025-04-18 09:48:06,435 - DEBUG - ['tesseract', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_onn2ryaj.bmp', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_fyl16p7q', '--psm', '6', '-c', 'tessedit_char_whitelist=ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789><', '-c', 'load_system_dawg=F', '-c', 'load_freq_dawg=F', '--rotate', 'txt']
+2025-04-18 09:48:06,463 - ERROR - Error processing passport image processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\temp_mrz_score_2028351182512.jpg: (1, "Error, unknown command line argument '--rotate'")
+2025-04-18 09:48:06,465 - DEBUG - No MRZ detected in image.
+2025-04-18 09:48:06,470 - DEBUG - Saved preprocessed passport image: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale0.75_angle180_var2.jpg
+2025-04-18 09:48:06,501 - DEBUG - Image properties: resolution=(960, 705), size=237.58KB
+2025-04-18 09:48:06,543 - DEBUG - Deskewed image by -90.00 degrees
+2025-04-18 09:48:06,647 - DEBUG - ['tesseract', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_qzwhntbc.bmp', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_8v5pq1tq', '--psm', '6', '-c', 'tessedit_char_whitelist=ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789><', '-c', 'load_system_dawg=F', '-c', 'load_freq_dawg=F', '--rotate', 'txt']
+2025-04-18 09:48:06,676 - ERROR - Error processing passport image processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\temp_mrz_score_2028351182512.jpg: (1, "Error, unknown command line argument '--rotate'")
+2025-04-18 09:48:06,678 - DEBUG - No MRZ detected in image.
+2025-04-18 09:48:06,708 - DEBUG - Saved preprocessed passport image: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale0.75_angle270_var0.jpg
+2025-04-18 09:48:07,043 - DEBUG - Image properties: resolution=(705, 960), size=238.58KB
+2025-04-18 09:48:07,096 - DEBUG - Deskewed image by -90.00 degrees
+2025-04-18 09:48:07,182 - DEBUG - ['tesseract', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_21o6s5e3.bmp', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_dceinhb3', '--psm', '6', '-c', 'tessedit_char_whitelist=ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789><', '-c', 'load_system_dawg=F', '-c', 'load_freq_dawg=F', '--rotate', 'txt']
+2025-04-18 09:48:07,207 - ERROR - Error processing passport image processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\temp_mrz_score_2028351188848.jpg: (1, "Error, unknown command line argument '--rotate'")
+2025-04-18 09:48:07,209 - DEBUG - No MRZ detected in image.
+2025-04-18 09:48:07,224 - DEBUG - Saved preprocessed passport image: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale0.75_angle270_var1.jpg
+2025-04-18 09:48:07,247 - DEBUG - Image properties: resolution=(705, 960), size=238.58KB
+2025-04-18 09:48:07,288 - DEBUG - Deskewed image by -90.00 degrees
+2025-04-18 09:48:07,392 - DEBUG - ['tesseract', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_k1n3nsx9.bmp', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_3vafj56l', '--psm', '6', '-c', 'tessedit_char_whitelist=ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789><', '-c', 'load_system_dawg=F', '-c', 'load_freq_dawg=F', '--rotate', 'txt']
+2025-04-18 09:48:07,420 - ERROR - Error processing passport image processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\temp_mrz_score_2028351188848.jpg: (1, "Error, unknown command line argument '--rotate'")
+2025-04-18 09:48:07,422 - DEBUG - No MRZ detected in image.
+2025-04-18 09:48:07,431 - DEBUG - Saved preprocessed passport image: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale0.75_angle270_var2.jpg
+2025-04-18 09:48:07,455 - DEBUG - Image properties: resolution=(705, 960), size=238.58KB
+2025-04-18 09:48:07,500 - DEBUG - Deskewed image by -90.00 degrees
+2025-04-18 09:48:07,607 - DEBUG - ['tesseract', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_i9lepemm.bmp', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess__g9k8anw', '--psm', '6', '-c', 'tessedit_char_whitelist=ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789><', '-c', 'load_system_dawg=F', '-c', 'load_freq_dawg=F', '--rotate', 'txt']
+2025-04-18 09:48:07,633 - ERROR - Error processing passport image processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\temp_mrz_score_2028351188848.jpg: (1, "Error, unknown command line argument '--rotate'")
+2025-04-18 09:48:07,635 - DEBUG - No MRZ detected in image.
+2025-04-18 09:48:07,635 - INFO - Best passport image: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.0_angle0_var0.jpg (MRZ score: 0.0000)
+2025-04-18 09:48:07,639 - DEBUG - Found 36 preprocessed images: ['processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale0.75_angle0_var0.jpg', 'processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale0.75_angle0_var1.jpg', 'processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale0.75_angle0_var2.jpg', 'processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale0.75_angle180_var0.jpg', 'processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale0.75_angle180_var1.jpg', 'processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale0.75_angle180_var2.jpg', 'processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale0.75_angle270_var0.jpg', 'processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale0.75_angle270_var1.jpg', 'processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale0.75_angle270_var2.jpg', 'processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale0.75_angle90_var0.jpg', 'processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale0.75_angle90_var1.jpg', 'processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale0.75_angle90_var2.jpg', 'processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale1.0_angle0_var0.jpg', 'processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale1.0_angle0_var1.jpg', 'processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale1.0_angle0_var2.jpg', 'processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale1.0_angle180_var0.jpg', 'processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale1.0_angle180_var1.jpg', 'processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale1.0_angle180_var2.jpg', 'processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale1.0_angle270_var0.jpg', 'processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale1.0_angle270_var1.jpg', 'processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale1.0_angle270_var2.jpg', 'processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale1.0_angle90_var0.jpg', 'processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale1.0_angle90_var1.jpg', 'processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale1.0_angle90_var2.jpg', 'processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale1.5_angle0_var0.jpg', 'processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale1.5_angle0_var1.jpg', 'processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale1.5_angle0_var2.jpg', 'processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale1.5_angle180_var0.jpg', 'processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale1.5_angle180_var1.jpg', 'processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale1.5_angle180_var2.jpg', 'processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale1.5_angle270_var0.jpg', 'processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale1.5_angle270_var1.jpg', 'processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale1.5_angle270_var2.jpg', 'processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale1.5_angle90_var0.jpg', 'processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale1.5_angle90_var1.jpg', 'processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale1.5_angle90_var2.jpg']
+2025-04-18 09:48:07,643 - DEBUG - Preprocessed images: ['processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale0.75_angle0_var0.jpg', 'processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale0.75_angle0_var1.jpg', 'processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale0.75_angle0_var2.jpg', 'processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale0.75_angle180_var0.jpg', 'processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale0.75_angle180_var1.jpg', 'processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale0.75_angle180_var2.jpg', 'processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale0.75_angle270_var0.jpg', 'processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale0.75_angle270_var1.jpg', 'processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale0.75_angle270_var2.jpg', 'processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale0.75_angle90_var0.jpg', 'processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale0.75_angle90_var1.jpg', 'processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale0.75_angle90_var2.jpg', 'processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale1.0_angle0_var0.jpg', 'processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale1.0_angle0_var1.jpg', 'processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale1.0_angle0_var2.jpg', 'processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale1.0_angle180_var0.jpg', 'processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale1.0_angle180_var1.jpg', 'processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale1.0_angle180_var2.jpg', 'processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale1.0_angle270_var0.jpg', 'processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale1.0_angle270_var1.jpg', 'processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale1.0_angle270_var2.jpg', 'processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale1.0_angle90_var0.jpg', 'processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale1.0_angle90_var1.jpg', 'processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale1.0_angle90_var2.jpg', 'processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale1.5_angle0_var0.jpg', 'processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale1.5_angle0_var1.jpg', 'processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale1.5_angle0_var2.jpg', 'processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale1.5_angle180_var0.jpg', 'processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale1.5_angle180_var1.jpg', 'processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale1.5_angle180_var2.jpg', 'processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale1.5_angle270_var0.jpg', 'processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale1.5_angle270_var1.jpg', 'processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale1.5_angle270_var2.jpg', 'processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale1.5_angle90_var0.jpg', 'processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale1.5_angle90_var1.jpg', 'processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale1.5_angle90_var2.jpg']
+2025-04-18 09:48:07,646 - DEBUG - Sending image to OCR: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.0_angle0_var0.jpg
+2025-04-18 09:48:07,646 - INFO - Running OCR on passport image: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.0_angle0_var0.jpg with MRZ score 0.0000
+2025-04-18 09:48:09,499 - DEBUG - Image properties: resolution=(1280, 940), size=1092.70KB
+2025-04-18 09:48:09,712 - DEBUG - ['tesseract', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_q6px653e.bmp', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_nhkcfom1', '--psm', '6', '-c', 'tessedit_char_whitelist=ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789><', '-c', 'load_system_dawg=F', '-c', 'load_freq_dawg=F', '--rotate', 'txt']
+2025-04-18 09:48:09,751 - ERROR - Error processing passport image processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.0_angle0_var0.jpg: (1, "Error, unknown command line argument '--rotate'")
+2025-04-18 09:48:09,753 - DEBUG - OCR returned fields for processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.0_angle0_var0.jpg: None
+2025-04-18 09:48:09,754 - DEBUG - Sending image to OCR: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.0_angle0_var1.jpg
+2025-04-18 09:48:09,754 - INFO - Running OCR on passport image: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.0_angle0_var1.jpg with MRZ score 0.0000
+2025-04-18 09:48:09,914 - DEBUG - Image properties: resolution=(1280, 940), size=1065.87KB
+2025-04-18 09:48:10,086 - DEBUG - ['tesseract', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_j6m02ia1.bmp', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_rrsnnv_q', '--psm', '6', '-c', 'tessedit_char_whitelist=ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789><', '-c', 'load_system_dawg=F', '-c', 'load_freq_dawg=F', '--rotate', 'txt']
+2025-04-18 09:48:10,114 - ERROR - Error processing passport image processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.0_angle0_var1.jpg: (1, "Error, unknown command line argument '--rotate'")
+2025-04-18 09:48:10,118 - DEBUG - OCR returned fields for processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.0_angle0_var1.jpg: None
+2025-04-18 09:48:10,118 - DEBUG - Sending image to OCR: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.0_angle0_var2.jpg
+2025-04-18 09:48:10,119 - INFO - Running OCR on passport image: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.0_angle0_var2.jpg with MRZ score 0.0000
+2025-04-18 09:48:10,143 - DEBUG - Image properties: resolution=(1280, 940), size=665.00KB
+2025-04-18 09:48:10,333 - DEBUG - ['tesseract', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_35infe4y.bmp', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_iphlnff1', '--psm', '6', '-c', 'tessedit_char_whitelist=ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789><', '-c', 'load_system_dawg=F', '-c', 'load_freq_dawg=F', '--rotate', 'txt']
+2025-04-18 09:48:10,360 - ERROR - Error processing passport image processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.0_angle0_var2.jpg: (1, "Error, unknown command line argument '--rotate'")
+2025-04-18 09:48:10,363 - DEBUG - OCR returned fields for processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.0_angle0_var2.jpg: None
+2025-04-18 09:48:10,364 - DEBUG - Sending image to OCR: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.0_angle90_var0.jpg
+2025-04-18 09:48:10,364 - INFO - Running OCR on passport image: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.0_angle90_var0.jpg with MRZ score 0.0000
+2025-04-18 09:48:11,147 - DEBUG - Image properties: resolution=(940, 1280), size=1107.68KB
+2025-04-18 09:48:11,225 - DEBUG - Deskewed image by -90.00 degrees
+2025-04-18 09:48:11,652 - DEBUG - ['tesseract', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_iui06_sv.bmp', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_4vs6f2yy', '--psm', '6', '-c', 'tessedit_char_whitelist=ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789><', '-c', 'load_system_dawg=F', '-c', 'load_freq_dawg=F', '--rotate', 'txt']
+2025-04-18 09:48:11,679 - ERROR - Error processing passport image processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.0_angle90_var0.jpg: (1, "Error, unknown command line argument '--rotate'")
+2025-04-18 09:48:11,682 - DEBUG - OCR returned fields for processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.0_angle90_var0.jpg: None
+2025-04-18 09:48:11,682 - DEBUG - Sending image to OCR: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.0_angle90_var1.jpg
+2025-04-18 09:48:11,682 - INFO - Running OCR on passport image: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.0_angle90_var1.jpg with MRZ score 0.0000
+2025-04-18 09:48:11,767 - DEBUG - Image properties: resolution=(940, 1280), size=1078.55KB
+2025-04-18 09:48:11,821 - DEBUG - Deskewed image by -90.00 degrees
+2025-04-18 09:48:14,804 - DEBUG - Saved preprocessed MRZ image (variant 0): processed\ocr_mrz_variant_0_input_20250418_094732_493255_0_0_scale1.0_angle90_var1.jpg
+2025-04-18 09:48:15,727 - INFO - MRZ detected via contour fallback (variant 0)
+2025-04-18 09:48:15,728 - ERROR - Error processing passport image processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.0_angle90_var1.jpg: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-04-18 09:48:15,731 - DEBUG - OCR returned fields for processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.0_angle90_var1.jpg: None
+2025-04-18 09:48:15,732 - DEBUG - Sending image to OCR: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.0_angle90_var2.jpg
+2025-04-18 09:48:15,732 - INFO - Running OCR on passport image: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.0_angle90_var2.jpg with MRZ score 0.0000
+2025-04-18 09:48:15,762 - DEBUG - Image properties: resolution=(940, 1280), size=670.50KB
+2025-04-18 09:48:15,809 - DEBUG - Deskewed image by -90.00 degrees
+2025-04-18 09:48:15,943 - DEBUG - ['tesseract', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_15vzvc7i.bmp', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_hldnvuhj', '--psm', '6', '-c', 'tessedit_char_whitelist=ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789><', '-c', 'load_system_dawg=F', '-c', 'load_freq_dawg=F', '--rotate', 'txt']
+2025-04-18 09:48:15,971 - ERROR - Error processing passport image processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.0_angle90_var2.jpg: (1, "Error, unknown command line argument '--rotate'")
+2025-04-18 09:48:15,974 - DEBUG - OCR returned fields for processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.0_angle90_var2.jpg: None
+2025-04-18 09:48:15,975 - DEBUG - Sending image to OCR: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.0_angle180_var0.jpg
+2025-04-18 09:48:15,975 - INFO - Running OCR on passport image: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.0_angle180_var0.jpg with MRZ score 0.0000
+2025-04-18 09:48:16,016 - DEBUG - Image properties: resolution=(1280, 940), size=1114.60KB
+2025-04-18 09:48:16,083 - DEBUG - Deskewed image by -90.00 degrees
+2025-04-18 09:48:16,230 - DEBUG - ['tesseract', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_4hfcsulq.bmp', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_ain7fxdu', '--psm', '6', '-c', 'tessedit_char_whitelist=ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789><', '-c', 'load_system_dawg=F', '-c', 'load_freq_dawg=F', '--rotate', 'txt']
+2025-04-18 09:48:16,258 - ERROR - Error processing passport image processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.0_angle180_var0.jpg: (1, "Error, unknown command line argument '--rotate'")
+2025-04-18 09:48:16,260 - DEBUG - OCR returned fields for processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.0_angle180_var0.jpg: None
+2025-04-18 09:48:16,261 - DEBUG - Sending image to OCR: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.0_angle180_var1.jpg
+2025-04-18 09:48:16,261 - INFO - Running OCR on passport image: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.0_angle180_var1.jpg with MRZ score 0.0000
+2025-04-18 09:48:16,331 - DEBUG - Image properties: resolution=(1280, 940), size=1084.85KB
+2025-04-18 09:48:16,389 - DEBUG - Deskewed image by -90.00 degrees
+2025-04-18 09:48:16,548 - DEBUG - ['tesseract', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_00ufhxxy.bmp', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_gqq8a54y', '--psm', '6', '-c', 'tessedit_char_whitelist=ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789><', '-c', 'load_system_dawg=F', '-c', 'load_freq_dawg=F', '--rotate', 'txt']
+2025-04-18 09:48:16,573 - ERROR - Error processing passport image processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.0_angle180_var1.jpg: (1, "Error, unknown command line argument '--rotate'")
+2025-04-18 09:48:16,576 - DEBUG - OCR returned fields for processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.0_angle180_var1.jpg: None
+2025-04-18 09:48:16,576 - DEBUG - Sending image to OCR: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.0_angle180_var2.jpg
+2025-04-18 09:48:16,577 - INFO - Running OCR on passport image: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.0_angle180_var2.jpg with MRZ score 0.0000
+2025-04-18 09:48:16,732 - DEBUG - Image properties: resolution=(1280, 940), size=668.70KB
+2025-04-18 09:48:16,912 - DEBUG - ['tesseract', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess___asl_0i.bmp', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_e7xfb000', '--psm', '6', '-c', 'tessedit_char_whitelist=ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789><', '-c', 'load_system_dawg=F', '-c', 'load_freq_dawg=F', '--rotate', 'txt']
+2025-04-18 09:48:16,939 - ERROR - Error processing passport image processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.0_angle180_var2.jpg: (1, "Error, unknown command line argument '--rotate'")
+2025-04-18 09:48:16,941 - DEBUG - OCR returned fields for processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.0_angle180_var2.jpg: None
+2025-04-18 09:48:16,941 - DEBUG - Sending image to OCR: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.0_angle270_var0.jpg
+2025-04-18 09:48:16,942 - INFO - Running OCR on passport image: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.0_angle270_var0.jpg with MRZ score 0.0000
+2025-04-18 09:48:16,979 - DEBUG - Image properties: resolution=(940, 1280), size=1102.51KB
+2025-04-18 09:48:17,037 - DEBUG - Deskewed image by -90.00 degrees
+2025-04-18 09:48:17,627 - DEBUG - ['tesseract', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_7wjr1mi4.bmp', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_aifcsg2m', '--psm', '6', '-c', 'tessedit_char_whitelist=ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789><', '-c', 'load_system_dawg=F', '-c', 'load_freq_dawg=F', '--rotate', 'txt']
+2025-04-18 09:48:17,653 - ERROR - Error processing passport image processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.0_angle270_var0.jpg: (1, "Error, unknown command line argument '--rotate'")
+2025-04-18 09:48:17,656 - DEBUG - OCR returned fields for processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.0_angle270_var0.jpg: None
+2025-04-18 09:48:17,657 - DEBUG - Sending image to OCR: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.0_angle270_var1.jpg
+2025-04-18 09:48:17,657 - INFO - Running OCR on passport image: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.0_angle270_var1.jpg with MRZ score 0.0000
+2025-04-18 09:48:17,687 - DEBUG - Image properties: resolution=(940, 1280), size=1073.79KB
+2025-04-18 09:48:17,742 - DEBUG - Deskewed image by -90.00 degrees
+2025-04-18 09:48:18,202 - DEBUG - ['tesseract', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess__pwmd3o_.bmp', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_uoejttk2', '--psm', '6', '-c', 'tessedit_char_whitelist=ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789><', '-c', 'load_system_dawg=F', '-c', 'load_freq_dawg=F', '--rotate', 'txt']
+2025-04-18 09:48:18,225 - ERROR - Error processing passport image processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.0_angle270_var1.jpg: (1, "Error, unknown command line argument '--rotate'")
+2025-04-18 09:48:18,227 - DEBUG - OCR returned fields for processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.0_angle270_var1.jpg: None
+2025-04-18 09:48:18,228 - DEBUG - Sending image to OCR: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.0_angle270_var2.jpg
+2025-04-18 09:48:18,229 - INFO - Running OCR on passport image: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.0_angle270_var2.jpg with MRZ score 0.0000
+2025-04-18 09:48:18,248 - DEBUG - Image properties: resolution=(940, 1280), size=667.39KB
+2025-04-18 09:48:18,410 - DEBUG - ['tesseract', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_n0ttiohq.bmp', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_edjj4fzy', '--psm', '6', '-c', 'tessedit_char_whitelist=ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789><', '-c', 'load_system_dawg=F', '-c', 'load_freq_dawg=F', '--rotate', 'txt']
+2025-04-18 09:48:18,443 - ERROR - Error processing passport image processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.0_angle270_var2.jpg: (1, "Error, unknown command line argument '--rotate'")
+2025-04-18 09:48:18,446 - DEBUG - OCR returned fields for processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.0_angle270_var2.jpg: None
+2025-04-18 09:48:18,447 - DEBUG - Sending image to OCR: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.5_angle0_var0.jpg
+2025-04-18 09:48:18,447 - INFO - Running OCR on passport image: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.5_angle0_var0.jpg with MRZ score 0.0000
+2025-04-18 09:48:18,963 - DEBUG - Image properties: resolution=(1920, 1410), size=2316.41KB
+2025-04-18 09:48:19,383 - DEBUG - ['tesseract', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_4tgwbsvp.bmp', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_cxr209wb', '--psm', '6', '-c', 'tessedit_char_whitelist=ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789><', '-c', 'load_system_dawg=F', '-c', 'load_freq_dawg=F', '--rotate', 'txt']
+2025-04-18 09:48:19,407 - ERROR - Error processing passport image processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.5_angle0_var0.jpg: (1, "Error, unknown command line argument '--rotate'")
+2025-04-18 09:48:19,411 - DEBUG - OCR returned fields for processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.5_angle0_var0.jpg: None
+2025-04-18 09:48:19,412 - DEBUG - Sending image to OCR: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.5_angle0_var1.jpg
+2025-04-18 09:48:19,412 - INFO - Running OCR on passport image: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.5_angle0_var1.jpg with MRZ score 0.0000
+2025-04-18 09:48:19,455 - DEBUG - Image properties: resolution=(1920, 1410), size=2220.66KB
+2025-04-18 09:48:19,813 - DEBUG - ['tesseract', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_qqpgqm8h.bmp', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_zteu7f3c', '--psm', '6', '-c', 'tessedit_char_whitelist=ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789><', '-c', 'load_system_dawg=F', '-c', 'load_freq_dawg=F', '--rotate', 'txt']
+2025-04-18 09:48:19,840 - ERROR - Error processing passport image processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.5_angle0_var1.jpg: (1, "Error, unknown command line argument '--rotate'")
+2025-04-18 09:48:19,844 - DEBUG - OCR returned fields for processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.5_angle0_var1.jpg: None
+2025-04-18 09:48:19,844 - DEBUG - Sending image to OCR: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.5_angle0_var2.jpg
+2025-04-18 09:48:19,845 - INFO - Running OCR on passport image: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.5_angle0_var2.jpg with MRZ score 0.0000
+2025-04-18 09:48:19,894 - DEBUG - Image properties: resolution=(1920, 1410), size=1191.00KB
+2025-04-18 09:48:20,240 - DEBUG - ['tesseract', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_5ypr9mdo.bmp', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_l76sjex2', '--psm', '6', '-c', 'tessedit_char_whitelist=ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789><', '-c', 'load_system_dawg=F', '-c', 'load_freq_dawg=F', '--rotate', 'txt']
+2025-04-18 09:48:20,269 - ERROR - Error processing passport image processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.5_angle0_var2.jpg: (1, "Error, unknown command line argument '--rotate'")
+2025-04-18 09:48:20,272 - DEBUG - OCR returned fields for processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.5_angle0_var2.jpg: None
+2025-04-18 09:48:20,272 - DEBUG - Sending image to OCR: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.5_angle90_var0.jpg
+2025-04-18 09:48:20,272 - INFO - Running OCR on passport image: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.5_angle90_var0.jpg with MRZ score 0.0000
+2025-04-18 09:48:20,321 - DEBUG - Image properties: resolution=(1410, 1920), size=2316.10KB
+2025-04-18 09:48:20,439 - DEBUG - Deskewed image by -90.00 degrees
+2025-04-18 09:48:21,427 - DEBUG - ['tesseract', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_r44hittw.bmp', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_vr6tg5n1', '--psm', '6', '-c', 'tessedit_char_whitelist=ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789><', '-c', 'load_system_dawg=F', '-c', 'load_freq_dawg=F', '--rotate', 'txt']
+2025-04-18 09:48:21,599 - ERROR - Error processing passport image processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.5_angle90_var0.jpg: (1, "Error, unknown command line argument '--rotate'")
+2025-04-18 09:48:21,604 - DEBUG - OCR returned fields for processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.5_angle90_var0.jpg: None
+2025-04-18 09:48:21,605 - DEBUG - Sending image to OCR: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.5_angle90_var1.jpg
+2025-04-18 09:48:21,605 - INFO - Running OCR on passport image: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.5_angle90_var1.jpg with MRZ score 0.0000
+2025-04-18 09:48:21,671 - DEBUG - Image properties: resolution=(1410, 1920), size=2220.11KB
+2025-04-18 09:48:21,816 - DEBUG - Deskewed image by -90.00 degrees
+2025-04-18 09:48:22,492 - DEBUG - ['tesseract', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_lkorvyhj.bmp', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_7s13ou02', '--psm', '6', '-c', 'tessedit_char_whitelist=ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789><', '-c', 'load_system_dawg=F', '-c', 'load_freq_dawg=F', '--rotate', 'txt']
+2025-04-18 09:48:22,518 - ERROR - Error processing passport image processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.5_angle90_var1.jpg: (1, "Error, unknown command line argument '--rotate'")
+2025-04-18 09:48:22,525 - DEBUG - OCR returned fields for processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.5_angle90_var1.jpg: None
+2025-04-18 09:48:22,525 - DEBUG - Sending image to OCR: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.5_angle90_var2.jpg
+2025-04-18 09:48:22,526 - INFO - Running OCR on passport image: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.5_angle90_var2.jpg with MRZ score 0.0000
+2025-04-18 09:48:22,664 - DEBUG - Image properties: resolution=(1410, 1920), size=1183.58KB
+2025-04-18 09:48:22,770 - DEBUG - Deskewed image by -90.00 degrees
+2025-04-18 09:48:23,060 - DEBUG - ['tesseract', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_uzdi8esi.bmp', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_kiymr6ee', '--psm', '6', '-c', 'tessedit_char_whitelist=ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789><', '-c', 'load_system_dawg=F', '-c', 'load_freq_dawg=F', '--rotate', 'txt']
+2025-04-18 09:48:23,090 - ERROR - Error processing passport image processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.5_angle90_var2.jpg: (1, "Error, unknown command line argument '--rotate'")
+2025-04-18 09:48:23,094 - DEBUG - OCR returned fields for processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.5_angle90_var2.jpg: None
+2025-04-18 09:48:23,094 - DEBUG - Sending image to OCR: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.5_angle180_var0.jpg
+2025-04-18 09:48:23,095 - INFO - Running OCR on passport image: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.5_angle180_var0.jpg with MRZ score 0.0000
+2025-04-18 09:48:23,517 - DEBUG - Image properties: resolution=(1920, 1410), size=2317.91KB
+2025-04-18 09:48:23,653 - DEBUG - Deskewed image by -90.00 degrees
+2025-04-18 09:48:23,955 - DEBUG - ['tesseract', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_ehaqr2fj.bmp', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_mz5wgeok', '--psm', '6', '-c', 'tessedit_char_whitelist=ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789><', '-c', 'load_system_dawg=F', '-c', 'load_freq_dawg=F', '--rotate', 'txt']
+2025-04-18 09:48:23,977 - ERROR - Error processing passport image processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.5_angle180_var0.jpg: (1, "Error, unknown command line argument '--rotate'")
+2025-04-18 09:48:23,985 - DEBUG - OCR returned fields for processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.5_angle180_var0.jpg: None
+2025-04-18 09:48:23,985 - DEBUG - Sending image to OCR: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.5_angle180_var1.jpg
+2025-04-18 09:48:23,986 - INFO - Running OCR on passport image: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.5_angle180_var1.jpg with MRZ score 0.0000
+2025-04-18 09:48:24,023 - DEBUG - Image properties: resolution=(1920, 1410), size=2219.65KB
+2025-04-18 09:48:24,153 - DEBUG - Deskewed image by -90.00 degrees
+2025-04-18 09:48:24,429 - DEBUG - ['tesseract', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_u0p6kdfc.bmp', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_t3ha9j82', '--psm', '6', '-c', 'tessedit_char_whitelist=ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789><', '-c', 'load_system_dawg=F', '-c', 'load_freq_dawg=F', '--rotate', 'txt']
+2025-04-18 09:48:24,643 - ERROR - Error processing passport image processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.5_angle180_var1.jpg: (1, "Error, unknown command line argument '--rotate'")
+2025-04-18 09:48:24,649 - DEBUG - OCR returned fields for processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.5_angle180_var1.jpg: None
+2025-04-18 09:48:24,649 - DEBUG - Sending image to OCR: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.5_angle180_var2.jpg
+2025-04-18 09:48:24,650 - INFO - Running OCR on passport image: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.5_angle180_var2.jpg with MRZ score 0.0000
+2025-04-18 09:48:24,682 - DEBUG - Image properties: resolution=(1920, 1410), size=1183.05KB
+2025-04-18 09:48:24,789 - DEBUG - Deskewed image by -90.00 degrees
+2025-04-18 09:48:25,096 - DEBUG - ['tesseract', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_tvq0yotm.bmp', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_ob8opvxf', '--psm', '6', '-c', 'tessedit_char_whitelist=ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789><', '-c', 'load_system_dawg=F', '-c', 'load_freq_dawg=F', '--rotate', 'txt']
+2025-04-18 09:48:25,315 - ERROR - Error processing passport image processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.5_angle180_var2.jpg: (1, "Error, unknown command line argument '--rotate'")
+2025-04-18 09:48:25,319 - DEBUG - OCR returned fields for processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.5_angle180_var2.jpg: None
+2025-04-18 09:48:25,320 - DEBUG - Sending image to OCR: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.5_angle270_var0.jpg
+2025-04-18 09:48:25,320 - INFO - Running OCR on passport image: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.5_angle270_var0.jpg with MRZ score 0.0000
+2025-04-18 09:48:25,697 - DEBUG - Image properties: resolution=(1410, 1920), size=2314.64KB
+2025-04-18 09:48:26,092 - DEBUG - ['tesseract', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_4cha94dz.bmp', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_2pmj3955', '--psm', '6', '-c', 'tessedit_char_whitelist=ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789><', '-c', 'load_system_dawg=F', '-c', 'load_freq_dawg=F', '--rotate', 'txt']
+2025-04-18 09:48:26,186 - ERROR - Error processing passport image processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.5_angle270_var0.jpg: (1, "Error, unknown command line argument '--rotate'")
+2025-04-18 09:48:26,193 - DEBUG - OCR returned fields for processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.5_angle270_var0.jpg: None
+2025-04-18 09:48:26,194 - DEBUG - Sending image to OCR: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.5_angle270_var1.jpg
+2025-04-18 09:48:26,195 - INFO - Running OCR on passport image: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.5_angle270_var1.jpg with MRZ score 0.0000
+2025-04-18 09:48:26,246 - DEBUG - Image properties: resolution=(1410, 1920), size=2217.54KB
+2025-04-18 09:48:27,062 - DEBUG - ['tesseract', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_3zd_2dtm.bmp', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_jqj4nvzp', '--psm', '6', '-c', 'tessedit_char_whitelist=ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789><', '-c', 'load_system_dawg=F', '-c', 'load_freq_dawg=F', '--rotate', 'txt']
+2025-04-18 09:48:27,091 - ERROR - Error processing passport image processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.5_angle270_var1.jpg: (1, "Error, unknown command line argument '--rotate'")
+2025-04-18 09:48:27,096 - DEBUG - OCR returned fields for processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.5_angle270_var1.jpg: None
+2025-04-18 09:48:27,097 - DEBUG - Sending image to OCR: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.5_angle270_var2.jpg
+2025-04-18 09:48:27,097 - INFO - Running OCR on passport image: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.5_angle270_var2.jpg with MRZ score 0.0000
+2025-04-18 09:48:27,552 - DEBUG - Image properties: resolution=(1410, 1920), size=1189.89KB
+2025-04-18 09:48:27,937 - DEBUG - ['tesseract', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_hkay24k1.bmp', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_p7m1y05g', '--psm', '6', '-c', 'tessedit_char_whitelist=ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789><', '-c', 'load_system_dawg=F', '-c', 'load_freq_dawg=F', '--rotate', 'txt']
+2025-04-18 09:48:27,965 - ERROR - Error processing passport image processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.5_angle270_var2.jpg: (1, "Error, unknown command line argument '--rotate'")
+2025-04-18 09:48:28,054 - DEBUG - OCR returned fields for processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale1.5_angle270_var2.jpg: None
+2025-04-18 09:48:28,055 - DEBUG - Sending image to OCR: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale0.75_angle0_var0.jpg
+2025-04-18 09:48:28,055 - INFO - Running OCR on passport image: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale0.75_angle0_var0.jpg with MRZ score 0.0000
+2025-04-18 09:48:28,095 - DEBUG - Image properties: resolution=(960, 705), size=593.61KB
+2025-04-18 09:48:28,138 - DEBUG - Deskewed image by -90.00 degrees
+2025-04-18 09:48:28,267 - DEBUG - ['tesseract', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_f05hk5n0.bmp', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_hre0m532', '--psm', '6', '-c', 'tessedit_char_whitelist=ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789><', '-c', 'load_system_dawg=F', '-c', 'load_freq_dawg=F', '--rotate', 'txt']
+2025-04-18 09:48:28,289 - ERROR - Error processing passport image processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale0.75_angle0_var0.jpg: (1, "Error, unknown command line argument '--rotate'")
+2025-04-18 09:48:28,293 - DEBUG - OCR returned fields for processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale0.75_angle0_var0.jpg: None
+2025-04-18 09:48:28,293 - DEBUG - Sending image to OCR: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale0.75_angle0_var1.jpg
+2025-04-18 09:48:28,293 - INFO - Running OCR on passport image: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale0.75_angle0_var1.jpg with MRZ score 0.0000
+2025-04-18 09:48:28,316 - DEBUG - Image properties: resolution=(960, 705), size=577.80KB
+2025-04-18 09:48:28,351 - DEBUG - Deskewed image by -90.00 degrees
+2025-04-18 09:48:28,722 - DEBUG - ['tesseract', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_8qd26kcc.bmp', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_x4cdas3h', '--psm', '6', '-c', 'tessedit_char_whitelist=ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789><', '-c', 'load_system_dawg=F', '-c', 'load_freq_dawg=F', '--rotate', 'txt']
+2025-04-18 09:48:28,747 - ERROR - Error processing passport image processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale0.75_angle0_var1.jpg: (1, "Error, unknown command line argument '--rotate'")
+2025-04-18 09:48:28,749 - DEBUG - OCR returned fields for processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale0.75_angle0_var1.jpg: None
+2025-04-18 09:48:28,749 - DEBUG - Sending image to OCR: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale0.75_angle0_var2.jpg
+2025-04-18 09:48:28,750 - INFO - Running OCR on passport image: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale0.75_angle0_var2.jpg with MRZ score 0.0000
+2025-04-18 09:48:28,972 - DEBUG - Image properties: resolution=(960, 705), size=351.12KB
+2025-04-18 09:48:29,005 - DEBUG - Deskewed image by -90.00 degrees
+2025-04-18 09:48:29,123 - DEBUG - ['tesseract', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_e8o4ozrz.bmp', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_jaq0va_9', '--psm', '6', '-c', 'tessedit_char_whitelist=ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789><', '-c', 'load_system_dawg=F', '-c', 'load_freq_dawg=F', '--rotate', 'txt']
+2025-04-18 09:48:29,151 - ERROR - Error processing passport image processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale0.75_angle0_var2.jpg: (1, "Error, unknown command line argument '--rotate'")
+2025-04-18 09:48:29,153 - DEBUG - OCR returned fields for processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale0.75_angle0_var2.jpg: None
+2025-04-18 09:48:29,154 - DEBUG - Sending image to OCR: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale0.75_angle90_var0.jpg
+2025-04-18 09:48:29,154 - INFO - Running OCR on passport image: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale0.75_angle90_var0.jpg with MRZ score 0.0000
+2025-04-18 09:48:29,172 - DEBUG - Image properties: resolution=(705, 960), size=593.30KB
+2025-04-18 09:48:29,213 - DEBUG - Deskewed image by -90.00 degrees
+2025-04-18 09:48:29,549 - DEBUG - ['tesseract', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_rfh_e7lc.bmp', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_ruatp0_f', '--psm', '6', '-c', 'tessedit_char_whitelist=ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789><', '-c', 'load_system_dawg=F', '-c', 'load_freq_dawg=F', '--rotate', 'txt']
+2025-04-18 09:48:29,575 - ERROR - Error processing passport image processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale0.75_angle90_var0.jpg: (1, "Error, unknown command line argument '--rotate'")
+2025-04-18 09:48:29,577 - DEBUG - OCR returned fields for processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale0.75_angle90_var0.jpg: None
+2025-04-18 09:48:29,578 - DEBUG - Sending image to OCR: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale0.75_angle90_var1.jpg
+2025-04-18 09:48:29,579 - INFO - Running OCR on passport image: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale0.75_angle90_var1.jpg with MRZ score 0.0000
+2025-04-18 09:48:29,608 - DEBUG - Image properties: resolution=(705, 960), size=577.50KB
+2025-04-18 09:48:29,637 - DEBUG - Deskewed image by -90.00 degrees
+2025-04-18 09:48:29,745 - DEBUG - ['tesseract', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_i87a0s8n.bmp', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_kx6_b9a1', '--psm', '6', '-c', 'tessedit_char_whitelist=ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789><', '-c', 'load_system_dawg=F', '-c', 'load_freq_dawg=F', '--rotate', 'txt']
+2025-04-18 09:48:29,771 - ERROR - Error processing passport image processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale0.75_angle90_var1.jpg: (1, "Error, unknown command line argument '--rotate'")
+2025-04-18 09:48:29,773 - DEBUG - OCR returned fields for processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale0.75_angle90_var1.jpg: None
+2025-04-18 09:48:29,773 - DEBUG - Sending image to OCR: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale0.75_angle90_var2.jpg
+2025-04-18 09:48:29,775 - INFO - Running OCR on passport image: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale0.75_angle90_var2.jpg with MRZ score 0.0000
+2025-04-18 09:48:29,796 - DEBUG - Image properties: resolution=(705, 960), size=348.36KB
+2025-04-18 09:48:29,907 - DEBUG - ['tesseract', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_evaxdsr7.bmp', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess__thjgqo4', '--psm', '6', '-c', 'tessedit_char_whitelist=ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789><', '-c', 'load_system_dawg=F', '-c', 'load_freq_dawg=F', '--rotate', 'txt']
+2025-04-18 09:48:29,936 - ERROR - Error processing passport image processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale0.75_angle90_var2.jpg: (1, "Error, unknown command line argument '--rotate'")
+2025-04-18 09:48:29,937 - DEBUG - OCR returned fields for processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale0.75_angle90_var2.jpg: None
+2025-04-18 09:48:29,938 - DEBUG - Sending image to OCR: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale0.75_angle180_var0.jpg
+2025-04-18 09:48:29,939 - INFO - Running OCR on passport image: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale0.75_angle180_var0.jpg with MRZ score 0.0000
+2025-04-18 09:48:30,073 - DEBUG - Image properties: resolution=(960, 705), size=591.35KB
+2025-04-18 09:48:30,115 - DEBUG - Deskewed image by -90.00 degrees
+2025-04-18 09:48:30,247 - DEBUG - ['tesseract', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_8w6jc20t.bmp', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_8k3v6e6x', '--psm', '6', '-c', 'tessedit_char_whitelist=ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789><', '-c', 'load_system_dawg=F', '-c', 'load_freq_dawg=F', '--rotate', 'txt']
+2025-04-18 09:48:30,273 - ERROR - Error processing passport image processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale0.75_angle180_var0.jpg: (1, "Error, unknown command line argument '--rotate'")
+2025-04-18 09:48:30,275 - DEBUG - OCR returned fields for processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale0.75_angle180_var0.jpg: None
+2025-04-18 09:48:30,276 - DEBUG - Sending image to OCR: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale0.75_angle180_var1.jpg
+2025-04-18 09:48:30,276 - INFO - Running OCR on passport image: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale0.75_angle180_var1.jpg with MRZ score 0.0000
+2025-04-18 09:48:30,300 - DEBUG - Image properties: resolution=(960, 705), size=575.45KB
+2025-04-18 09:48:30,334 - DEBUG - Deskewed image by -90.00 degrees
+2025-04-18 09:48:30,444 - DEBUG - ['tesseract', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_0x8tue5j.bmp', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_8_cvwj4u', '--psm', '6', '-c', 'tessedit_char_whitelist=ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789><', '-c', 'load_system_dawg=F', '-c', 'load_freq_dawg=F', '--rotate', 'txt']
+2025-04-18 09:48:30,556 - ERROR - Error processing passport image processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale0.75_angle180_var1.jpg: (1, "Error, unknown command line argument '--rotate'")
+2025-04-18 09:48:30,558 - DEBUG - OCR returned fields for processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale0.75_angle180_var1.jpg: None
+2025-04-18 09:48:30,558 - DEBUG - Sending image to OCR: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale0.75_angle180_var2.jpg
+2025-04-18 09:48:30,559 - INFO - Running OCR on passport image: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale0.75_angle180_var2.jpg with MRZ score 0.0000
+2025-04-18 09:48:31,328 - DEBUG - Image properties: resolution=(960, 705), size=346.67KB
+2025-04-18 09:48:31,365 - DEBUG - Deskewed image by -90.00 degrees
+2025-04-18 09:48:31,519 - DEBUG - ['tesseract', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_92kd2ldl.bmp', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_v1mlf6l5', '--psm', '6', '-c', 'tessedit_char_whitelist=ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789><', '-c', 'load_system_dawg=F', '-c', 'load_freq_dawg=F', '--rotate', 'txt']
+2025-04-18 09:48:31,543 - ERROR - Error processing passport image processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale0.75_angle180_var2.jpg: (1, "Error, unknown command line argument '--rotate'")
+2025-04-18 09:48:31,545 - DEBUG - OCR returned fields for processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale0.75_angle180_var2.jpg: None
+2025-04-18 09:48:31,546 - DEBUG - Sending image to OCR: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale0.75_angle270_var0.jpg
+2025-04-18 09:48:31,546 - INFO - Running OCR on passport image: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale0.75_angle270_var0.jpg with MRZ score 0.0000
+2025-04-18 09:48:31,612 - DEBUG - Image properties: resolution=(705, 960), size=592.37KB
+2025-04-18 09:48:31,749 - DEBUG - ['tesseract', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_hztflv_r.bmp', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_7ybmdu5r', '--psm', '6', '-c', 'tessedit_char_whitelist=ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789><', '-c', 'load_system_dawg=F', '-c', 'load_freq_dawg=F', '--rotate', 'txt']
+2025-04-18 09:48:31,778 - ERROR - Error processing passport image processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale0.75_angle270_var0.jpg: (1, "Error, unknown command line argument '--rotate'")
+2025-04-18 09:48:31,778 - DEBUG - OCR returned fields for processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale0.75_angle270_var0.jpg: None
+2025-04-18 09:48:31,779 - DEBUG - Sending image to OCR: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale0.75_angle270_var1.jpg
+2025-04-18 09:48:31,779 - INFO - Running OCR on passport image: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale0.75_angle270_var1.jpg with MRZ score 0.0000
+2025-04-18 09:48:32,083 - DEBUG - Image properties: resolution=(705, 960), size=576.44KB
+2025-04-18 09:48:32,220 - DEBUG - ['tesseract', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_32k001kk.bmp', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_1vddtp_s', '--psm', '6', '-c', 'tessedit_char_whitelist=ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789><', '-c', 'load_system_dawg=F', '-c', 'load_freq_dawg=F', '--rotate', 'txt']
+2025-04-18 09:48:32,465 - ERROR - Error processing passport image processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale0.75_angle270_var1.jpg: (1, "Error, unknown command line argument '--rotate'")
+2025-04-18 09:48:32,468 - DEBUG - OCR returned fields for processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale0.75_angle270_var1.jpg: None
+2025-04-18 09:48:32,469 - DEBUG - Sending image to OCR: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale0.75_angle270_var2.jpg
+2025-04-18 09:48:32,469 - INFO - Running OCR on passport image: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale0.75_angle270_var2.jpg with MRZ score 0.0000
+2025-04-18 09:48:32,524 - DEBUG - Image properties: resolution=(705, 960), size=347.64KB
+2025-04-18 09:48:32,559 - DEBUG - Deskewed image by -90.00 degrees
+2025-04-18 09:48:32,689 - DEBUG - ['tesseract', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_rkunjd8h.bmp', 'C:\\Users\\User\\AppData\\Local\\Temp\\tess_qpk22tm6', '--psm', '6', '-c', 'tessedit_char_whitelist=ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789><', '-c', 'load_system_dawg=F', '-c', 'load_freq_dawg=F', '--rotate', 'txt']
+2025-04-18 09:48:32,714 - ERROR - Error processing passport image processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale0.75_angle270_var2.jpg: (1, "Error, unknown command line argument '--rotate'")
+2025-04-18 09:48:32,716 - DEBUG - OCR returned fields for processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\preprocess\input_20250418_094732_493255_0\input_20250418_094732_493255_0_0_scale0.75_angle270_var2.jpg: None
+2025-04-18 09:48:32,716 - WARNING - No valid MRZ detected in any preprocessed image: C:\Users\User\AppData\Local\Temp\tmp3g3_ivsb\input_20250418_094732_493255_0.jpg
+2025-04-18 09:48:32,716 - INFO - Combining OCR results
+2025-04-18 09:48:32,717 - INFO - Looking for _fields.json in: processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\ocr_results
+2025-04-18 09:48:32,718 - INFO - Found JSON files: []
+2025-04-18 09:48:33,340 - WARNING - No JSON files found in processed\522014b6-324e-47b0-b550-02c5e6207f3d\passport\ocr_results. Created default combined JSON.
+2025-04-18 09:48:33,343 - INFO - Combined result: {
+  "document_type": "Passport",
+  "fields": {
+    "status": "No fields detected"
+  },
+  "confidences": {
+    "status": 0.0
+  },
+  "source_images": []
+}
+2025-04-18 09:48:33,345 - INFO - Final result: {
+  "status": "success",
+  "combined_result": {
+    "document_type": "Passport",
+    "fields": {
+      "status": "No fields detected"
+    },
+    "confidences": {
+      "status": 0.0
+    },
+    "source_images": []
+  },
+  "preprocessed_files": [
+    "processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale0.75_angle0_var0.jpg",
+    "processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale0.75_angle0_var1.jpg",
+    "processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale0.75_angle0_var2.jpg",
+    "processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale0.75_angle180_var0.jpg",
+    "processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale0.75_angle180_var1.jpg",
+    "processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale0.75_angle180_var2.jpg",
+    "processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale0.75_angle270_var0.jpg",
+    "processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale0.75_angle270_var1.jpg",
+    "processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale0.75_angle270_var2.jpg",
+    "processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale0.75_angle90_var0.jpg",
+    "processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale0.75_angle90_var1.jpg",
+    "processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale0.75_angle90_var2.jpg",
+    "processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale1.0_angle0_var0.jpg",
+    "processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale1.0_angle0_var1.jpg",
+    "processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale1.0_angle0_var2.jpg",
+    "processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale1.0_angle180_var0.jpg",
+    "processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale1.0_angle180_var1.jpg",
+    "processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale1.0_angle180_var2.jpg",
+    "processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale1.0_angle270_var0.jpg",
+    "processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale1.0_angle270_var1.jpg",
+    "processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale1.0_angle270_var2.jpg",
+    "processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale1.0_angle90_var0.jpg",
+    "processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale1.0_angle90_var1.jpg",
+    "processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale1.0_angle90_var2.jpg",
+    "processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale1.5_angle0_var0.jpg",
+    "processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale1.5_angle0_var1.jpg",
+    "processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale1.5_angle0_var2.jpg",
+    "processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale1.5_angle180_var0.jpg",
+    "processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale1.5_angle180_var1.jpg",
+    "processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale1.5_angle180_var2.jpg",
+    "processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale1.5_angle270_var0.jpg",
+    "processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale1.5_angle270_var1.jpg",
+    "processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale1.5_angle270_var2.jpg",
+    "processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale1.5_angle90_var0.jpg",
+    "processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale1.5_angle90_var1.jpg",
+    "processed\\522014b6-324e-47b0-b550-02c5e6207f3d\\passport\\preprocess\\input_20250418_094732_493255_0\\input_20250418_094732_493255_0_0_scale1.5_angle90_var2.jpg"
+  ],
+  "annotated_files": [],
+  "cropped_face_files": [],
+  "face_verification": {
+    "is_verified": false,
+    "match_score": 0.0,
+    "details": [
+      "No face detected in the document."
+    ]
+  },
+  "mrz_data": {},
+  "error": null,
+  "run_id": "522014b6-324e-47b0-b550-02c5e6207f3d",
+  "mrz_warning": "Failed to detect MRZ in any preprocessed image. Try a clearer image."
+}
+2025-04-18 09:48:33,356 - DEBUG - Cleaned up temporary directory: C:\Users\User\AppData\Local\Temp\tmp3g3_ivsb

@@ -1,0 +1,15 @@
+[
+    {
+        "run_id": "a99ccc3b-85ac-4199-9f5f-4e6794d00879",
+        "document_type": "License",
+        "timestamp": "2025-04-19T02:02:53.508610",
+        "fields": {
+            "Name": "पर ङ प्र न््",
+            "Citizenship Number": "५५५१८६५"
+        },
+        "confidences": {
+            "Name": 0.8,
+            "Citizenship Number": 0.8
+        }
+    }
+]

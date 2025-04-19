@@ -1,0 +1,31 @@
+[
+    {
+        "run_id": "119d1bb6-afa0-401e-9b92-e7a7f5491853",
+        "document_type": "Passport",
+        "timestamp": "2025-04-19T22:51:40.095212",
+        "fields": {
+            "Name": "PRITAM",
+            "Surname": "THAKULLA KSHETRI",
+            "Sex": "M",
+            "Date of Birth": "12/08/2003",
+            "Nationality": "NPL",
+            "Passport Type": "P",
+            "Passport Number": "12084097",
+            "Issuing Country": "NPL",
+            "Expiration Date": "28/01/2031",
+            "Personal Number": "69017603320"
+        },
+        "confidences": {
+            "Name": 0.9,
+            "Surname": 0.9,
+            "Sex": 0.9,
+            "Date of Birth": 0.9,
+            "Nationality": 0.9,
+            "Passport Type": 0.9,
+            "Passport Number": 0.9,
+            "Issuing Country": 0.9,
+            "Expiration Date": 0.9,
+            "Personal Number": 0.9
+        }
+    }
+]

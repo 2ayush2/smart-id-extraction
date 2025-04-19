@@ -1,0 +1,15 @@
+[
+    {
+        "run_id": "99b8af81-ca20-44db-b00d-b8adcc5d0b1d",
+        "document_type": "License",
+        "timestamp": "2025-04-19T07:47:30.053689",
+        "fields": {
+            "License Number": "02-08-00915958",
+            "Address": "Dumkibas 8 Nawaloarasi Lumbini"
+        },
+        "confidences": {
+            "License Number": 0.794,
+            "Address": 0.679
+        }
+    }
+]

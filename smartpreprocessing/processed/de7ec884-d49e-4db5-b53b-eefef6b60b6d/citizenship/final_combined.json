@@ -1,0 +1,50 @@
+[
+    {
+        "run_id": "citizenship",
+        "document_type": "Citizenship",
+        "timestamp": "2025-04-19T14:26:14.215614",
+        "fields": {
+            "Father's Name": "प रङटल सनप- १८ सनसर",
+            "Name": "म नगरकतक पर",
+            "Mother's Name": "",
+            "Date of Birth": "",
+            "Place of Birth": "",
+            "Permanent Address": "",
+            "Temporary Address": "",
+            "Citizenship Number": "",
+            "Issued District": "",
+            "Gender": "",
+            "Spouse Name": "",
+            "Grandfather's Name": "",
+            "Issued Date": ""
+        },
+        "confidences": {
+            "Father's Name": 0.52,
+            "Name": 0.608,
+            "Mother's Name": 0.0,
+            "Date of Birth": 0.0,
+            "Place of Birth": 0.0,
+            "Permanent Address": 0.0,
+            "Temporary Address": 0.0,
+            "Citizenship Number": 0.0,
+            "Issued District": 0.0,
+            "Gender": 0.0,
+            "Spouse Name": 0.0,
+            "Grandfather's Name": 0.0,
+            "Issued Date": 0.0
+        }
+    },
+    {
+        "run_id": "de7ec884-d49e-4db5-b53b-eefef6b60b6d",
+        "document_type": "Citizenship",
+        "timestamp": "2025-04-19T14:26:14.473845",
+        "fields": {
+            "Father's Name": "प रङटल सनप- १८ सनसर",
+            "Name": "म नगरकतक पर"
+        },
+        "confidences": {
+            "Father's Name": 0.52,
+            "Name": 0.608
+        }
+    }
+]

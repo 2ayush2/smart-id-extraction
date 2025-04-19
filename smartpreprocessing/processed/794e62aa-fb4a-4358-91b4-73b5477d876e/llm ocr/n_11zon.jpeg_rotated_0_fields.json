@@ -1,0 +1,44 @@
+{
+    "Name": {
+        "ocr_text": "सस्मिता राई",
+        "confidence": 0.9,
+        "crop_image_path": "",
+        "source_image": "n_11zon.jpeg_rotated_0.jpg"
+    },
+    "Date of Birth": {
+        "ocr_text": "साल २०५५ महिना ०३ गते २३",
+        "confidence": 0.9,
+        "crop_image_path": "",
+        "source_image": "n_11zon.jpeg_rotated_0.jpg"
+    },
+    "National ID": {
+        "ocr_text": "०६-०१-७३-१००१०",
+        "confidence": 0.9,
+        "crop_image_path": "",
+        "source_image": "n_11zon.jpeg_rotated_0.jpg"
+    },
+    "Gender": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "n_11zon.jpeg_rotated_0.jpg"
+    },
+    "Expiry Date": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "n_11zon.jpeg_rotated_0.jpg"
+    },
+    "Address": {
+        "ocr_text": "गा.वि. स. बकलौरी",
+        "confidence": 0.9,
+        "crop_image_path": "",
+        "source_image": "n_11zon.jpeg_rotated_0.jpg"
+    },
+    "Nationality": {
+        "ocr_text": "नेपाली",
+        "confidence": 0.9,
+        "crop_image_path": "",
+        "source_image": "n_11zon.jpeg_rotated_0.jpg"
+    }
+}

@@ -1,0 +1,48 @@
+[
+    {
+        "run_id": "citizenship",
+        "document_type": "Citizenship",
+        "timestamp": "2025-04-19T14:29:25.643034",
+        "fields": {
+            "Permanent Address": "नम थर वशवजत तवर\n जनम सथन जलल बक\n\nयनन स प पय प नक",
+            "Name": "",
+            "Father's Name": "",
+            "Mother's Name": "",
+            "Date of Birth": "",
+            "Place of Birth": "",
+            "Temporary Address": "",
+            "Citizenship Number": "",
+            "Issued District": "",
+            "Gender": "",
+            "Spouse Name": "",
+            "Grandfather's Name": "",
+            "Issued Date": ""
+        },
+        "confidences": {
+            "Permanent Address": 0.773,
+            "Name": 0.0,
+            "Father's Name": 0.0,
+            "Mother's Name": 0.0,
+            "Date of Birth": 0.0,
+            "Place of Birth": 0.0,
+            "Temporary Address": 0.0,
+            "Citizenship Number": 0.0,
+            "Issued District": 0.0,
+            "Gender": 0.0,
+            "Spouse Name": 0.0,
+            "Grandfather's Name": 0.0,
+            "Issued Date": 0.0
+        }
+    },
+    {
+        "run_id": "40f8b891-9fce-4610-b1bf-84033dacca99",
+        "document_type": "Citizenship",
+        "timestamp": "2025-04-19T14:29:25.739141",
+        "fields": {
+            "Permanent Address": "नम थर वशवजत तवर\n जनम सथन जलल बक\n\nयनन स प पय प नक"
+        },
+        "confidences": {
+            "Permanent Address": 0.773
+        }
+    }
+]

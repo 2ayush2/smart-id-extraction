@@ -1,0 +1,52 @@
+[
+    {
+        "run_id": "citizenship",
+        "document_type": "Citizenship",
+        "timestamp": "2025-04-19T13:35:53.939639",
+        "fields": {
+            "Spouse Name": "पत पतनक",
+            "Name": "चदणडगढ न",
+            "Grandfather's Name": "ज ङ",
+            "Father's Name": "",
+            "Mother's Name": "",
+            "Date of Birth": "",
+            "Place of Birth": "",
+            "Permanent Address": "",
+            "Temporary Address": "",
+            "Citizenship Number": "",
+            "Issued District": "",
+            "Gender": "",
+            "Issued Date": ""
+        },
+        "confidences": {
+            "Spouse Name": 0.643,
+            "Name": 0.623,
+            "Grandfather's Name": 0.594,
+            "Father's Name": 0.0,
+            "Mother's Name": 0.0,
+            "Date of Birth": 0.0,
+            "Place of Birth": 0.0,
+            "Permanent Address": 0.0,
+            "Temporary Address": 0.0,
+            "Citizenship Number": 0.0,
+            "Issued District": 0.0,
+            "Gender": 0.0,
+            "Issued Date": 0.0
+        }
+    },
+    {
+        "run_id": "51f7379e-698a-43ed-9e30-69938eb42a06",
+        "document_type": "Citizenship",
+        "timestamp": "2025-04-19T13:35:54.082996",
+        "fields": {
+            "Spouse Name": "पत पतनक",
+            "Name": "चदणडगढ न",
+            "Grandfather's Name": "ज ङ"
+        },
+        "confidences": {
+            "Spouse Name": 0.643,
+            "Name": 0.623,
+            "Grandfather's Name": 0.594
+        }
+    }
+]

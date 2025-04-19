@@ -1,0 +1,12 @@
+{
+    "fields": {
+        "Spouse Name": {
+            "ocr_text": "थर : ५",
+            "crop_image_path": "processed\\165f5a23-34ab-4c51-a742-415417225bd6\\citizenship\\crops\\m_11zon.jpg_rotated_0_Spouse Name.jpg",
+            "source_image": "m_11zon.jpg_rotated_0.jpg"
+        }
+    },
+    "confidences": {
+        "Spouse Name": 0.8
+    }
+}

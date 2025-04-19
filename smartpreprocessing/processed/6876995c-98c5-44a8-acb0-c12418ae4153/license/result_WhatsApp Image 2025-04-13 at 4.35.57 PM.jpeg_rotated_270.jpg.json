@@ -1,0 +1,56 @@
+{
+    "fields": {
+        "Unknown": {
+            "ocr_text": "o Loozicol",
+            "confidence": 0.888,
+            "crop_image_path": "processed/6876995c-98c5-44a8-acb0-c12418ae4153/license\\crops\\WhatsApp Image 2025-04-13 at 4.35.57 PM.jpeg_rotated_270_rotated_90_Unknown_627_440.jpg",
+            "source_image": "WhatsApp Image 2025-04-13 at 4.35.57 PM.jpeg_rotated_270.jpg"
+        },
+        "Address": {
+            "ocr_text": "Dumkibas 8 NawaloarasiLumbini",
+            "confidence": 0.74,
+            "crop_image_path": "processed/6876995c-98c5-44a8-acb0-c12418ae4153/license\\crops\\WhatsApp Image 2025-04-13 at 4.35.57 PM.jpeg_rotated_270_rotated_0_Address_608_555.jpg",
+            "source_image": "WhatsApp Image 2025-04-13 at 4.35.57 PM.jpeg_rotated_270.jpg"
+        },
+        "Citizenship Number": {
+            "ocr_text": "36-02-75-06742 Category",
+            "confidence": 0.616,
+            "crop_image_path": "processed/6876995c-98c5-44a8-acb0-c12418ae4153/license\\crops\\WhatsApp Image 2025-04-13 at 4.35.57 PM.jpeg_rotated_270_rotated_0_Citizenship Number_279_539.jpg",
+            "source_image": "WhatsApp Image 2025-04-13 at 4.35.57 PM.jpeg_rotated_270.jpg"
+        },
+        "License Number": {
+            "ocr_text": "02 08-00915958",
+            "confidence": 0.849,
+            "crop_image_path": "processed/6876995c-98c5-44a8-acb0-c12418ae4153/license\\crops\\WhatsApp Image 2025-04-13 at 4.35.57 PM.jpeg_rotated_270_rotated_270_License Number_29_166.jpg",
+            "source_image": "WhatsApp Image 2025-04-13 at 4.35.57 PM.jpeg_rotated_270.jpg"
+        },
+        "License Office": {
+            "ocr_text": "kawa DOA 10-11-2001",
+            "confidence": 0.539,
+            "crop_image_path": "processed/6876995c-98c5-44a8-acb0-c12418ae4153/license\\crops\\WhatsApp Image 2025-04-13 at 4.35.57 PM.jpeg_rotated_270_rotated_90_License Office_637_432.jpg",
+            "source_image": "WhatsApp Image 2025-04-13 at 4.35.57 PM.jpeg_rotated_270.jpg"
+        },
+        "Name": {
+            "ocr_text": "MOHAN HHAPA MASHRA Address: Dumkibas 8 Nawalparasi Lumbini",
+            "confidence": 0.525,
+            "crop_image_path": "processed/6876995c-98c5-44a8-acb0-c12418ae4153/license\\crops\\WhatsApp Image 2025-04-13 at 4.35.57 PM.jpeg_rotated_270_rotated_180_Name_253_359.jpg",
+            "source_image": "WhatsApp Image 2025-04-13 at 4.35.57 PM.jpeg_rotated_270.jpg"
+        },
+        "Contact Number": {
+            "ocr_text": "9825432727",
+            "confidence": 0.642,
+            "crop_image_path": "processed/6876995c-98c5-44a8-acb0-c12418ae4153/license\\crops\\WhatsApp Image 2025-04-13 at 4.35.57 PM.jpeg_rotated_270_rotated_270_Contact Number_553_766.jpg",
+            "source_image": "WhatsApp Image 2025-04-13 at 4.35.57 PM.jpeg_rotated_270.jpg"
+        }
+    },
+    "confidences": {
+        "Unknown": 0.888,
+        "Address": 0.74,
+        "Citizenship Number": 0.616,
+        "License Number": 0.849,
+        "License Office": 0.539,
+        "Name": 0.525,
+        "Contact Number": 0.642
+    },
+    "annotated_path": "processed/6876995c-98c5-44a8-acb0-c12418ae4153/license\\annotated_WhatsApp Image 2025-04-13 at 4.35.57 PM.jpeg_rotated_270.jpg"
+}

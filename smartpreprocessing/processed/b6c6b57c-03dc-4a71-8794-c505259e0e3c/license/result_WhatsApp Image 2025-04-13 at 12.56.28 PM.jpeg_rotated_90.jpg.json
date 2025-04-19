@@ -1,0 +1,98 @@
+{
+    "fields": {
+        "Name": {
+            "ocr_text": "\u092d\n\u0967\n\n\u0928\n\n\u0930\u0936\n\n\u0968\u0966\n\n\u0906",
+            "confidence": 0.489,
+            "crop_image_path": "processed/b6c6b57c-03dc-4a71-8794-c505259e0e3c/license\\crops\\WhatsApp Image 2025-04-13 at 12.56.28 PM.jpeg_rotated_90_rotated_270_Name_13_866.jpg",
+            "source_image": "WhatsApp Image 2025-04-13 at 12.56.28 PM.jpeg_rotated_90.jpg"
+        },
+        "Grandfather's Name": {
+            "ocr_text": "\u091c \u096b\u096b\u0966\u092a\u0924",
+            "confidence": 0.409,
+            "crop_image_path": "processed/b6c6b57c-03dc-4a71-8794-c505259e0e3c/license\\crops\\WhatsApp Image 2025-04-13 at 12.56.28 PM.jpeg_rotated_90_rotated_270_Grandfather's Name_492_590.jpg",
+            "source_image": "WhatsApp Image 2025-04-13 at 12.56.28 PM.jpeg_rotated_90.jpg"
+        },
+        "Father's Name": {
+            "ocr_text": "\u092a 4\u09669\u09664\u096d",
+            "confidence": 0.653,
+            "crop_image_path": "processed/b6c6b57c-03dc-4a71-8794-c505259e0e3c/license\\crops\\WhatsApp Image 2025-04-13 at 12.56.28 PM.jpeg_rotated_90_rotated_270_Father's Name_427_77.jpg",
+            "source_image": "WhatsApp Image 2025-04-13 at 12.56.28 PM.jpeg_rotated_90.jpg"
+        },
+        "Mother's Name": {
+            "ocr_text": "",
+            "confidence": 0.0,
+            "crop_image_path": "",
+            "source_image": "WhatsApp Image 2025-04-13 at 12.56.28 PM.jpeg_rotated_90.jpg"
+        },
+        "Date of Birth": {
+            "ocr_text": "",
+            "confidence": 0.0,
+            "crop_image_path": "",
+            "source_image": "WhatsApp Image 2025-04-13 at 12.56.28 PM.jpeg_rotated_90.jpg"
+        },
+        "Place of Birth": {
+            "ocr_text": "",
+            "confidence": 0.0,
+            "crop_image_path": "",
+            "source_image": "WhatsApp Image 2025-04-13 at 12.56.28 PM.jpeg_rotated_90.jpg"
+        },
+        "Permanent Address": {
+            "ocr_text": "",
+            "confidence": 0.0,
+            "crop_image_path": "",
+            "source_image": "WhatsApp Image 2025-04-13 at 12.56.28 PM.jpeg_rotated_90.jpg"
+        },
+        "Temporary Address": {
+            "ocr_text": "",
+            "confidence": 0.0,
+            "crop_image_path": "",
+            "source_image": "WhatsApp Image 2025-04-13 at 12.56.28 PM.jpeg_rotated_90.jpg"
+        },
+        "Citizenship Number": {
+            "ocr_text": "",
+            "confidence": 0.0,
+            "crop_image_path": "",
+            "source_image": "WhatsApp Image 2025-04-13 at 12.56.28 PM.jpeg_rotated_90.jpg"
+        },
+        "Issued District": {
+            "ocr_text": "",
+            "confidence": 0.0,
+            "crop_image_path": "",
+            "source_image": "WhatsApp Image 2025-04-13 at 12.56.28 PM.jpeg_rotated_90.jpg"
+        },
+        "Gender": {
+            "ocr_text": "",
+            "confidence": 0.0,
+            "crop_image_path": "",
+            "source_image": "WhatsApp Image 2025-04-13 at 12.56.28 PM.jpeg_rotated_90.jpg"
+        },
+        "Spouse Name": {
+            "ocr_text": "",
+            "confidence": 0.0,
+            "crop_image_path": "",
+            "source_image": "WhatsApp Image 2025-04-13 at 12.56.28 PM.jpeg_rotated_90.jpg"
+        },
+        "Issued Date": {
+            "ocr_text": "",
+            "confidence": 0.0,
+            "crop_image_path": "",
+            "source_image": "WhatsApp Image 2025-04-13 at 12.56.28 PM.jpeg_rotated_90.jpg"
+        }
+    },
+    "confidences": {
+        "Name": 0.489,
+        "Grandfather's Name": 0.409,
+        "Father's Name": 0.653,
+        "Mother's Name": 0.0,
+        "Date of Birth": 0.0,
+        "Place of Birth": 0.0,
+        "Permanent Address": 0.0,
+        "Temporary Address": 0.0,
+        "Citizenship Number": 0.0,
+        "Issued District": 0.0,
+        "Gender": 0.0,
+        "Spouse Name": 0.0,
+        "Issued Date": 0.0
+    },
+    "annotated_path": "processed/b6c6b57c-03dc-4a71-8794-c505259e0e3c/license\\annotated_WhatsApp Image 2025-04-13 at 12.56.28 PM.jpeg_rotated_90.jpg"
+}

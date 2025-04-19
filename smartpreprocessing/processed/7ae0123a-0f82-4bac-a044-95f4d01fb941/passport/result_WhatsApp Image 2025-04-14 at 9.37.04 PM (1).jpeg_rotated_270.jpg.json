@@ -1,0 +1,12 @@
+{
+    "fields": {
+        "status": {
+            "ocr_text": "Processing failed: local variable 'temp_path' referenced before assignment"
+        }
+    },
+    "confidences": {
+        "status": 0.0
+    },
+    "mrz_data": {},
+    "warning": "Processing failed: local variable 'temp_path' referenced before assignment"
+}

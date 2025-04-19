@@ -1,0 +1,80 @@
+{
+    "Father's Name": {
+        "ocr_text": "प रङटल सनप- १८ सनसर",
+        "confidence": 0.52,
+        "crop_image_path": "processed/de7ec884-d49e-4db5-b53b-eefef6b60b6d/citizenship\\crops\\n_11zon.jpeg_rotated_0_rotated_0_Father's Name_224_345.jpg",
+        "source_image": "n_11zon.jpeg_rotated_0.jpg"
+    },
+    "Name": {
+        "ocr_text": "म नगरकतक पर",
+        "confidence": 0.608,
+        "crop_image_path": "processed/de7ec884-d49e-4db5-b53b-eefef6b60b6d/citizenship\\crops\\n_11zon.jpeg_rotated_0_rotated_90_Name_384_268.jpg",
+        "source_image": "n_11zon.jpeg_rotated_0.jpg"
+    },
+    "Mother's Name": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "n_11zon.jpeg_rotated_0.jpg"
+    },
+    "Date of Birth": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "n_11zon.jpeg_rotated_0.jpg"
+    },
+    "Place of Birth": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "n_11zon.jpeg_rotated_0.jpg"
+    },
+    "Permanent Address": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "n_11zon.jpeg_rotated_0.jpg"
+    },
+    "Temporary Address": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "n_11zon.jpeg_rotated_0.jpg"
+    },
+    "Citizenship Number": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "n_11zon.jpeg_rotated_0.jpg"
+    },
+    "Issued District": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "n_11zon.jpeg_rotated_0.jpg"
+    },
+    "Gender": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "n_11zon.jpeg_rotated_0.jpg"
+    },
+    "Spouse Name": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "n_11zon.jpeg_rotated_0.jpg"
+    },
+    "Grandfather's Name": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "n_11zon.jpeg_rotated_0.jpg"
+    },
+    "Issued Date": {
+        "ocr_text": "",
+        "confidence": 0.0,
+        "crop_image_path": "",
+        "source_image": "n_11zon.jpeg_rotated_0.jpg"
+    }
+}

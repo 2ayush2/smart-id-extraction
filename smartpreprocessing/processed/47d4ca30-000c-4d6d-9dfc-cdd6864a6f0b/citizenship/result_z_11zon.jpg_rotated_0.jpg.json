@@ -1,0 +1,98 @@
+{
+    "fields": {
+        "Name": {
+            "ocr_text": "",
+            "confidence": 0.0,
+            "crop_image_path": "",
+            "source_image": "z_11zon.jpg_rotated_0.jpg"
+        },
+        "Father's Name": {
+            "ocr_text": "",
+            "confidence": 0.0,
+            "crop_image_path": "",
+            "source_image": "z_11zon.jpg_rotated_0.jpg"
+        },
+        "Mother's Name": {
+            "ocr_text": "",
+            "confidence": 0.0,
+            "crop_image_path": "",
+            "source_image": "z_11zon.jpg_rotated_0.jpg"
+        },
+        "Date of Birth": {
+            "ocr_text": "",
+            "confidence": 0.0,
+            "crop_image_path": "",
+            "source_image": "z_11zon.jpg_rotated_0.jpg"
+        },
+        "Place of Birth": {
+            "ocr_text": "",
+            "confidence": 0.0,
+            "crop_image_path": "",
+            "source_image": "z_11zon.jpg_rotated_0.jpg"
+        },
+        "Permanent Address": {
+            "ocr_text": "",
+            "confidence": 0.0,
+            "crop_image_path": "",
+            "source_image": "z_11zon.jpg_rotated_0.jpg"
+        },
+        "Temporary Address": {
+            "ocr_text": "",
+            "confidence": 0.0,
+            "crop_image_path": "",
+            "source_image": "z_11zon.jpg_rotated_0.jpg"
+        },
+        "Citizenship Number": {
+            "ocr_text": "",
+            "confidence": 0.0,
+            "crop_image_path": "",
+            "source_image": "z_11zon.jpg_rotated_0.jpg"
+        },
+        "Issued District": {
+            "ocr_text": "",
+            "confidence": 0.0,
+            "crop_image_path": "",
+            "source_image": "z_11zon.jpg_rotated_0.jpg"
+        },
+        "Gender": {
+            "ocr_text": "",
+            "confidence": 0.0,
+            "crop_image_path": "",
+            "source_image": "z_11zon.jpg_rotated_0.jpg"
+        },
+        "Spouse Name": {
+            "ocr_text": "",
+            "confidence": 0.0,
+            "crop_image_path": "",
+            "source_image": "z_11zon.jpg_rotated_0.jpg"
+        },
+        "Grandfather's Name": {
+            "ocr_text": "",
+            "confidence": 0.0,
+            "crop_image_path": "",
+            "source_image": "z_11zon.jpg_rotated_0.jpg"
+        },
+        "Issued Date": {
+            "ocr_text": "",
+            "confidence": 0.0,
+            "crop_image_path": "",
+            "source_image": "z_11zon.jpg_rotated_0.jpg"
+        }
+    },
+    "confidences": {
+        "Name": 0.0,
+        "Father's Name": 0.0,
+        "Mother's Name": 0.0,
+        "Date of Birth": 0.0,
+        "Place of Birth": 0.0,
+        "Permanent Address": 0.0,
+        "Temporary Address": 0.0,
+        "Citizenship Number": 0.0,
+        "Issued District": 0.0,
+        "Gender": 0.0,
+        "Spouse Name": 0.0,
+        "Grandfather's Name": 0.0,
+        "Issued Date": 0.0
+    },
+    "annotated_path": "processed/47d4ca30-000c-4d6d-9dfc-cdd6864a6f0b/citizenship\\annotated_z_11zon.jpg_rotated_0.jpg"
+}

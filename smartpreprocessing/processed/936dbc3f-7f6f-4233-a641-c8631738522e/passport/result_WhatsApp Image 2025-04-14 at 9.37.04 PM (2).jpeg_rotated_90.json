@@ -1,0 +1,50 @@
+{
+    "fields": {
+        "Passport Number": {
+            "ocr_text": "12084097"
+        },
+        "Surname": {
+            "ocr_text": "THAKULLA KSHETRI"
+        },
+        "Given Name": {
+            "ocr_text": "PRITAN"
+        },
+        "Nationality": {
+            "ocr_text": "NPL"
+        },
+        "Date of Birth": {
+            "ocr_text": "12/08/2003"
+        },
+        "Place of Birth": {
+            "ocr_text": ""
+        },
+        "Sex": {
+            "ocr_text": "UNKNOWN"
+        },
+        "Date of Issue": {
+            "ocr_text": ""
+        },
+        "Date of Expiration": {
+            "ocr_text": "28/01/2031"
+        },
+        "Issuing Authority": {
+            "ocr_text": ""
+        },
+        "MRZ": {
+            "ocr_text": "PSMPLTHAKULLA<KSHETRI<<PRITAN<<<<<<<<<<<<<<<\n12084097<5NPL0308120H310128569017603320<<<94"
+        }
+    },
+    "confidences": {
+        "Passport Number": 0.9,
+        "Surname": 0.9,
+        "Given Name": 0.9,
+        "Nationality": 0.9,
+        "Date of Birth": 0.9,
+        "Place of Birth": 0.9,
+        "Sex": 0.9,
+        "Date of Issue": 0.9,
+        "Date of Expiration": 0.9,
+        "Issuing Authority": 0.9,
+        "MRZ": 0.9
+    }
+}

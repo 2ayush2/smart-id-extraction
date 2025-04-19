@@ -1,0 +1,15 @@
+[
+    {
+        "run_id": "6c9c5487-9f05-43cd-bb1a-c86a0765a076",
+        "document_type": "License",
+        "timestamp": "2025-04-18T20:47:01.159243",
+        "fields": {
+            "Name": "Nanef Moman Thapa Mashran",
+            "status": "No fields detected"
+        },
+        "confidences": {
+            "Name": 0.8,
+            "status": 0.0
+        }
+    }
+]

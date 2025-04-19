@@ -1,0 +1,29 @@
+[
+    {
+        "run_id": "4ce39c69-e2b4-46f3-ba3e-74544d2ab514",
+        "document_type": "Passport",
+        "timestamp": "2025-04-19T10:19:07.743691",
+        "fields": {
+            "Selfie": "Face detected",
+            "Passport Number": "12084097",
+            "Surname": "THAKULLA KSHETRI",
+            "Given Name": "PRITAN",
+            "Nationality": "NPL",
+            "Date of Birth": "12/08/2003",
+            "Sex": "M",
+            "Date of Expiration": "28/01/2031",
+            "MRZ": "P<NPLTHAKULLA<KSHETRI<<PRITAN<<<<<<<<<<<<<<<\n12084097<5NPL0308120M310128569017603320<<<94"
+        },
+        "confidences": {
+            "Selfie": 0.7678824067115784,
+            "Passport Number": 0.9,
+            "Surname": 0.9,
+            "Given Name": 0.9,
+            "Nationality": 0.9,
+            "Date of Birth": 0.9,
+            "Sex": 0.9,
+            "Date of Expiration": 0.9,
+            "MRZ": 0.9
+        }
+    }
+]

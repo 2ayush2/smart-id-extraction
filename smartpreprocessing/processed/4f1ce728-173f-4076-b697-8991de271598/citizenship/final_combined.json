@@ -1,0 +1,17 @@
+[
+    {
+        "run_id": "4f1ce728-173f-4076-b697-8991de271598",
+        "document_type": "Citizenship",
+        "timestamp": "2025-04-18T20:55:05.846559",
+        "fields": {
+            "Gender": "Male",
+            "Citizenship Number": "2000112",
+            "status": "No fields detected"
+        },
+        "confidences": {
+            "Gender": 0.8,
+            "Citizenship Number": 0.8,
+            "status": 0.0
+        }
+    }
+]
